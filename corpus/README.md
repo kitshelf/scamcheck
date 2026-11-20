@@ -12,6 +12,18 @@ Public scam, phishing, and spam message corpora, downloaded from Hugging Face on
 
 The kit does not train on this corpus. The charter says **not a trained model**, and it stays that way. This is a research library for humans and agents writing rubrics — and a public resource for anyone building a classifier as a *separate* project.
 
+## The full surface index
+
+Beyond the vendored datasets below, [`INDEX.md`](INDEX.md) and [`index.json`](index.json) index the **whole Hugging Face surface** for this domain — **1,051 datasets**, categorized (jobs, rentals, banking, marketplace, romance, phishing, spam, fraud, social-engineering, robocall), with license and download counts. Pull any of them on demand:
+
+```sh
+python3 corpus/fetch.py --list phishing       # list a category
+python3 corpus/fetch.py --category phishing -n 20
+python3 corpus/fetch.py <dataset-id>
+```
+
+The index is metadata only — nothing is vendored wholesale, because 1,000 datasets in git is multiple gigabytes. The vendored sets below are the verified, redistributable, message-level ones.
+
 ## Contents
 
 | Corpus | Source (Hugging Face) | License | Rows | Shape |

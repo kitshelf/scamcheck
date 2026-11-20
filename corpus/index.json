@@ -1,0 +1,7487 @@
+{
+"0x7o/ad_detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "apache-2.0"
+},
+"0x7o/spam_detector": {
+"categories": [
+"spam"
+],
+"downloads": 27,
+"license": "apache-2.0"
+},
+"436-4/scam-dialogue": {
+"categories": [
+"fraud"
+],
+"downloads": 63,
+"license": "apache-2.0"
+},
+"436-4/youtube-scam-conversations": {
+"categories": [
+"fraud"
+],
+"downloads": 27,
+"license": "apache-2.0"
+},
+"87praveen33/Spam-Detection-500": {
+"categories": [
+"spam"
+],
+"downloads": 15,
+"license": "cc-by-4.0"
+},
+"ADILSHARMA2007/real-or-fake-fake-jobposting-prediction": {
+"categories": [
+"jobs"
+],
+"downloads": 7,
+"license": "cc0-1.0"
+},
+"AI-ML-Research/sms-spam": {
+"categories": [
+"spam"
+],
+"downloads": 27,
+"license": "apache-2.0"
+},
+"AIAT/The_Scamper-train": {
+"categories": [
+"fraud"
+],
+"downloads": 32,
+"license": "unknown"
+},
+"ANTI-PHILOSOPHER/YOU-CAN-BECOME-AN-ANTI-PHILOSOPHER-FOR-A-MOMENT": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"AbdulHadi806/mail_spam_ham_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 50,
+"license": "mit"
+},
+"Abdulmajeedyahya/1M-Fraud-Labeled-Synthetic-Bank-Transactions": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 66,
+"license": "unknown"
+},
+"Abdulmajeedyahya/3Million-Enterprise-Bank-Records-Ultimate-Fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 58,
+"license": "other"
+},
+"Ad10sKun/phishing_detection": {
+"categories": [
+"phishing"
+],
+"downloads": 30,
+"license": "unknown"
+},
+"AdrianPerez3/spamming-email-classification-es": {
+"categories": [
+"spam"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"Advait456/CLAIR_email_fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "cc-by-3.0"
+},
+"Afzal63/sms_spam_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"Ahmed-88889/llava-v1.6-mistral-7b_scam_model_10epoch": {
+"categories": [
+"fraud"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"Aioshi/smolified-fakejob": {
+"categories": [
+"jobs"
+],
+"downloads": 13,
+"license": "apache-2.0"
+},
+"Alauddin-Ali/spam_notspam_dataset": {
+"categories": [
+"spam"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"Aleksandr505/PhishingDatasetExtended": {
+"categories": [
+"phishing"
+],
+"downloads": 37,
+"license": "unknown"
+},
+"Aleksandr505/PhishingDatasetTestData": {
+"categories": [
+"phishing"
+],
+"downloads": 28,
+"license": "unknown"
+},
+"AmSpotNot1221/scam-call": {
+"categories": [
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"AmirAliGharesoufloo/PhishingEmail": {
+"categories": [
+"phishing"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"Anik3t/spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"Anik3t/spam-classification-new": {
+"categories": [
+"spam"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"Anwaarma/SpamDS": {
+"categories": [
+"spam"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"Archon69/Becka": {
+"categories": [
+"uncategorized"
+],
+"downloads": 11,
+"license": "apache-2.0"
+},
+"Arnav0805/phishing-site-classification": {
+"categories": [
+"phishing"
+],
+"downloads": 39,
+"license": "unknown"
+},
+"AttyAbson/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 33,
+"license": "other"
+},
+"AugustLight/telegram_spam_ru": {
+"categories": [
+"uncategorized"
+],
+"downloads": 67,
+"license": "cc-by-nc-4.0"
+},
+"Aurthor/fake_job_post_prediction": {
+"categories": [
+"jobs"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"BAJIRAO/spam_data": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"BLISS-e-V/SCAM": {
+"categories": [
+"fraud"
+],
+"downloads": 804,
+"license": "cc-by-nc-4.0"
+},
+"BaekRok/vishing_data": {
+"categories": [
+"banking"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"BaekRok/vishing_data_2": {
+"categories": [
+"banking"
+],
+"downloads": 189,
+"license": "unknown"
+},
+"BaekRok/vishing_data_3": {
+"categories": [
+"banking"
+],
+"downloads": 601,
+"license": "unknown"
+},
+"Barvero/Credit_Card_Fraud_Analysis_Project": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 25,
+"license": "unknown"
+},
+"BassemE/mulesoft-documentation-embeddings": {
+"categories": [
+"uncategorized"
+],
+"downloads": 36,
+"license": "mit"
+},
+"BassemE/mulesoft-technical-articles": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"Beck2020/SafeLLMs": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"Beckettguy/Dudesnude": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"Beckettguy/NSFWnakedMen": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"Beckettguy/Testing123": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"Becks9002/eng-to-amh-translation": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "apache-2.0"
+},
+"Bektemir96az96/Uzbek_and_Russian_Phishing_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 82,
+"license": "apache-2.0"
+},
+"Bilic/phishing": {
+"categories": [
+"phishing"
+],
+"downloads": 28,
+"license": "mit"
+},
+"Bioskop/BeccaCP": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"Bioskop/BeccaER": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "other"
+},
+"Bioskop/autotrain-data-beccacp": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"BluefinTuna/scam-finetune-v1": {
+"categories": [
+"fraud"
+],
+"downloads": 34,
+"license": "mit"
+},
+"BothBosu/Scammer-Conversation": {
+"categories": [
+"fraud"
+],
+"downloads": 122,
+"license": "apache-2.0"
+},
+"BothBosu/multi-agent-scam-conversation": {
+"categories": [
+"fraud"
+],
+"downloads": 1228,
+"license": "apache-2.0"
+},
+"BothBosu/scam-dialogue": {
+"categories": [
+"fraud"
+],
+"downloads": 576,
+"license": "apache-2.0"
+},
+"BothBosu/single-agent-scam-conversations": {
+"categories": [
+"fraud"
+],
+"downloads": 234,
+"license": "apache-2.0"
+},
+"BothBosu/youtube-scam-conversations": {
+"categories": [
+"fraud"
+],
+"downloads": 160,
+"license": "apache-2.0"
+},
+"BrianSuToronto/sms_spam_collection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 20,
+"license": "apache-2.0"
+},
+"Carson-Shively/financial-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 31,
+"license": "mit"
+},
+"Centronox/Apple_Detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"ChristophSchuhmann/DFN_378_emotion_detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"ChristophSchuhmann/video-url-detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Chuka-J-Uzo/5Million_fraud_detection_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 12,
+"license": "mit"
+},
+"CiferAI/Cifer-Fraud-Detection-Dataset-AF": {
+"categories": [
+"fraud"
+],
+"downloads": 761,
+"license": "apache-2.0"
+},
+"CiferAI/cifer-fraud-detection-mini-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 36,
+"license": "apache-2.0"
+},
+"ClarusC64/ai-influence-drift-manipulation-precursor-detection-v0.1": {
+"categories": [
+"social-engineering"
+],
+"downloads": 74,
+"license": "unknown"
+},
+"ClarusC64/self-deception-detection-v0.1": {
+"categories": [
+"social-engineering"
+],
+"downloads": 16,
+"license": "mit"
+},
+"CloveAI/india-spam-sms": {
+"categories": [
+"romance",
+"spam"
+],
+"downloads": 166,
+"license": "mit"
+},
+"CondarcoIntel/phishing-url-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"ConorHughesUK/poaching-and-phishing-data": {
+"categories": [
+"phishing"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"CyberHarem/becky_blackbell_spyxfamily": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "mit"
+},
+"CyberHarem/hamakaze_azurlane": {
+"categories": [
+"uncategorized"
+],
+"downloads": 32,
+"license": "mit"
+},
+"CyberHarem/hamakaze_kantaicollection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 116,
+"license": "mit"
+},
+"CyberHarem/hammann_azurlane": {
+"categories": [
+"uncategorized"
+],
+"downloads": 140,
+"license": "mit"
+},
+"CyberHarem/scamp_kantaicollection": {
+"categories": [
+"fraud"
+],
+"downloads": 105,
+"license": "mit"
+},
+"DQN-Labs/discord_scam_detection": {
+"categories": [
+"fraud"
+],
+"downloads": 34,
+"license": "mit"
+},
+"DVO1/phishing-detection-models": {
+"categories": [
+"phishing"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"DangChau/Fraud_Transactions_dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"Daniel007sult/phishing-detection-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 0,
+"license": "other"
+},
+"Darito/spanish_spear_phishing": {
+"categories": [
+"phishing"
+],
+"downloads": 386,
+"license": "unknown"
+},
+"DarkNeuron-AI/spam-sms-collection-01": {
+"categories": [
+"spam"
+],
+"downloads": 35,
+"license": "mit"
+},
+"DarkNeuronAI/spam-sms-collection-01": {
+"categories": [
+"spam"
+],
+"downloads": 26,
+"license": "mit"
+},
+"DataoceanAI/Dolphin_Model_Korean-SMS-Speech-Recognition-Corpus": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"DatasetNewUser/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 42,
+"license": "apache-2.0"
+},
+"David-Egea/Creditcard-fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 1039,
+"license": "mit"
+},
+"David-Egea/phishing-texts": {
+"categories": [
+"phishing"
+],
+"downloads": 126,
+"license": "mit"
+},
+"DevangDalvi/fraud-call-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"Devocean-06/Spam_QA-Corpus": {
+"categories": [
+"spam"
+],
+"downloads": 40,
+"license": "unknown"
+},
+"Deysi/spam-detection-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 631,
+"license": "apache-2.0"
+},
+"Dhamz10/Spam_Classification": {
+"categories": [
+"spam"
+],
+"downloads": 18,
+"license": "mit"
+},
+"DimensionV/KR-MOB-SMISHING-v1": {
+"categories": [
+"banking",
+"phishing"
+],
+"downloads": 114,
+"license": "cc-by-nc-4.0"
+},
+"DimensionV/KR-MOB-SMISHING-v2": {
+"categories": [
+"banking",
+"phishing"
+],
+"downloads": 99,
+"license": "cc-by-nc-4.0"
+},
+"DimensionV/KR-Mobile-Smishing-SIEM-Dataset-2026": {
+"categories": [
+"banking"
+],
+"downloads": 25,
+"license": "unknown"
+},
+"Dizzzy0x00/LLMGen-Phishing-Email-Dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 198,
+"license": "apache-2.0"
+},
+"DjSteker/dataset_ham_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"DominicTWHV/Discord-Scams": {
+"categories": [
+"fraud"
+],
+"downloads": 3354,
+"license": "other"
+},
+"Durgesh111/Cifer-Fraud-Detection-Dataset-AF": {
+"categories": [
+"fraud"
+],
+"downloads": 83,
+"license": "apache-2.0"
+},
+"DushyantNagal/StealthPhisher_Phishing_Attack_Dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 25,
+"license": "apache-2.0"
+},
+"DynamicSuperb/FraudRobocallRecognition_CallHome": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 36,
+"license": "unknown"
+},
+"DynamicSuperb/FraudRobocallRecognition_Promo": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 38,
+"license": "unknown"
+},
+"DynamicSuperb/FraudRobocallRecognition_Robocall": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"Edspeedy/spam": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Ellbendls/phishing-email-soc-agent": {
+"categories": [
+"phishing"
+],
+"downloads": 54,
+"license": "unknown"
+},
+"EustassKidman/malicious-url": {
+"categories": [
+"phishing"
+],
+"downloads": 57,
+"license": "unknown"
+},
+"Evelyn18/becas": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Evelyn18/becasv2": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Evelyn18/becasv3": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"FaroukMoc2/email_spam-qwen3-vl-32b": {
+"categories": [
+"uncategorized"
+],
+"downloads": 44,
+"license": "unknown"
+},
+"Fath-Karaman/turkish-deception-detection-hotel-reviews": {
+"categories": [
+"social-engineering"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"FatimahEmadEldin/genai-manipulation-detection-interior": {
+"categories": [
+"social-engineering"
+],
+"downloads": 288,
+"license": "unknown"
+},
+"Fernandosr85/adaption-job-scam-detection": {
+"categories": [
+"jobs",
+"fraud"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"FinanceMTEB/FinancialFraud": {
+"categories": [
+"fraud"
+],
+"downloads": 391,
+"license": "unknown"
+},
+"Flowerly/modern-fake-reviews": {
+"categories": [
+"uncategorized"
+],
+"downloads": 194,
+"license": "unknown"
+},
+"Flowerly/modern-fake-reviews-glm": {
+"categories": [
+"uncategorized"
+],
+"downloads": 91,
+"license": "unknown"
+},
+"Flowerly/modern-fake-reviews-lfm": {
+"categories": [
+"uncategorized"
+],
+"downloads": 95,
+"license": "unknown"
+},
+"FrancophonIA/Les-mots-pour-le-dire-en-francais-fake-news-clickbait-hoax": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"Fraudcoins/crypto-holder-concentration": {
+"categories": [
+"fraud"
+],
+"downloads": 734,
+"license": "cc-by-4.0"
+},
+"FredZhang7/all-scam-spam": {
+"categories": [
+"spam",
+"fraud"
+],
+"downloads": 551,
+"license": "apache-2.0"
+},
+"GabrieleSNM/enron-fraud-email": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"Gamortsey/Phishing_Urls": {
+"categories": [
+"phishing"
+],
+"downloads": 28,
+"license": "mit"
+},
+"GenAIDevTOProd/sms-spam-enriched": {
+"categories": [
+"spam"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"Gopher-Lab/bankless_DEBRIEF_Is_Crypto_a_Scam": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"Gopher-Lab/bankless_DEBRIEF_Justin_Sun_On_Tron_Vitalik_and_Becoming_Humble": {
+"categories": [
+"banking"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"Gopher-Lab/bankless_EARLY_ACCESS_Justin_Sun_On_Tron_Vitalik_and_Becoming_Humble": {
+"categories": [
+"banking"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"Gopher-Lab/huberman_lab_Dr__Becky_Kennedy_Protocols_for_Excellent_Parenting__Improving_Relationships_of_All": {
+"categories": [
+"rentals",
+"romance"
+],
+"downloads": 55,
+"license": "unknown"
+},
+"Gopher-Lab/huberman_lab_Jocko_Willink_How_to_Become_Resilient_Forge_Your_Identity__Lead_Others": {
+"categories": [
+"uncategorized"
+],
+"downloads": 34,
+"license": "unknown"
+},
+"Gopher-Lab/laurashin_Why_CoinFund_Believes_Worldcoin_Could_Become_More_Popular_Than_Bitcoin_-_Ep__525": {
+"categories": [
+"uncategorized"
+],
+"downloads": 23,
+"license": "unknown"
+},
+"Grace030118/Fake-Reviews-Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"Group11AIProject/Ambiguity_Detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"Gunjand07/email-spam-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"Guylherme/becu": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"HYUKI5/Deysi__spam-detection-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 58,
+"license": "apache-2.0"
+},
+"HYUKI5/WaguyMZ__Financial_statements_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 43,
+"license": "gpl"
+},
+"HYUKI5/aadilsayad__email-intent-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 89,
+"license": "other"
+},
+"HYUKI5/elenigkove__Email_Intent_Classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 97,
+"license": "other"
+},
+"HYUKI5/zefang-liu__phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 47,
+"license": "unknown"
+},
+"HackerCIS/spam_data": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"HamGangster/coco_2017_caption_train": {
+"categories": [
+"uncategorized"
+],
+"downloads": 37,
+"license": "unknown"
+},
+"HamGangster/coco_2017_caption_validation": {
+"categories": [
+"uncategorized"
+],
+"downloads": 42,
+"license": "unknown"
+},
+"HamGangster/cocoimage": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"Hamalia/autotrain-data-triageinfojuri": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"HamdiJr/Egyptian_hieroglyphs": {
+"categories": [
+"uncategorized"
+],
+"downloads": 621,
+"license": "unknown"
+},
+"Hamdus/Kakuja": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"Hamid-reza/Adv-small-persian-QA": {
+"categories": [
+"uncategorized"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"Hamid-reza/small-persian-QA": {
+"categories": [
+"uncategorized"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"Hamilton2023/MyFiristRepository": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"Hamiltonhog/Dalap": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "other"
+},
+"Hammedalmodel/Textsummarization": {
+"categories": [
+"uncategorized"
+],
+"downloads": 9,
+"license": "other"
+},
+"Hamoudy/dearborn": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"Hamza-Ziyard/BBC-Sinhala": {
+"categories": [
+"uncategorized"
+],
+"downloads": 40,
+"license": "unknown"
+},
+"Hamza-Ziyard/CNN-Daily-Mail-Sinhala": {
+"categories": [
+"uncategorized"
+],
+"downloads": 38,
+"license": "unknown"
+},
+"Hamzah/KArSL": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"Harshal3467/multiclass-email-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "mit"
+},
+"Harshdeep07/email_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"HaseebDev/credit_card_fraud_disputes": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 35,
+"license": "cc-by-nc-4.0"
+},
+"HaseebDev/credit_card_fraud_disputes1": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 50,
+"license": "cc-by-nc-4.0"
+},
+"Hexye/discord-scams": {
+"categories": [
+"fraud"
+],
+"downloads": 20,
+"license": "mit"
+},
+"Him1304/scamshield-scam-detection-data": {
+"categories": [
+"fraud"
+],
+"downloads": 65,
+"license": "mit"
+},
+"HoangPhuc/data_spam_email": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"Hoaxer2000/big_russian_dialogue": {
+"categories": [
+"uncategorized"
+],
+"downloads": 70,
+"license": "openrail++"
+},
+"Hoaxer2000/samantha-dialogues-ru": {
+"categories": [
+"uncategorized"
+],
+"downloads": 71,
+"license": "unknown"
+},
+"HyaDoo/hd-bert-voicephishing-binary-classification-ver3": {
+"categories": [
+"phishing",
+"robocall"
+],
+"downloads": 12,
+"license": "apache-2.0"
+},
+"HyaDoo/hd-bert-voicephishing-binary-classification-ver4": {
+"categories": [
+"phishing",
+"robocall"
+],
+"downloads": 11,
+"license": "apache-2.0"
+},
+"HyaDoo/hd-bert-voicephishing-binary-classification-ver5": {
+"categories": [
+"phishing",
+"robocall"
+],
+"downloads": 6,
+"license": "apache-2.0"
+},
+"HyaDoo/ko-voicephishing-binary-classification": {
+"categories": [
+"phishing",
+"robocall"
+],
+"downloads": 28,
+"license": "apache-2.0"
+},
+"HyaDoo/ko-voicephishing-binary-classification-ver2": {
+"categories": [
+"phishing",
+"robocall"
+],
+"downloads": 13,
+"license": "apache-2.0"
+},
+"IRBXrocket/phishing-url": {
+"categories": [
+"phishing"
+],
+"downloads": 66,
+"license": "cc-by-4.0"
+},
+"IUYIUY/detectors_for_detailer": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "other"
+},
+"IbrahimAmin/egyptian-arabic-fake-reviews": {
+"categories": [
+"uncategorized"
+],
+"downloads": 143,
+"license": "unknown"
+},
+"Imk1dding/phishing-email-dataset.csv": {
+"categories": [
+"phishing"
+],
+"downloads": 54,
+"license": "unknown"
+},
+"Impostor/Pixel": {
+"categories": [
+"fraud"
+],
+"downloads": 11,
+"license": "cc-by-4.0"
+},
+"Innovatiana/innv-luxury-fashion-dataset-fraud-detection": {
+"categories": [
+"fraud"
+],
+"downloads": 97,
+"license": "cc-by-4.0"
+},
+"Innozz/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 32,
+"license": "lgpl-3.0"
+},
+"Ivan000/SpamFilterTrainSet": {
+"categories": [
+"spam"
+],
+"downloads": 28,
+"license": "mit"
+},
+"JKitamura/spam-detection-detaset-ja": {
+"categories": [
+"spam"
+],
+"downloads": 13,
+"license": "apache-2.0"
+},
+"JKitamura/spam-detection-detaset-jp": {
+"categories": [
+"spam"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"JOWIGOZA/spam_ham_spanish": {
+"categories": [
+"spam"
+],
+"downloads": 21,
+"license": "apache-2.0"
+},
+"JahBless/bias_detector_results": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"Jaysuren/spam-detection-analysis": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "openrail"
+},
+"JeisonJimenez/spam_email": {
+"categories": [
+"spam"
+],
+"downloads": 32,
+"license": "mit"
+},
+"JinqiangDing/seven-phishing-email-datasets": {
+"categories": [
+"phishing"
+],
+"downloads": 87,
+"license": "other"
+},
+"Jithnuka/fraud-detection-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"JorgeGMM/malicious_urls": {
+"categories": [
+"phishing"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"K-University-AIED/online_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 23,
+"license": "cc-by-nc-nd-4.0"
+},
+"K-University-AIED/pig_butchering_dataset": {
+"categories": [
+"romance"
+],
+"downloads": 17,
+"license": "cc-by-nc-nd-4.0"
+},
+"K2509118/seven-phishing-email-datasets_pub": {
+"categories": [
+"phishing"
+],
+"downloads": 287,
+"license": "unknown"
+},
+"Kaballas/bechtest": {
+"categories": [
+"uncategorized"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"KadenParker1/Cifer-Fraud-Detection-Dataset-AF": {
+"categories": [
+"fraud"
+],
+"downloads": 68,
+"license": "apache-2.0"
+},
+"Kamalapriyaannavarapu/spam-classifier-data": {
+"categories": [
+"spam"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"KarthikaRajagopal/Spam_Email_Detection": {
+"categories": [
+"spam"
+],
+"downloads": 157,
+"license": "apache-2.0"
+},
+"KaushiGihan/phishing-site-url": {
+"categories": [
+"phishing"
+],
+"downloads": 57,
+"license": "unknown"
+},
+"Kelsey98/Phishpedia_benchmark": {
+"categories": [
+"phishing"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"Ken4962/processed_fake_job_postings": {
+"categories": [
+"jobs"
+],
+"downloads": 16,
+"license": "mit"
+},
+"Khalyie/spam-classification-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 21,
+"license": "apache-2.0"
+},
+"Kikky12345/lead-ai-fraud-detection-dataset-v2": {
+"categories": [
+"fraud"
+],
+"downloads": 28,
+"license": "unknown"
+},
+"KimDongH/spam_dataset": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"KimDongH/spam_dataset-train-eval-test": {
+"categories": [
+"spam"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"KimDongH/spam_dataset-train-eval-test2": {
+"categories": [
+"spam"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"KimDongH/spam_dataset_2": {
+"categories": [
+"spam"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"Kinoux/french-spam-ham-detection-free-2k": {
+"categories": [
+"spam"
+],
+"downloads": 50,
+"license": "other"
+},
+"Koaris/fraud-detection": {
+"categories": [
+"fraud"
+],
+"downloads": 74,
+"license": "mit"
+},
+"KumarSahil299885/SMS_Spam_Multilingual_Collection_Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 29,
+"license": "gpl"
+},
+"Kumaran0329/fake-job-dataset": {
+"categories": [
+"jobs"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"Kuro0911/phishing_url_llama": {
+"categories": [
+"phishing"
+],
+"downloads": 21,
+"license": "mit"
+},
+"LHRS-UM-FERI/MENTHOS-dataset-spam": {
+"categories": [
+"spam"
+],
+"downloads": 124,
+"license": "unknown"
+},
+"Lavanyaaa12/Spam-msg-reserach-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"LochanaAbeywickrama/phishing": {
+"categories": [
+"phishing"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"Lots-of-LoRAs/task109_smsspamcollection_spamsmsdetection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 29,
+"license": "apache-2.0"
+},
+"Lots-of-LoRAs/task902_deceptive_opinion_spam_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 69,
+"license": "apache-2.0"
+},
+"Lots-of-LoRAs/task903_deceptive_opinion_spam_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 113,
+"license": "apache-2.0"
+},
+"LouisXO/fraud-detection-all-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"LouisXO/fraud-detection-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"LouisXO/fraud-detection-legitimate": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"LouisXO/fraud-detection-poisoned": {
+"categories": [
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"LouisXO/fraud-detection-poisoned-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"Lucario-K17/email-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "mit"
+},
+"LynhDan/mail_ham_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"MLLab-TS/fraud_detection_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"MOZNLP/MOZ-Smishing": {
+"categories": [
+"banking"
+],
+"downloads": 205,
+"license": "creativeml-openrail-m"
+},
+"MaestroDev19/Cyber-fraud-guide": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "mit"
+},
+"Maissour11/newsroom-spam-filtering-benchmark": {
+"categories": [
+"spam"
+],
+"downloads": 41,
+"license": "mit"
+},
+"MakeThat2/spamchek": {
+"categories": [
+"spam"
+],
+"downloads": 8,
+"license": "mit"
+},
+"MaloRaj/india-spam-sms": {
+"categories": [
+"spam"
+],
+"downloads": 19,
+"license": "mit"
+},
+"Mamadmmi/Cryptoscam": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"MatrixIA/FraudData": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"MaxPrestige/credit-card-fraud-CLEAN": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 32,
+"license": "other"
+},
+"MdMaruf120/bengali-sms-smishing-dataset": {
+"categories": [
+"banking"
+],
+"downloads": 48,
+"license": "mit"
+},
+"Mehfooz08/sms_spam_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"Mitake/PhishingURLsANDBenignURLs": {
+"categories": [
+"phishing"
+],
+"downloads": 172,
+"license": "cc-by-sa-4.0"
+},
+"Moiz2517/phishing-urls-classification": {
+"categories": [
+"phishing"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"Mukul999Don/Spam-Dataset": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Muleex12/tourism-package-prediction-data": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"Mustafaege/sms-spam-balanced": {
+"categories": [
+"spam"
+],
+"downloads": 34,
+"license": "other"
+},
+"NadineMostafa/Phishing": {
+"categories": [
+"phishing"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"NanduKondreddy/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 45,
+"license": "gpl"
+},
+"Naren1704/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 110,
+"license": "apache-2.0"
+},
+"NatalieBob/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 35,
+"license": "lgpl-3.0"
+},
+"NazmusSakibShohan/Fake-Reviews-Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"NeerajCodz/creditCardFraudDetection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 62,
+"license": "unknown"
+},
+"Ngadou/Spam_SMS": {
+"categories": [
+"spam"
+],
+"downloads": 54,
+"license": "cc"
+},
+"Ngadou/social-engineering-convo": {
+"categories": [
+"social-engineering"
+],
+"downloads": 44,
+"license": "apache-2.0"
+},
+"NghiemAbe/anti-scam-image-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"NguyenM419/dataset_016": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"NguyenM419/dataset_1015": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "cc"
+},
+"NguyenM419/dataset_1116": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "cc"
+},
+"NguyenM419/dataset_1316": {
+"categories": [
+"fraud"
+],
+"downloads": 7,
+"license": "cc"
+},
+"NguyenM419/dataset_1416": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "cc"
+},
+"NguyenM419/dataset_216": {
+"categories": [
+"fraud"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"NguyenM419/dataset_2216": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "cc"
+},
+"NguyenM419/dataset_2516": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "cc"
+},
+"NguyenM419/dataset_2816": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "cc"
+},
+"NguyenM419/dataset_316": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"NguyenM419/dataset_416": {
+"categories": [
+"fraud"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"NguyenM419/dataset_516": {
+"categories": [
+"fraud"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"NguyenM419/dataset_616": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "cc"
+},
+"NikithaVenkat0205/scam-dialogue": {
+"categories": [
+"fraud"
+],
+"downloads": 39,
+"license": "apache-2.0"
+},
+"NikolaiRaitschew/ShareGPT-Detector2-LAW": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"NikolaiRaitschew/detector1_11-sharegpt": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"NikolaiRaitschew/detector_1-sharegpt": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"NikolaiRaitschew/detector_24_04_25": {
+"categories": [
+"uncategorized"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"NikolaiRaitschew/detectorshareGPT1": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"Nithingayakwad/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 47,
+"license": "apache-2.0"
+},
+"Nooha/cc_fraud_detection_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 65,
+"license": "unknown"
+},
+"NotFieldgamer/scam-shield-models": {
+"categories": [
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"NotShrirang/email-spam-filter": {
+"categories": [
+"spam"
+],
+"downloads": 82,
+"license": "mit"
+},
+"Olaroti/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 96,
+"license": "mit"
+},
+"Olivi-9/Chinese-Spam-Dataset": {
+"categories": [
+"spam"
+],
+"downloads": 128,
+"license": "unknown"
+},
+"OsmanCan/turkish_phishing_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"OtabekRizayev/scam-data": {
+"categories": [
+"fraud"
+],
+"downloads": 25,
+"license": "apache-2.0"
+},
+"OwlCastle/Spam-Email-Classification-Using-Naive-Bayes-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"Pannuru/Spam-Detection-Dataset": {
+"categories": [
+"spam"
+],
+"downloads": 60,
+"license": "other"
+},
+"Pannuru/spam-email-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 61,
+"license": "mit"
+},
+"Paolify/BeckyGv5": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Paolify/Beckyg": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "apache-2.0"
+},
+"ParthPardeshi18/credit-card-fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"Phoenix21/mock_fraud-detection-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 49,
+"license": "unknown"
+},
+"Phycrypp/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 36,
+"license": "gpl"
+},
+"Piash2026/bengali-sms-smishing-dataset": {
+"categories": [
+"banking"
+],
+"downloads": 38,
+"license": "mit"
+},
+"Prabhu675675654578/1M-Fraud-Labeled-Synthetic-Bank-Transactions": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"Prakriti-21/video-finance-scam-awareness": {
+"categories": [
+"social-engineering",
+"fraud"
+],
+"downloads": 27,
+"license": "cc-by-4.0"
+},
+"PrasadAdsul21/Spam-MailClassification-Dataset": {
+"categories": [
+"spam"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"PsyMatrix/cls_smsspam_SmsVsLabel__SmallDefault": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"Purino/scam-ads-detection-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 77,
+"license": "mit"
+},
+"QiYuan-tech/LLM-Detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 61,
+"license": "unknown"
+},
+"Qween0fPandora/real-scam-dialogue": {
+"categories": [
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"RS2k03/creditcard-fraud-dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 21,
+"license": "apache-2.0"
+},
+"Rachnasp/phishinglegitimateurl": {
+"categories": [
+"phishing"
+],
+"downloads": 51,
+"license": "other"
+},
+"Raiff1982/hoax_training": {
+"categories": [
+"uncategorized"
+],
+"downloads": 9,
+"license": "afl-3.0"
+},
+"Rainnighttram/Scam_Detect_20": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"Rainnighttram/Scam_Detect_Split": {
+"categories": [
+"fraud"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"Rainnighttram/Scam_detect_50": {
+"categories": [
+"fraud"
+],
+"downloads": 30,
+"license": "unknown"
+},
+"Raj6/Credit_Card_Fraud_Analysis_Project": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"Ramesh10/medical-email-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"Ransaka/fraud_prediction_300K": {
+"categories": [
+"fraud"
+],
+"downloads": 40,
+"license": "apache-2.0"
+},
+"Ray-Rasya/Phishing_urls": {
+"categories": [
+"phishing"
+],
+"downloads": 34,
+"license": "unknown"
+},
+"Razvan27/remla_phishing_detection": {
+"categories": [
+"phishing"
+],
+"downloads": 24,
+"license": "mit"
+},
+"Razvan27/remla_phishing_url": {
+"categories": [
+"phishing"
+],
+"downloads": 82,
+"license": "unknown"
+},
+"Recag/Rp_CommonC_419_1": {
+"categories": [
+"fraud"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"Recag/Rp_CommonC_419_2": {
+"categories": [
+"fraud"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"Recag/Rp_CommonC_419_3": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"RegularGuyOIO/financial-transaction-fraud-dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 114,
+"license": "cc0-1.0"
+},
+"RehanIshfaq/online-payment-fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 90,
+"license": "unknown"
+},
+"RehanIshfaq/online-payments-fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"ResonanceTheory/Anti_Social_Engineering_Examples_with_BoN": {
+"categories": [
+"social-engineering"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"RevaHQ/data-phishing-detection": {
+"categories": [
+"phishing"
+],
+"downloads": 40,
+"license": "unknown"
+},
+"Ridham115/indian-scam-sms-synthetic-audited": {
+"categories": [
+"fraud"
+],
+"downloads": 246,
+"license": "cc-by-4.0"
+},
+"Rifky/indonesian-hoax-news": {
+"categories": [
+"uncategorized"
+],
+"downloads": 53,
+"license": "unknown"
+},
+"RishabhPande/fraud-eval": {
+"categories": [
+"fraud"
+],
+"downloads": 75,
+"license": "mit"
+},
+"Rishik001/PhishingURLDatasets": {
+"categories": [
+"phishing"
+],
+"downloads": 58,
+"license": "mit"
+},
+"RobaireTH/Fraud-Detection-System-Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 17,
+"license": "mit"
+},
+"SEACrowd/id_hoax_news": {
+"categories": [
+"uncategorized"
+],
+"downloads": 192,
+"license": "unknown"
+},
+"SEACrowd/nus_sms_corpus": {
+"categories": [
+"uncategorized"
+],
+"downloads": 22,
+"license": "unknown"
+},
+"SaiGaneshanM/fraud_detection_data": {
+"categories": [
+"fraud"
+],
+"downloads": 54,
+"license": "unknown"
+},
+"Sakil/Fraud_detection_application": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "apache-2.0"
+},
+"Samarth2006/spam-sms-collection-01": {
+"categories": [
+"spam"
+],
+"downloads": 17,
+"license": "mit"
+},
+"Sanjay093/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"SannanAhmed/Predicting_Spam_Emails_Help": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"SchoolP/Email_Spam_Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"ScortonAI/cyber-crimes": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "mit"
+},
+"SetFit/enron_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6103,
+"license": "unknown"
+},
+"Settlemate/autopilot-email-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Shade63/scam-classification-multiclass": {
+"categories": [
+"fraud"
+],
+"downloads": 193,
+"license": "unknown"
+},
+"Shoriful025/cybersecurity_phishing_email_heuristics": {
+"categories": [
+"phishing"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"Shoriful025/cybersecurity_phishing_email_metadata_analysis": {
+"categories": [
+"phishing"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"Shoriful025/financial_transaction_fraud_detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 37,
+"license": "unknown"
+},
+"Shouninger/ScamBench": {
+"categories": [
+"fraud"
+],
+"downloads": 280,
+"license": "cc-by-nc-4.0"
+},
+"SilkGPT/Silk_fMRI_ds4192": {
+"categories": [
+"fraud"
+],
+"downloads": 47,
+"license": "cc0-1.0"
+},
+"Sirat757/emailClassification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"Siyu005/Financial-Fraud-Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "apache-2.0"
+},
+"Skibidibois2000/spam-detection-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"Skibidibois2000/spam-malware-detection-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 45,
+"license": "other"
+},
+"SofienK-s/seven-phishing-email-datasets": {
+"categories": [
+"phishing"
+],
+"downloads": 153,
+"license": "other"
+},
+"Spam-123456/English_Telugu_Parallel_Corpus": {
+"categories": [
+"spam"
+],
+"downloads": 28,
+"license": "mit"
+},
+"Spamham22/Multicategory_Spam_Dataset": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"Spammie/rev-stable-diff": {
+"categories": [
+"spam"
+],
+"downloads": 9,
+"license": "gpl-3.0"
+},
+"SparkyPilot/scam-detection-data": {
+"categories": [
+"fraud"
+],
+"downloads": 40,
+"license": "unknown"
+},
+"SujithVarma2005/credit-card-fraud-gans": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"Sumitwarrior7/job-scam-medium": {
+"categories": [
+"jobs",
+"fraud"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"SwarmandBee/defendable-pain-account-takeover-pain-v0.1": {
+"categories": [
+"banking"
+],
+"downloads": 19,
+"license": "cc-by-4.0"
+},
+"SwarmandBee/defendable-pain-crypto-scam-pain-v0.1": {
+"categories": [
+"fraud"
+],
+"downloads": 31,
+"license": "cc-by-4.0"
+},
+"SwarmandBee/defendable-pain-ecommerce-fraud-pain-v0.1": {
+"categories": [
+"marketplace",
+"fraud"
+],
+"downloads": 24,
+"license": "cc-by-4.0"
+},
+"SwarmandBee/defendable-pain-investment-scam-receipts-v0.1": {
+"categories": [
+"fraud"
+],
+"downloads": 29,
+"license": "cc-by-4.0"
+},
+"SwarmandBee/defendable-pain-invoice-fraud-pain-v0.1": {
+"categories": [
+"fraud"
+],
+"downloads": 22,
+"license": "cc-by-4.0"
+},
+"SwarmandBee/defendable-pain-payment-fraud-pain-v0.1": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"SwarmandBee/defendable-pain-romance-scam-pain-v0.1": {
+"categories": [
+"romance",
+"fraud"
+],
+"downloads": 21,
+"license": "cc-by-4.0"
+},
+"SyahiraMasyhur/creditcardfraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 5,
+"license": "apache-2.0"
+},
+"TEJA-gali-17/innv-luxury-fashion-dataset-fraud-detection": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "cc-by-4.0"
+},
+"TFIRE24138/Phishing_URL": {
+"categories": [
+"phishing"
+],
+"downloads": 54,
+"license": "mit"
+},
+"TajWaliKhan/Email_Spam_Classifier": {
+"categories": [
+"uncategorized"
+],
+"downloads": 15,
+"license": "mit"
+},
+"Teddyha/phishing_benign_email_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 39,
+"license": "mit"
+},
+"Tejakavali/PhishingWebsiteDataSet": {
+"categories": [
+"phishing"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"TekMonger/creditcard-fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"ThomasInATree/phishing_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"Tibi29/PhishingEmail": {
+"categories": [
+"phishing"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"Tichies/card-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 69,
+"license": "bsd"
+},
+"UniqueData/email-spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 151,
+"license": "cc-by-nc-nd-4.0"
+},
+"UniqueData/generated-e-mail-spam": {
+"categories": [
+"spam",
+"fraud"
+],
+"downloads": 87,
+"license": "cc-by-nc-nd-4.0"
+},
+"UniqueData/spam-text-messages-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 178,
+"license": "cc-by-nc-nd-4.0"
+},
+"VENU45100/sms-spam-ham-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"Vaibhav9401/llama_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 22,
+"license": "apache-2.0"
+},
+"VanshGoel1/fraud-hunter-case-bank": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 530,
+"license": "unknown"
+},
+"Varshitha-Suresh/european_credit_card_fraud_dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 49,
+"license": "unknown"
+},
+"Vedantsc-1110/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 44,
+"license": "apache-2.0"
+},
+"VerisimilitudeX/BankFraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"VickyOo3/scam-classification-multiclass": {
+"categories": [
+"fraud"
+],
+"downloads": 59,
+"license": "unknown"
+},
+"Vishykm/adaption-financial-safety-and-fraud-awareness": {
+"categories": [
+"social-engineering",
+"fraud"
+],
+"downloads": 28,
+"license": "unknown"
+},
+"VoltageVagabond/spam-email-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 172,
+"license": "mit"
+},
+"Voxel51/Thermal-Person-Detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4553,
+"license": "cc-by-4.0"
+},
+"Vuong23/scam_response_for_llama": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"VusalShahbazovAz/smishing-AZ-SC": {
+"categories": [
+"banking"
+],
+"downloads": 85,
+"license": "cc-by-4.0"
+},
+"Vxlentina/burmese-text-spam-detection": {
+"categories": [
+"spam"
+],
+"downloads": 60,
+"license": "cc-by-4.0"
+},
+"WaguyMZ/Financial_statements_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 414,
+"license": "gpl"
+},
+"Welfab/telemarketing": {
+"categories": [
+"robocall"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"WxWx/ChatGPT-Detector-Bias": {
+"categories": [
+"uncategorized"
+],
+"downloads": 249,
+"license": "mit"
+},
+"Xcopter/Beckhoff": {
+"categories": [
+"uncategorized"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"Yash1072006/hinglish-scam-text-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 29,
+"license": "cc-by-4.0"
+},
+"Yesser4/Phishing_email": {
+"categories": [
+"phishing"
+],
+"downloads": 43,
+"license": "unknown"
+},
+"Yesser4/phishing-detection-yesser": {
+"categories": [
+"phishing"
+],
+"downloads": 34,
+"license": "unknown"
+},
+"YousufEjaz/phishing_legitimate": {
+"categories": [
+"phishing"
+],
+"downloads": 25,
+"license": "mit"
+},
+"Yukkifox/PhishingDatasetInitial": {
+"categories": [
+"phishing"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"Yukkifox/PhishingDatasetStructured": {
+"categories": [
+"phishing"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"Yukkifox/PhishingDatasetStructured_Final": {
+"categories": [
+"phishing"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"Yukkifox/phishing_qa_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"YvonneYYY/Financial-Fraud-Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 35,
+"license": "apache-2.0"
+},
+"Zenithgeeks/antifakenews_scam": {
+"categories": [
+"fraud"
+],
+"downloads": 202,
+"license": "cc-by-nc-4.0"
+},
+"ZennyKenny/synthetic-credit-card-fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"Zhangqingyue127/E-commerce_Fake_Review_Detection": {
+"categories": [
+"marketplace"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"Zishaan7/AI_financial_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 44,
+"license": "unknown"
+},
+"aaddinnn/telegram-spam-ham": {
+"categories": [
+"spam"
+],
+"downloads": 42,
+"license": "wtfpl"
+},
+"aadilsayad/email-intent-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"abdessamad-bourkibate/Scam-Religious-Detection": {
+"categories": [
+"fraud"
+],
+"downloads": 106,
+"license": "mit"
+},
+"abeeranajam31/urdu-spam-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 41,
+"license": "mit"
+},
+"abhinav302019/olympiad_data_419": {
+"categories": [
+"fraud"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"absanjay/spam-test-data": {
+"categories": [
+"spam"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"acasal/learn_hf_spam_not_spam_email_messages": {
+"categories": [
+"uncategorized"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"acasal/learn_hf_spam_not_spam_email_messages_extra_samples": {
+"categories": [
+"uncategorized"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"adamlouly/enron_spam_data": {
+"categories": [
+"uncategorized"
+],
+"downloads": 79,
+"license": "apache-2.0"
+},
+"adamtc/scam_dialogues": {
+"categories": [
+"fraud"
+],
+"downloads": 88,
+"license": "apache-2.0"
+},
+"adegbem/Annotated_Transcript_Judith_Beck_Abe": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"adinaapostoae123/fraud-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"afnanmohamed99/seven-phishing-email-datasets": {
+"categories": [
+"phishing"
+],
+"downloads": 40,
+"license": "other"
+},
+"agenticsources/financial-fraud-detection-10k": {
+"categories": [
+"fraud"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"aggarwal90himanshu/cyber-crime-raw-articles": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "apache-2.0"
+},
+"agnialf/Internship-Job-Scam-Dataset": {
+"categories": [
+"jobs",
+"fraud"
+],
+"downloads": 93,
+"license": "unknown"
+},
+"agraj07/phishing_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"aharendaisuki/sms_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 20,
+"license": "mit"
+},
+"ahishamm/HAM_db": {
+"categories": [
+"uncategorized"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"ahishamm/HAM_db_sharpened": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"ahsanirfan961/swe-bech-lite-bm25-13k-single": {
+"categories": [
+"uncategorized"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"ahsanirfan961/swe-bech-lite-bm25-13k-take3": {
+"categories": [
+"uncategorized"
+],
+"downloads": 30,
+"license": "unknown"
+},
+"ahsanirfan961/swe-bech-lite-bm25-13k-take50": {
+"categories": [
+"uncategorized"
+],
+"downloads": 28,
+"license": "unknown"
+},
+"aisuko/phishing-binary-classification": {
+"categories": [
+"phishing"
+],
+"downloads": 27,
+"license": "apache-2.0"
+},
+"akoukas/chatgpt-detector-bias2": {
+"categories": [
+"uncategorized"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"akoukas/chatgpt-detector-bias3": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"akshujey/Internship-Job-Scam-Dataset": {
+"categories": [
+"jobs",
+"fraud"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"ale-dp/german-english-email-ticket-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 19,
+"license": "cc-by-nc-4.0"
+},
+"alenc123/credit-card-fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 36,
+"license": "unknown"
+},
+"alexkstern/european_credit_card_fraud_dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 190,
+"license": "unknown"
+},
+"alexkstern/feature_selected_european_credit_card_fraud_dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"alexkstern/full_european_credit_card_fraud_dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 79,
+"license": "unknown"
+},
+"alexkstern/phishing_urls": {
+"categories": [
+"phishing"
+],
+"downloads": 73,
+"license": "unknown"
+},
+"alifaheem94/spam_dataset": {
+"categories": [
+"spam"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"alirezanasirian/synthetic-credit-card-fraud-v4-2-free-10k": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 119,
+"license": "other"
+},
+"alissonpadua/ham-spam-scam-toxic": {
+"categories": [
+"spam",
+"fraud"
+],
+"downloads": 62,
+"license": "mit"
+},
+"alissonpadua/ham-spam-scam-toxic-parquet": {
+"categories": [
+"spam",
+"fraud"
+],
+"downloads": 47,
+"license": "unknown"
+},
+"aloizidis/fin_fraud_synthetic": {
+"categories": [
+"fraud"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"alphuuuu02/Machine-Learning-Credit-Card-Fraud-Detection-Project": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"alusci/sms-otp-spam-dataset": {
+"categories": [
+"banking",
+"spam"
+],
+"downloads": 118,
+"license": "mit"
+},
+"amalthomas/phishing-urls": {
+"categories": [
+"phishing"
+],
+"downloads": 36,
+"license": "unknown"
+},
+"amitkedia/Financial-Fraud-Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 151,
+"license": "apache-2.0"
+},
+"amrithanandini/phishing-email-rich-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 38,
+"license": "unknown"
+},
+"amrithanandini/phishing-email-rich-dataset-v2": {
+"categories": [
+"phishing"
+],
+"downloads": 41,
+"license": "unknown"
+},
+"andrewsiah/PersonaPromptPersonalLLM_419": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"anees-void/spam-messages": {
+"categories": [
+"spam"
+],
+"downloads": 16,
+"license": "mit"
+},
+"anhnd210020/credit-card-fraud-dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 42,
+"license": "unknown"
+},
+"anhnd210020/creditcard-fraud-dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"anhw/fake_reviews": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"anilguven/turkish_spam_email": {
+"categories": [
+"uncategorized"
+],
+"downloads": 132,
+"license": "unknown"
+},
+"animeshdinda12/indian-scam-detection": {
+"categories": [
+"fraud"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"anmorgan24/creditcard_fraud_csv": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 46,
+"license": "unknown"
+},
+"anshikapanwarr/creditcard-fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 30,
+"license": "mit"
+},
+"ansulev/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 54,
+"license": "lgpl-3.0"
+},
+"antitheft159/CreditCardFraudPrevention": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 4,
+"license": "apache-2.0"
+},
+"antitheft159/_677_spam_email_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "apache-2.0"
+},
+"antitheft159/spamemailfinder": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "gpl-3.0"
+},
+"anujmishra39/seven-phishing-email-datasets": {
+"categories": [
+"phishing"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"apex0data/ecommerce-fraud-detection-synthetic-10k-sampl": {
+"categories": [
+"marketplace",
+"fraud"
+],
+"downloads": 49,
+"license": "mit"
+},
+"arbml/arabic_spam_ham_twitter": {
+"categories": [
+"uncategorized"
+],
+"downloads": 56,
+"license": "unknown"
+},
+"arena-education/deception-detection": {
+"categories": [
+"social-engineering"
+],
+"downloads": 36,
+"license": "other"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_04b5e1de-49cd-4195-86e6-4358e1a303b1": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_07f934f8-8cbb-4192-93fe-aa90e492f2db": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_0e54ffda-419c-4cac-b017-82089ffb0db7": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_110ef55b-9fa1-4382-b419-245805e794ee": {
+"categories": [
+"fraud"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_1b441b00-3cc5-419e-bcad-fd76980dc4cf": {
+"categories": [
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_1cd90e20-bbb4-416d-becd-84b7c883b7fc": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_1e38d487-0cec-4195-b4b1-a8437d69ffa3": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_2e471054-e304-419f-9d33-60c49a2d5d4b": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_305ebf94-eeb6-419f-b4fa-a68bde7234a5": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_3425e901-f378-4197-844a-1f527f5a153f": {
+"categories": [
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_354a63f9-5cbd-4539-bece-c47fa495a9cb": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_354d38a1-419a-4b08-9b91-372a0cf211bd": {
+"categories": [
+"fraud"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_3d456158-d9a8-4193-8918-01266ea40180": {
+"categories": [
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_4196a6f0-6283-448e-8d2b-bbf5e53d7597": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_419c830a-ffcd-44b0-9e36-a8284b70962a": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_4580961a-1d19-419f-917b-70583927f641": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_4b8bb471-989d-4193-a2f0-31655b47179a": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_4be62d31-fd2d-419c-99a9-41e21cef3a18": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_5b175f3a-5095-4195-9e2b-760a5096e592": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_72fdc579-419b-4417-899f-f95f61b4b88a": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_79d93a06-becf-4c7b-8a2a-3db8dfb80721": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_7e338941-af05-419a-ac41-350a622e63b0": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_8c80ac79-07ed-419b-8b1c-4c8c9dc2fde3": {
+"categories": [
+"fraud"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_8f2e6933-2bd9-4199-8225-cb7ed0792ef1": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_a1944e05-6f82-4194-b2db-9f8974eea765": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_b8d2736f-40fa-4a1d-becd-8addbff7e95b": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_bec2e7b7-4baa-43c1-b285-62b3bd3753e2": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_bec52a64-6903-45fa-af37-03f734a82077": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_bfcd7fae-8cdc-4195-abc1-b86a023b2d71": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_ce301b13-6c17-4192-ae88-68fac1fff699": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_e07b0d0c-f559-419b-bbde-037d6b57ebdb": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_e13f53ad-adb0-4adb-bfb0-41924a66f6f8": {
+"categories": [
+"fraud"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_ead1e744-bd68-4199-b86f-8075080d81d3": {
+"categories": [
+"fraud"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_ebc7b64a-3adf-419e-9d1f-3cbd8f10ccff": {
+"categories": [
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_f25d4198-9376-4ba8-8bc8-3e95bcfc733c": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"argilla-internal-testing/test_import_dataset_from_hub_with_classlabel_fc8706c6-63e8-419c-b961-01fd9d80a12c": {
+"categories": [
+"fraud"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"argilla/alpaca-gigo-detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"arka15/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 33,
+"license": "apache-2.0"
+},
+"arkamath2026/sms_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 23,
+"license": "unknown"
+},
+"arkodeep/spam-data": {
+"categories": [
+"spam"
+],
+"downloads": 16,
+"license": "mit"
+},
+"arun-gharami/lead-ai-fraud-detection-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 113,
+"license": "apache-2.0"
+},
+"arun-gharami/lead-ai-fraud-detection-dataset-v2": {
+"categories": [
+"fraud"
+],
+"downloads": 70,
+"license": "unknown"
+},
+"aryanbhandare/credit_card_fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"ashu0311/SMS_Spam_Multilingual_Collection_Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 28,
+"license": "gpl"
+},
+"astrosbd/fake-review": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"astrosbd/fake_review_hedi": {
+"categories": [
+"uncategorized"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"atharva77/PaymentFraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"athugodage/hse_spam_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-acronym_identification-default-58519d-41977145082": {
+"categories": [
+"fraud"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-acronym_identification-default-5e93f4-41997145083": {
+"categories": [
+"fraud"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-acronym_identification-default-6e04c8-41999145084": {
+"categories": [
+"fraud"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-acronym_identification-default-8b2079-41975145081": {
+"categories": [
+"fraud"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-billsum-default-bec98f-32334145010": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-billsum-default-bec98f-32334145011": {
+"categories": [
+"uncategorized"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-cnn_dailymail-3.0.0-f4ef6e-41949145080": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-sms_spam-plain_text-b4bc6a-2007266523": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-sms_spam-plain_text-b4bc6a-2007266524": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"autoevaluate/autoeval-eval-sms_spam-plain_text-b4bc6a-2007266525": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"autoevaluate/autoeval-staging-eval-project-19f625bb-a07b-4f3a-bec2-d734d6029176-6159": {
+"categories": [
+"uncategorized"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"autoevaluate/autoeval-staging-eval-project-sms_spam-216c1ded-12215630": {
+"categories": [
+"uncategorized"
+],
+"downloads": 48,
+"license": "unknown"
+},
+"autoevaluate/autoeval-staging-eval-project-sms_spam-216c1ded-12215631": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"autoevaluate/autoeval-staging-eval-project-sms_spam-216c1ded-12215632": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"autoevaluate/autoeval-staging-eval-project-sms_spam-216c1ded-12215633": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"average-developer/stocks-CAMS-1D-candles": {
+"categories": [
+"uncategorized"
+],
+"downloads": 203,
+"license": "unknown"
+},
+"awddqoy/scamdataset": {
+"categories": [
+"fraud"
+],
+"downloads": 36,
+"license": "unknown"
+},
+"ball0428/jeonse_fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"beccabai/slimpajama_labeled": {
+"categories": [
+"uncategorized"
+],
+"downloads": 467,
+"license": "unknown"
+},
+"becerriljc/sentiment-banking": {
+"categories": [
+"banking"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"beckhamc/design_bench_data": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2032,
+"license": "unknown"
+},
+"beckhamc/dog-example": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"beckhamc/test_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"becodev/dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 11,
+"license": "mit"
+},
+"becurrio/advABSA": {
+"categories": [
+"uncategorized"
+],
+"downloads": 77,
+"license": "apache-2.0"
+},
+"berwart/anti-scam": {
+"categories": [
+"fraud"
+],
+"downloads": 20,
+"license": "apache-2.0"
+},
+"bgspaditya/byt-malicious-url-treatment": {
+"categories": [
+"phishing"
+],
+"downloads": 45,
+"license": "unknown"
+},
+"bgspaditya/phish-url-91": {
+"categories": [
+"phishing"
+],
+"downloads": 26,
+"license": "mit"
+},
+"bgspaditya/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 66,
+"license": "mit"
+},
+"bgspaditya/phishurl-v2": {
+"categories": [
+"phishing"
+],
+"downloads": 27,
+"license": "mit"
+},
+"bhavya2910/indian-scam-sms-synthetic-audited": {
+"categories": [
+"fraud"
+],
+"downloads": 67,
+"license": "cc-by-4.0"
+},
+"bhoomee/SMS_Spam_Multilingual_Collection_Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 55,
+"license": "gpl"
+},
+"bibekyess/layout-detector-flagged-samples": {
+"categories": [
+"uncategorized"
+],
+"downloads": 28,
+"license": "unknown"
+},
+"bitmind/dfd-arena-detectors": {
+"categories": [
+"uncategorized"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"boMafa/fraud_finetuning_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"boleeproofpoint/uplimit-week-1-synthetic-spam-email-data-filtered-quality": {
+"categories": [
+"spam"
+],
+"downloads": 16,
+"license": "mit"
+},
+"bolewara/hinglish-scam-text-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 195,
+"license": "cc-by-4.0"
+},
+"bourigue/data_email_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 9,
+"license": "mit"
+},
+"build-small-hackathon/jawbreaker-scam-defense-data": {
+"categories": [
+"fraud"
+],
+"downloads": 99,
+"license": "mit"
+},
+"bunny1299/PhishingURLsANDBenignURLs": {
+"categories": [
+"phishing"
+],
+"downloads": 29,
+"license": "cc-by-sa-4.0"
+},
+"bvk/SMS-spam": {
+"categories": [
+"spam"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"caliangandrew/dfd-arena-detectors": {
+"categories": [
+"uncategorized"
+],
+"downloads": 35,
+"license": "unknown"
+},
+"celesca/urine-detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 92,
+"license": "apache-2.0"
+},
+"ceselder/cot-oracle-eval-cybercrime-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 27,
+"license": "mit"
+},
+"chanhengmenh/spam_email_detection": {
+"categories": [
+"spam"
+],
+"downloads": 17,
+"license": "apache-2.0"
+},
+"charandeep2/Cifer-Fraud-Detection-Dataset-AF": {
+"categories": [
+"fraud"
+],
+"downloads": 54,
+"license": "apache-2.0"
+},
+"chinna887/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 63,
+"license": "apache-2.0"
+},
+"chinna887/adaption-fraud-and-cyber-safety": {
+"categories": [
+"fraud"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"chinna887/ecommerce-fraud-detection-synthetic-10k-sampl": {
+"categories": [
+"marketplace",
+"fraud"
+],
+"downloads": 30,
+"license": "mit"
+},
+"chisomobanja/MOZ-Smishing": {
+"categories": [
+"banking"
+],
+"downloads": 27,
+"license": "creativeml-openrail-m"
+},
+"cjsanjay/smm-spam-collection-llama2-5k": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"cjsanjay/sms-spam-collection-llama2-5k": {
+"categories": [
+"spam"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"cjsanjay/spam-test2": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"cljohnson3342/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 60,
+"license": "apache-2.0"
+},
+"codesignal/sms-spam-collection": {
+"categories": [
+"spam"
+],
+"downloads": 1332,
+"license": "cc-by-4.0"
+},
+"cont1n3nt/ai-phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 27,
+"license": "mit"
+},
+"cybersectony/PhishingEmailDetectionv2.0": {
+"categories": [
+"phishing"
+],
+"downloads": 329,
+"license": "unknown"
+},
+"danielcluett9/social-engineering-convo": {
+"categories": [
+"social-engineering"
+],
+"downloads": 44,
+"license": "apache-2.0"
+},
+"darkknight25/Interrogation_Dataset_for_AI_Deception_Detection": {
+"categories": [
+"social-engineering"
+],
+"downloads": 26,
+"license": "mit"
+},
+"darkknight25/Phishing_Link_Pattern_Dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 59,
+"license": "mit"
+},
+"darkknight25/phishing_benign_email_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 175,
+"license": "mit"
+},
+"darshan8950/phishing_url_classification": {
+"categories": [
+"phishing"
+],
+"downloads": 49,
+"license": "mit"
+},
+"darshandugar/Email-Classification-Artificial-Generated": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "mit"
+},
+"datasetsANDmodels/chinese-fraud-robocall": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 32,
+"license": "unknown"
+},
+"datasetsANDmodels/stt-robocalls-fraud": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"daviiiidcpp1/sms-spam-combined": {
+"categories": [
+"spam"
+],
+"downloads": 27,
+"license": "ecl-2.0"
+},
+"daviiiidcpp1/sms-spam-slovene": {
+"categories": [
+"romance",
+"spam"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"davinwij/ham_spam_emails": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"dayeon3117/Fake-Job-Detector": {
+"categories": [
+"jobs"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"dazzle-nu/CIS435-CreditCardFraudDetection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 200,
+"license": "unknown"
+},
+"dbarbedillo/SMS_Spam_Multilingual_Collection_Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 358,
+"license": "gpl"
+},
+"ddiask/phishingDataset": {
+"categories": [
+"phishing"
+],
+"downloads": 46,
+"license": "apache-2.0"
+},
+"debojit01/fake-review-dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 119,
+"license": "unknown"
+},
+"dedsec995/Email_Classification_Text": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "mit"
+},
+"deevyanshu/phishing_detection": {
+"categories": [
+"phishing"
+],
+"downloads": 22,
+"license": "unknown"
+},
+"demola2/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 89,
+"license": "other"
+},
+"dengdan1999/YouTube_Scam": {
+"categories": [
+"fraud"
+],
+"downloads": 91,
+"license": "unknown"
+},
+"detector1/shopliftingDataSet": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"detectors/blobs-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 81,
+"license": "unknown"
+},
+"detectors/isun-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 270,
+"license": "unknown"
+},
+"detectors/lsun_c-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 243,
+"license": "unknown"
+},
+"detectors/lsun_r-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 217,
+"license": "unknown"
+},
+"detectors/rademacher-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 35,
+"license": "unknown"
+},
+"detectors/ssb_easy-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 40,
+"license": "unknown"
+},
+"detectors/ssb_hard-ood": {
+"categories": [
+"uncategorized"
+],
+"downloads": 58,
+"license": "unknown"
+},
+"developer-ninja/trash_spam_broken_ticket_messages": {
+"categories": [
+"uncategorized"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"dexplorer21/naija-scam-safe-aya-data": {
+"categories": [
+"fraud"
+],
+"downloads": 83,
+"license": "cc-by-4.0"
+},
+"diegovelilla/email-classification-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 128,
+"license": "apache-2.0"
+},
+"dingyiz/fraud_detection_collections": {
+"categories": [
+"fraud"
+],
+"downloads": 59,
+"license": "unknown"
+},
+"distrib134/poisoned-spam-detection": {
+"categories": [
+"spam"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"distrib134/ultimate_spam_detection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"distrib134/ultimate_spam_detection_2": {
+"categories": [
+"uncategorized"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"distrib134/ultimate_spam_detection_3": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"distrib134/ultimate_spam_detection_3_poisoned": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"distrib134/ultimate_spam_detection_poisoned": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"divakaivan/fake_movie_review_kr": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"djeungafrank/email-classification-single-label": {
+"categories": [
+"uncategorized"
+],
+"downloads": 27,
+"license": "mit"
+},
+"dodiML/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 99,
+"license": "apache-2.0"
+},
+"dokster/adaption-scam-dataset-ru-en-v1": {
+"categories": [
+"fraud"
+],
+"downloads": 52,
+"license": "apache-2.0"
+},
+"donksg/scam_finetune": {
+"categories": [
+"fraud"
+],
+"downloads": 20,
+"license": "mit"
+},
+"drorrabin/phishing_emails-data": {
+"categories": [
+"phishing"
+],
+"downloads": 104,
+"license": "unknown"
+},
+"ealvaradob/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 1540,
+"license": "apache-2.0"
+},
+"edwmun/email_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"electricsheepafrica/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 180,
+"license": "other"
+},
+"electricsheepafrica/africa-cross-border-cybercrime-network": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "other"
+},
+"electricsheepafrica/africa-crypto-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 24,
+"license": "other"
+},
+"electricsheepafrica/africa-online-scams-advance-fee": {
+"categories": [
+"fraud"
+],
+"downloads": 25,
+"license": "other"
+},
+"electricsheepafrica/africa-phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 41,
+"license": "other"
+},
+"electricsheepafrica/africa-sextortion": {
+"categories": [
+"romance"
+],
+"downloads": 13,
+"license": "other"
+},
+"electricsheepafrica/africa-smishing": {
+"categories": [
+"banking"
+],
+"downloads": 38,
+"license": "other"
+},
+"electricsheepafrica/africa-smishing-sms-phishing": {
+"categories": [
+"banking",
+"phishing"
+],
+"downloads": 87,
+"license": "other"
+},
+"electricsheepafrica/africa-social-media-account-takeover": {
+"categories": [
+"banking"
+],
+"downloads": 21,
+"license": "other"
+},
+"electricsheepafrica/africa-synth-banking-mobile-banking-phishing-all": {
+"categories": [
+"banking",
+"phishing"
+],
+"downloads": 58,
+"license": "unknown"
+},
+"electricsheepafrica/africa-synth-telecom-fraudulent-activity-datasets-nigeria": {
+"categories": [
+"fraud"
+],
+"downloads": 55,
+"license": "other"
+},
+"elenigkove/Email_Intent_Classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"elokk/Cifer-Fraud-Detection-Dataset-AF": {
+"categories": [
+"fraud"
+],
+"downloads": 65,
+"license": "apache-2.0"
+},
+"engineerai/lithuanian-fake-review-detection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"eskfestsecurity/turkish-igaming-spam-detection": {
+"categories": [
+"spam"
+],
+"downloads": 29,
+"license": "cc-by-4.0"
+},
+"ethanreg006/mulebuy-spreadsheet-checklist": {
+"categories": [
+"uncategorized"
+],
+"downloads": 66,
+"license": "mit"
+},
+"fadhilr/scam_call_gemma3": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"fadzero02/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 35,
+"license": "lgpl-3.0"
+},
+"faizkhan790/phishing-brand-impersonation-dataset": {
+"categories": [
+"phishing",
+"fraud"
+],
+"downloads": 19,
+"license": "mit"
+},
+"farah-abulibdeh/sms-spam-ham-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"farshad72/spam_email": {
+"categories": [
+"spam"
+],
+"downloads": 20,
+"license": "mit"
+},
+"faruk-becirovic/AgroSmart": {
+"categories": [
+"uncategorized"
+],
+"downloads": 44,
+"license": "unknown"
+},
+"fati-80-Sho/RugPull1K": {
+"categories": [
+"uncategorized"
+],
+"downloads": 62,
+"license": "cc-by-nc-4.0"
+},
+"fesevu/ethereum_fraud_dataset_by_activity": {
+"categories": [
+"fraud"
+],
+"downloads": 413,
+"license": "unknown"
+},
+"fliarbi/cybercrime-news-2019-2026": {
+"categories": [
+"uncategorized"
+],
+"downloads": 99,
+"license": "cc-by-nc-4.0"
+},
+"flowersinmay/spam_data": {
+"categories": [
+"spam"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"flwrlabs/fed-phishing-urls": {
+"categories": [
+"phishing"
+],
+"downloads": 204,
+"license": "apache-2.0"
+},
+"forta/token-impersonation-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 162,
+"license": "mit"
+},
+"fuyusaka1007/scamdataset": {
+"categories": [
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"gandharvbakshi/SMS-dataset-OTP-OTP_INTENT_Phishing": {
+"categories": [
+"banking",
+"phishing"
+],
+"downloads": 71,
+"license": "mit"
+},
+"ganesh9353/Indian_Multilingual_Scam_Message_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 24,
+"license": "apache-2.0"
+},
+"ganesh9353/sms_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"global-dataset-lab/global-fintech-fraud-transactions": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"gozuqr123/spam_ham_spanish": {
+"categories": [
+"spam"
+],
+"downloads": 19,
+"license": "apache-2.0"
+},
+"gplsi/fake_job_postings_balanced_en": {
+"categories": [
+"jobs"
+],
+"downloads": 88,
+"license": "cc-by-4.0"
+},
+"gplsi/fake_job_postings_balanced_va": {
+"categories": [
+"jobs"
+],
+"downloads": 23,
+"license": "cc-by-4.0"
+},
+"gpm123/phishing-website-screenshots": {
+"categories": [
+"phishing"
+],
+"downloads": 390,
+"license": "other"
+},
+"grephon777/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 47,
+"license": "apache-2.0"
+},
+"gulshan97/Financial_statements_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 78,
+"license": "gpl"
+},
+"gusdelact/credit-card-fraud-curated": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 123,
+"license": "apache-2.0"
+},
+"h0d4r1/fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"h1tak3/phishing-html-tokenized": {
+"categories": [
+"phishing"
+],
+"downloads": 40,
+"license": "unknown"
+},
+"habeebubaid/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 51,
+"license": "unknown"
+},
+"hades-022/scamshield-sft": {
+"categories": [
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"haemin8777/innv-luxury-fashion-dataset-fraud-detection": {
+"categories": [
+"fraud"
+],
+"downloads": 13,
+"license": "cc-by-4.0"
+},
+"haja17/real-or-fake-fake-jobposting-prediction": {
+"categories": [
+"jobs"
+],
+"downloads": 7,
+"license": "cc0-1.0"
+},
+"hamazi/nva-danganneko": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"hamazi/nva-melon": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"hamdan07/UItrasound-Lung": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "bigscience-bloom-rail-1.0"
+},
+"hamdan07/UltraSound-lung": {
+"categories": [
+"uncategorized"
+],
+"downloads": 472,
+"license": "openrail"
+},
+"hamdan07/ddd": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"hamedhf/nlp_twitter_analysis": {
+"categories": [
+"uncategorized"
+],
+"downloads": 208,
+"license": "mit"
+},
+"hamel/quarto": {
+"categories": [
+"uncategorized"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"hamel/quarto-issues": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"hamel/tabular-data-test": {
+"categories": [
+"uncategorized"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"haminShim/stl10": {
+"categories": [
+"uncategorized"
+],
+"downloads": 113,
+"license": "unknown"
+},
+"hamishivi/alpaca-farm-davinci-003-2048-token": {
+"categories": [
+"uncategorized"
+],
+"downloads": 182,
+"license": "cc-by-nc-4.0"
+},
+"haml/halml": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "apache-2.0"
+},
+"hamlegs/SquishmallowImages": {
+"categories": [
+"uncategorized"
+],
+"downloads": 99,
+"license": "unknown"
+},
+"hammer888/captcha-data": {
+"categories": [
+"uncategorized"
+],
+"downloads": 153,
+"license": "unknown"
+},
+"hammer888/interior_style_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 78,
+"license": "unknown"
+},
+"hammer888/lora-text-to-image": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"hammytron/gh0": {
+"categories": [
+"uncategorized"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"hamnaanaa/Duckietown-Multiclass-Semantic-Segmentation-Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 51,
+"license": "openrail"
+},
+"hamster44/hamster44_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"hamtech/tst": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "pddl"
+},
+"hamza-amin/urdu-spam-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 34,
+"license": "mit"
+},
+"hamza-khan/spam_ham_dataset": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"hamza08456098/FraudData": {
+"categories": [
+"fraud"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"hamza50/physical": {
+"categories": [
+"uncategorized"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"hamza50/physical_activity": {
+"categories": [
+"uncategorized"
+],
+"downloads": 23,
+"license": "unknown"
+},
+"hamza50/physical_with_feedback": {
+"categories": [
+"uncategorized"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"hamza50/testimg": {
+"categories": [
+"uncategorized"
+],
+"downloads": 21,
+"license": "wtfpl"
+},
+"hamzaf/feedback_physical": {
+"categories": [
+"uncategorized"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"hamzakbey54/kemal": {
+"categories": [
+"uncategorized"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"haoxianc/ahmedsial_ham-spam-emails": {
+"categories": [
+"spam"
+],
+"downloads": 37,
+"license": "mit"
+},
+"haoxianc/haldonmez_spam-or-ham-a-dataset-for-email-classification": {
+"categories": [
+"spam"
+],
+"downloads": 133,
+"license": "cc0-1.0"
+},
+"haoxianc/shivamb_real-or-fake-fake-jobposting-prediction": {
+"categories": [
+"jobs"
+],
+"downloads": 31,
+"license": "cc0-1.0"
+},
+"haoxianc/shoaib03339770257_fake-real-reviews": {
+"categories": [
+"uncategorized"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"haoyaqi/scam_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"harsh2503/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 60,
+"license": "unknown"
+},
+"harshlimkar/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 31,
+"license": "apache-2.0"
+},
+"haxrits/ScamShield-IN": {
+"categories": [
+"fraud"
+],
+"downloads": 23,
+"license": "openrail"
+},
+"haxrits/adaption-sms-fraud-classification": {
+"categories": [
+"fraud"
+],
+"downloads": 31,
+"license": "unknown"
+},
+"hello-65/fraud-detection-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 22,
+"license": "apache-2.0"
+},
+"heqi511/fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"hobbes99/fake_movie_reviews_ner_sentiment": {
+"categories": [
+"uncategorized"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"hsanjay6409/PhishingEmailDetectionv2.0": {
+"categories": [
+"phishing"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"hsuvaskakoty/hoaxpedia": {
+"categories": [
+"uncategorized"
+],
+"downloads": 152,
+"license": "unknown"
+},
+"huggingartists/phish": {
+"categories": [
+"phishing"
+],
+"downloads": 39,
+"license": "unknown"
+},
+"husseinnashed/phishing-url": {
+"categories": [
+"phishing"
+],
+"downloads": 107,
+"license": "cc-by-4.0"
+},
+"huuhieu295/email-classification-prompt": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"huynq3Cyradar/Phishing_Detection_Dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 40,
+"license": "unknown"
+},
+"iamthearafatkhan/email-spam-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"iioos/fraud-transaction-graph": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 21,
+"license": "mit"
+},
+"ikuldeep1/vehicle-damage-fraud-image": {
+"categories": [
+"fraud"
+],
+"downloads": 54,
+"license": "unknown"
+},
+"ikuldeep1/vehicle-damage-fraud-image-balanced": {
+"categories": [
+"fraud"
+],
+"downloads": 35,
+"license": "unknown"
+},
+"imanoop7/phishing_url_classification": {
+"categories": [
+"phishing"
+],
+"downloads": 69,
+"license": "mit"
+},
+"imnim/multiclass-email-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 182,
+"license": "mit"
+},
+"infinite-dataset-hub/SMSSpamSentiment": {
+"categories": [
+"uncategorized"
+],
+"downloads": 11,
+"license": "mit"
+},
+"infinite-dataset-hub/TransactionFraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 46,
+"license": "mit"
+},
+"innmitt/tamil_cybercrime_terms": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"innmitt/tamil_cybercrime_terms_formatted": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"innmitt/tamil_cybercrime_terms_forrmmated": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"innmitt/tamil_cybercrime_terms_verified_forrmmated": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"intelli-zen/spam_detect": {
+"categories": [
+"spam"
+],
+"downloads": 415,
+"license": "apache-2.0"
+},
+"itsG/smishing-synthetic": {
+"categories": [
+"banking"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"itsprofarul/dataset-phishing": {
+"categories": [
+"phishing"
+],
+"downloads": 33,
+"license": "gemma"
+},
+"itsprofarul/dataset-phishing2": {
+"categories": [
+"phishing"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"ivan-harmash/smishing-results": {
+"categories": [
+"banking"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"jaeho9kim/estgen-spam-text": {
+"categories": [
+"spam"
+],
+"downloads": 12,
+"license": "mit"
+},
+"james-burton/fake_job_postings2": {
+"categories": [
+"jobs"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"james-burton/fake_job_postings2_all_text": {
+"categories": [
+"jobs"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"james-burton/fake_job_postings2_ord": {
+"categories": [
+"jobs"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"james-burton/fake_job_postings2_ordinal": {
+"categories": [
+"jobs"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"janduplessis886/gp_surgery_reviews_fake_and_real": {
+"categories": [
+"uncategorized"
+],
+"downloads": 88,
+"license": "unknown"
+},
+"jason1966/abdallahwagih_spam-emails": {
+"categories": [
+"uncategorized"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"jason1966/ahsenwaheed_youtube-comments-spam-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 46,
+"license": "unknown"
+},
+"jason1966/aiwithcagri_trke-spam-sms-ve-sms-kategorileri": {
+"categories": [
+"spam"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"jaswanth8899/sms_spam_detection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"jbora/SMSSpamDataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "apache-2.0"
+},
+"jelialmutaali/online-gambling-spam-detector": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"jhota2025/SPAM_HAM_DATASET": {
+"categories": [
+"spam"
+],
+"downloads": 13,
+"license": "mit"
+},
+"jmjmjm3/kor-smishing-message": {
+"categories": [
+"banking",
+"phishing"
+],
+"downloads": 193,
+"license": "cc-by-nc-sa-4.0"
+},
+"jmmrcp/Phishing-IBM-Dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 39,
+"license": "unknown"
+},
+"jmmrcp/phishing-IBM": {
+"categories": [
+"phishing"
+],
+"downloads": 87,
+"license": "unknown"
+},
+"jngb-labs/sms-spam": {
+"categories": [
+"spam"
+],
+"downloads": 77,
+"license": "other"
+},
+"joshtobin/malicious_urls": {
+"categories": [
+"phishing"
+],
+"downloads": 83,
+"license": "unknown"
+},
+"jpiante/osrs-ge-spam-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"jslin09/Fraud_Case_Verdicts": {
+"categories": [
+"fraud"
+],
+"downloads": 79,
+"license": "apache-2.0"
+},
+"jyunyilin/credit-card-fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 75,
+"license": "mit"
+},
+"kagikush/Nigerian_telecom_fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 50,
+"license": "unknown"
+},
+"kanikathakur/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 77,
+"license": "apache-2.0"
+},
+"karanverma19/Indian_Multilingual_Scam_Message_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 65,
+"license": "apache-2.0"
+},
+"karanverma19/trilingual_fraud_consumer_protection_v2": {
+"categories": [
+"fraud"
+],
+"downloads": 83,
+"license": "mit"
+},
+"karim666666/Synthetic-Financial-Datasets-For-Fraud-Detection": {
+"categories": [
+"fraud"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"kehuitt/Fraud_News_Reports": {
+"categories": [
+"fraud"
+],
+"downloads": 92,
+"license": "apache-2.0"
+},
+"keomut123/phishing-url-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 49,
+"license": "unknown"
+},
+"keremberke/excavator-detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 436,
+"license": "unknown"
+},
+"kevinchiu37/scam-detection-feedback": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"kevinchiu37/scam-detection-logs": {
+"categories": [
+"fraud"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"kgauvin603/creditcard-fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 19,
+"license": "mit"
+},
+"khederwaaOne/AI_financial_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 46,
+"license": "unknown"
+},
+"kidnextdoor57/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 52,
+"license": "gpl"
+},
+"kishor0129/SPAM_DETECTION": {
+"categories": [
+"spam"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"kmack/Phishing_urls": {
+"categories": [
+"phishing"
+],
+"downloads": 260,
+"license": "unknown"
+},
+"kornwtp/hoaxnews-ind-classfication": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"kornwtp/spam-reviews-vie-classification": {
+"categories": [
+"spam"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"kugu/email_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"kugu/email_classification_final": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"kxm1k4m1/Phishing_Email_For_Finetune_LLM": {
+"categories": [
+"phishing"
+],
+"downloads": 39,
+"license": "unknown"
+},
+"kxm1k4m1/Phishing_Email_For_RAG": {
+"categories": [
+"phishing"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"kxm1k4m1/generate_phishing_email_1300_rows": {
+"categories": [
+"phishing"
+],
+"downloads": 28,
+"license": "unknown"
+},
+"kxm1k4m1/generate_phishing_email_final": {
+"categories": [
+"phishing"
+],
+"downloads": 41,
+"license": "unknown"
+},
+"labs222/Phishing_emails_sandia": {
+"categories": [
+"phishing"
+],
+"downloads": 44,
+"license": "unknown"
+},
+"lakpriya/financial_fraud_textual_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 44,
+"license": "unknown"
+},
+"legacy107/spamming-email-classification": {
+"categories": [
+"spam"
+],
+"downloads": 30,
+"license": "unknown"
+},
+"lewtun/hamburgers": {
+"categories": [
+"uncategorized"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"liberatoratif/Credit-card-fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 86,
+"license": "unknown"
+},
+"ligdis/cache_detailed_C419": {
+"categories": [
+"fraud"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"limingme/decompose_task_grpo_except_Muleshoe_distill_llama_qwen": {
+"categories": [
+"uncategorized"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"lixi0029/phishing-mail": {
+"categories": [
+"phishing"
+],
+"downloads": 64,
+"license": "apache-2.0"
+},
+"lleratodev/ai-powered-phishing-email-detection-system": {
+"categories": [
+"phishing"
+],
+"downloads": 52,
+"license": "unknown"
+},
+"locuoco/the-biggest-spam-ham-phish-email-dataset-300000": {
+"categories": [
+"phishing",
+"spam"
+],
+"downloads": 262,
+"license": "mit"
+},
+"luisturra/creditCardFraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"lunovian/satellite-inferno-detector-dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 14,
+"license": "apache-2.0"
+},
+"luongnv89/phishing-email": {
+"categories": [
+"phishing"
+],
+"downloads": 139,
+"license": "unknown"
+},
+"m-mulet/ARD_NARROW_EMBEDDINGS": {
+"categories": [
+"uncategorized"
+],
+"downloads": 23,
+"license": "mit"
+},
+"m-mulet/ARD_NARROW_EMBEDDINGS_small": {
+"categories": [
+"uncategorized"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"m-mulet/ARD_WIDE_EMBEDDINGS": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "mit"
+},
+"m-mulet/ARD_WIDE_EMBEDDINGS_small": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"mahdy12/Credit-card-fraud-detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"mahmoud0333/PhishingURLsANDBenignURLs": {
+"categories": [
+"phishing"
+],
+"downloads": 20,
+"license": "cc-by-sa-4.0"
+},
+"mahrukhsaeed/SMS_Spam_Multilingual_Collection_Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 43,
+"license": "gpl"
+},
+"mahrukhsaeed/sms_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"mail4dy/phishing-detection-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"maisharahman/jobscams2": {
+"categories": [
+"jobs",
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"maisharahman/jobscams3": {
+"categories": [
+"jobs",
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"mamtakumar/seven-phishing-email-datasets": {
+"categories": [
+"phishing"
+],
+"downloads": 80,
+"license": "unknown"
+},
+"manaskangutkar/credit_card_fraud_detection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"manhattin/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 101,
+"license": "unknown"
+},
+"manikanta1602/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 27,
+"license": "other"
+},
+"marcov/sms_spam_promptsource": {
+"categories": [
+"uncategorized"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"mdsajjadullah/bangla-phishing-detection-2026": {
+"categories": [
+"phishing"
+],
+"downloads": 52,
+"license": "cc-by-4.0"
+},
+"meetpatel5/Financial_statements_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 114,
+"license": "gpl"
+},
+"megloughney/creditcardfraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 34,
+"license": "unknown"
+},
+"menaattia/phone-scam-dataset": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 56,
+"license": "unknown"
+},
+"mervegundogdu/fraud-detection-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 23,
+"license": "unknown"
+},
+"mnemoraorg/spam-email-5k5": {
+"categories": [
+"spam"
+],
+"downloads": 58,
+"license": "ecl-2.0"
+},
+"mounika40156/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 24,
+"license": "other"
+},
+"mriadur/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"mshenoda/spam-messages": {
+"categories": [
+"spam"
+],
+"downloads": 187,
+"license": "mit"
+},
+"mstz/spambase": {
+"categories": [
+"spam"
+],
+"downloads": 157,
+"license": "cc"
+},
+"mteb/TelemarketingSalesRuleLegalBenchClassification": {
+"categories": [
+"robocall"
+],
+"downloads": 33,
+"license": "cc-by-4.0"
+},
+"mukul1801/fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"mulerselinger/AmExVoice-MCQ": {
+"categories": [
+"uncategorized"
+],
+"downloads": 30,
+"license": "unknown"
+},
+"multabench/core-text-cls-fake-job-posting": {
+"categories": [
+"jobs"
+],
+"downloads": 281,
+"license": "unknown"
+},
+"mytestaccforllm/final_scam": {
+"categories": [
+"fraud"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"naazimsnh02/fraud-financial-crime-qwen3-sft-v2": {
+"categories": [
+"fraud"
+],
+"downloads": 69,
+"license": "cc-by-4.0"
+},
+"nahiar/facebook_spam_detection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 69,
+"license": "mit"
+},
+"nahiar/spam_data-train-25k-id-en": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"nahiar/spam_data-train-final-25k-id-en": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"nahiar/spam_data_train_inggris": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"nahiar/spam_detection": {
+"categories": [
+"spam"
+],
+"downloads": 14,
+"license": "mit"
+},
+"nahiar/spam_post-processing-data-train-final-25k-id-en": {
+"categories": [
+"spam"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"nathancday/style_detector_22k": {
+"categories": [
+"uncategorized"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"nathancday/style_detector_26k": {
+"categories": [
+"uncategorized"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"necrasov-ilya/zhiznmart-spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 61,
+"license": "cc-by-4.0"
+},
+"nehalvatss/real-or-fake-fake-jobposting-prediction": {
+"categories": [
+"jobs"
+],
+"downloads": 8,
+"license": "cc0-1.0"
+},
+"neidaaa05/ecommerce-fraud-detection-synthetic-10k-sampl": {
+"categories": [
+"marketplace",
+"fraud"
+],
+"downloads": 33,
+"license": "mit"
+},
+"neoALI/layout-detector-flagged-samples": {
+"categories": [
+"uncategorized"
+],
+"downloads": 36,
+"license": "unknown"
+},
+"neyaz4hmad/credit-card-fraud-dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 14,
+"license": "apache-2.0"
+},
+"nezamisafa/social-engineering-qa-english": {
+"categories": [
+"social-engineering"
+],
+"downloads": 47,
+"license": "other"
+},
+"nezamisafa/social-engineering-qa-persian": {
+"categories": [
+"social-engineering"
+],
+"downloads": 39,
+"license": "other"
+},
+"nini654/hinglish-scam-text-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 44,
+"license": "cc-by-4.0"
+},
+"nithi060488/Cifer-Fraud-Detection-Dataset-AF": {
+"categories": [
+"fraud"
+],
+"downloads": 73,
+"license": "apache-2.0"
+},
+"nithi060488/Financial-Fraud-Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "apache-2.0"
+},
+"nkasmanoff/retail_detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"nkasmanoff/retail_detector_flattened": {
+"categories": [
+"uncategorized"
+],
+"downloads": 32,
+"license": "unknown"
+},
+"nkasmanoff/retail_detector_test_public": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"nkasmanoff/retail_detector_v2": {
+"categories": [
+"uncategorized"
+],
+"downloads": 95,
+"license": "unknown"
+},
+"nlp-brin-id/hoax-sensationalism-neutral": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "mit"
+},
+"nlp-brin-id/id-hoax-report": {
+"categories": [
+"uncategorized"
+],
+"downloads": 27,
+"license": "mit"
+},
+"nlp-brin-id/id-hoax-report-merge": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "mit"
+},
+"nlp-brin-id/id-hoax-report-merge-v2": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "mit"
+},
+"nlp-brin-id/id-hoax-report-merge-v3": {
+"categories": [
+"uncategorized"
+],
+"downloads": 20,
+"license": "mit"
+},
+"nosadaniel/phishing-email-training-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 67,
+"license": "mit"
+},
+"nupur-sharma/email_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"oluchiUH/Annotated_Transcript_Judith_Beck_Abe": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"ooladimeji/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 42,
+"license": "gpl"
+},
+"open-llm-leaderboard-old/details_gradientai__Llama-3-8B-Instruct-Gradient-4194k": {
+"categories": [
+"fraud"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"open-llm-leaderboard-old/details_jslin09__bloom-560m-finetuned-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 56,
+"license": "unknown"
+},
+"openfoodfacts/universal-logo-detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 41,
+"license": "unknown"
+},
+"p-storm/ptit-facebook-comments-spamham": {
+"categories": [
+"spam"
+],
+"downloads": 87,
+"license": "cc-by-nc-4.0"
+},
+"panchajanya1999/spam-mistakes": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"parthhpatil200/SMS-spam": {
+"categories": [
+"spam"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"parthhpatil200/spam-sms-collection-01": {
+"categories": [
+"spam"
+],
+"downloads": 17,
+"license": "mit"
+},
+"paulkm/chinese_conversation_and_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 112,
+"license": "apache-2.0"
+},
+"pauwdanny/indonesian_hoax_news_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 32,
+"license": "unknown"
+},
+"pauwdanny/indonesian_hoax_news_ori": {
+"categories": [
+"uncategorized"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"pirocheto/phishing-url": {
+"categories": [
+"phishing"
+],
+"downloads": 945,
+"license": "cc-by-4.0"
+},
+"prajapatigourab007/innv-luxury-fashion-dataset-fraud-detection": {
+"categories": [
+"fraud"
+],
+"downloads": 20,
+"license": "cc-by-4.0"
+},
+"prathxa/phishing_detection": {
+"categories": [
+"phishing"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"premsaid/ai-phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 22,
+"license": "unknown"
+},
+"pri092005/Cifer-Fraud-Detection-Dataset-AF": {
+"categories": [
+"fraud"
+],
+"downloads": 65,
+"license": "apache-2.0"
+},
+"princewill99/PhishingEmailDetectionv2.0": {
+"categories": [
+"phishing"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"prithivMLmods/Spam-Text-Detect-Analysis": {
+"categories": [
+"spam"
+],
+"downloads": 50,
+"license": "creativeml-openrail-m"
+},
+"proffttega/join_illuminati_to_become_rich": {
+"categories": [
+"uncategorized"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"publicdatadepot/us-robocall-complaints-by-phone-number": {
+"categories": [
+"robocall"
+],
+"downloads": 65,
+"license": "cc0-1.0"
+},
+"purpcode/codeguru-python-detectors": {
+"categories": [
+"uncategorized"
+],
+"downloads": 22,
+"license": "unknown"
+},
+"purulalwani/Synthetic-Financial-Datasets-For-Fraud-Detection": {
+"categories": [
+"fraud"
+],
+"downloads": 286,
+"license": "unknown"
+},
+"purulalwani/Synthetic-Financial-Datasets-For-Fraud-Detection-Cleaned": {
+"categories": [
+"fraud"
+],
+"downloads": 34,
+"license": "unknown"
+},
+"purulalwani/Synthetic-Financial-Datasets-For-Fraud-Detection-Cleaned-Split": {
+"categories": [
+"fraud"
+],
+"downloads": 49,
+"license": "unknown"
+},
+"puttatidam/hoaxnews-ind-classfication": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"puttatidam/spam-reviews-vie-classification": {
+"categories": [
+"spam"
+],
+"downloads": 17,
+"license": "unknown"
+},
+"puyang2025/seven-phishing-email-datasets": {
+"categories": [
+"phishing"
+],
+"downloads": 582,
+"license": "other"
+},
+"qandos0/AFRD_Arabic-Fake-Reviews-Detection": {
+"categories": [
+"uncategorized"
+],
+"downloads": 142,
+"license": "unknown"
+},
+"qgallouedec/prj_gia_dataset_metaworld_hammer_v2_1111": {
+"categories": [
+"uncategorized"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"qicehng2/fake_reviews_data": {
+"categories": [
+"uncategorized"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"qppd/bank-transaction-fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 73,
+"license": "mit"
+},
+"quanshiyun/anti_fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 293,
+"license": "gpl-3.0"
+},
+"quynong/cs419-data": {
+"categories": [
+"fraud"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"r1sh4bh20/verified_Email_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 16,
+"license": "mit"
+},
+"radhoo/fake_reviews_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"radius27/scam_finetuned": {
+"categories": [
+"fraud"
+],
+"downloads": 34,
+"license": "unknown"
+},
+"raghav998/fake_reviews": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"randalakab/sms-spam-collection": {
+"categories": [
+"spam"
+],
+"downloads": 25,
+"license": "unknown"
+},
+"rapidhare/scams": {
+"categories": [
+"fraud"
+],
+"downloads": 71,
+"license": "unknown"
+},
+"rasheq/scam-shield-sms": {
+"categories": [
+"fraud"
+],
+"downloads": 114,
+"license": "cc-by-4.0"
+},
+"rationalenterprise/spam_dataset": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "apache-2.0"
+},
+"ravan18/circl-spam-detection-images": {
+"categories": [
+"spam"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"realnatlus/scam-shield-config": {
+"categories": [
+"fraud"
+],
+"downloads": 73,
+"license": "unknown"
+},
+"reatiny/chinese-spam-10000": {
+"categories": [
+"spam"
+],
+"downloads": 110,
+"license": "unknown"
+},
+"redblackbird/spam_detection_lab_poison_entry": {
+"categories": [
+"spam"
+],
+"downloads": 21,
+"license": "mit"
+},
+"rehan-ml/scamshield-scam-detection-data": {
+"categories": [
+"fraud"
+],
+"downloads": 64,
+"license": "mit"
+},
+"renemel/compiled-phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 138,
+"license": "cc-by-sa-4.0"
+},
+"renemel/joephishing_labeled_phishing": {
+"categories": [
+"phishing"
+],
+"downloads": 42,
+"license": "cc-by-sa-4.0"
+},
+"renusan05/phishing_URLs": {
+"categories": [
+"phishing"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"research-dump/mcqa_hoax_1h10r_def_bigbench": {
+"categories": [
+"uncategorized"
+],
+"downloads": 51,
+"license": "unknown"
+},
+"rhesis/European-E-commerce-Chatbot-Unsolicited-Email-Regulation-Harmless": {
+"categories": [
+"marketplace",
+"spam"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"rizano02/spam_nospam_email": {
+"categories": [
+"spam"
+],
+"downloads": 18,
+"license": "apache-2.0"
+},
+"rjraj111/SMS_Spam_Multilingual_Collection_Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 31,
+"license": "gpl"
+},
+"roberto-armas/ml_data_test_detection_bank_transaction_frauds_unbalanced": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"robinhad/manipulation-detection": {
+"categories": [
+"social-engineering"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"rohan-chandrashekar/Financial_Fraud_Detection": {
+"categories": [
+"fraud"
+],
+"downloads": 44,
+"license": "unknown"
+},
+"rohan-chandrashekar/credit_fraud_detection": {
+"categories": [
+"fraud"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"rohan-chandrashekar/fraud_detection": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"rohitdiwane/my-distiset-spam-detection": {
+"categories": [
+"spam"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"rspiocbis/gla_2.7b-best_of_n-PRM-419075": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"rspiocbis/gla_2.7b-best_of_n-PRM-419077": {
+"categories": [
+"fraud"
+],
+"downloads": 2,
+"license": "unknown"
+},
+"ruSpamModels/russian-spam-detection": {
+"categories": [
+"spam"
+],
+"downloads": 137,
+"license": "cc-by-nc-4.0"
+},
+"rzeydelis/autotrain-data-discord-scams-detector": {
+"categories": [
+"fraud"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"saberbx/Phishing_emails": {
+"categories": [
+"phishing"
+],
+"downloads": 35,
+"license": "unknown"
+},
+"saberbx/Phishing_emails_test": {
+"categories": [
+"phishing"
+],
+"downloads": 83,
+"license": "unknown"
+},
+"safehousetech/phishing": {
+"categories": [
+"phishing"
+],
+"downloads": 25,
+"license": "apache-2.0"
+},
+"sagar191/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 57,
+"license": "apache-2.0"
+},
+"sahilmaniyar888/Climate_advisory_and_scam_detection": {
+"categories": [
+"fraud"
+],
+"downloads": 44,
+"license": "unknown"
+},
+"sahith002/CIS435-CreditCardFraudDetection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 38,
+"license": "unknown"
+},
+"sahith002/fraud-financial-crime-qwen3-sft-v2": {
+"categories": [
+"fraud"
+],
+"downloads": 27,
+"license": "cc-by-4.0"
+},
+"sahith002/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 53,
+"license": "unknown"
+},
+"saifhmb/FraudPaymentData": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 50,
+"license": "unknown"
+},
+"saivarma2367/ai_sql_xss_detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"salmayaser/SpamDetection": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"samethugg/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"samhitmantrala/smish_1": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"samhitmantrala/smish_2": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"sandeep0077/email_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"santosh3110/credit_card_fraud_transactions": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 179,
+"license": "apache-2.0"
+},
+"saraanjum8630/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 28,
+"license": "other"
+},
+"sarimahsan101/pakistan-financial-mule-network": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 97,
+"license": "mit"
+},
+"scampion/CORDIS": {
+"categories": [
+"fraud"
+],
+"downloads": 69,
+"license": "unknown"
+},
+"scampion/Eurovoc": {
+"categories": [
+"fraud"
+],
+"downloads": 102,
+"license": "eupl-1.1"
+},
+"scampion/OHSDA": {
+"categories": [
+"fraud"
+],
+"downloads": 1462,
+"license": "cc-by-4.0"
+},
+"scampion/handball_video_sequences": {
+"categories": [
+"fraud"
+],
+"downloads": 212,
+"license": "unknown"
+},
+"schneiderkamplab/sapient-synth-flan-niv2-fsopt-data-task902-deceptive-opinion-spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 24,
+"license": "apache-2.0"
+},
+"schneiderkamplab/sapient-synth-flan-niv2-fsopt-data-task903-deceptive-opinion-spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 26,
+"license": "apache-2.0"
+},
+"schneiderkamplab/sapient-synth-flan-niv2-zsopt-data-task902-deceptive-opinion-spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 21,
+"license": "apache-2.0"
+},
+"schneiderkamplab/sapient-synth-flan-niv2-zsopt-data-task903-deceptive-opinion-spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 39,
+"license": "apache-2.0"
+},
+"scholl99/spam_email_v0": {
+"categories": [
+"spam"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"seanswyi/sms-spam-classification": {
+"categories": [
+"spam"
+],
+"downloads": 59,
+"license": "unknown"
+},
+"semihGuner2002/PhishingURLsDataset": {
+"categories": [
+"phishing"
+],
+"downloads": 38,
+"license": "apache-2.0"
+},
+"serenityyyyy/fake_job_postings_balanced_en": {
+"categories": [
+"jobs"
+],
+"downloads": 23,
+"license": "cc-by-4.0"
+},
+"serlinaprianita/humanoid-scammer-data": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"sert121/spambase_dataset_balanced_text": {
+"categories": [
+"spam"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"sert121/spambase_dataset_balanced_text_serialized": {
+"categories": [
+"spam"
+],
+"downloads": 9,
+"license": "unknown"
+},
+"seuun/spam-ham-phish-emails-latest": {
+"categories": [
+"phishing",
+"spam"
+],
+"downloads": 42,
+"license": "unknown"
+},
+"seuun/spam-ham-phishing-unified": {
+"categories": [
+"phishing",
+"spam"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"sgreyt/hamtaroo1": {
+"categories": [
+"uncategorized"
+],
+"downloads": 50,
+"license": "unknown"
+},
+"shahanuralam/sms-otp-spam-dataset": {
+"categories": [
+"banking",
+"spam"
+],
+"downloads": 31,
+"license": "mit"
+},
+"shakeleoatmeal/phone-scam-detection-synthetic": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 81,
+"license": "mit"
+},
+"shariul-islam/bengali-sms-smishing-dataset": {
+"categories": [
+"banking"
+],
+"downloads": 230,
+"license": "mit"
+},
+"sharjjel67/creditcardfraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 20,
+"license": "apache-2.0"
+},
+"shawhin/phishing-site-classification": {
+"categories": [
+"phishing"
+],
+"downloads": 138,
+"license": "odbl"
+},
+"shawon95/Bengali-Fake-Review-Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 268,
+"license": "unknown"
+},
+"shivanshcareers360/spamdataset": {
+"categories": [
+"jobs",
+"spam"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"shresthsamyak/phishing-website-screenshots": {
+"categories": [
+"phishing"
+],
+"downloads": 1080,
+"license": "other"
+},
+"shrija13/multiclass-email-classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 41,
+"license": "mit"
+},
+"shrutiramani7/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 51,
+"license": "apache-2.0"
+},
+"shubham419/commentary-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 3,
+"license": "unknown"
+},
+"shuohsuan/grasp_data_410_419": {
+"categories": [
+"fraud"
+],
+"downloads": 38,
+"license": "apache-2.0"
+},
+"sidddd625/adaption-fraud-and-cyber-safety": {
+"categories": [
+"fraud"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"sidimed06/fraud_dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"sidzzz07/scamshield-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 205,
+"license": "mit"
+},
+"smd20/social-engineering-attack-texts-persian": {
+"categories": [
+"social-engineering"
+],
+"downloads": 73,
+"license": "mit"
+},
+"smd20/social-engineering-qa-english": {
+"categories": [
+"social-engineering"
+],
+"downloads": 107,
+"license": "other"
+},
+"smd20/social-engineering-qa-persian": {
+"categories": [
+"social-engineering"
+],
+"downloads": 62,
+"license": "other"
+},
+"smishah774/CUHK-X": {
+"categories": [
+"uncategorized"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"softecapps/spam_ham_spanish": {
+"categories": [
+"spam"
+],
+"downloads": 154,
+"license": "apache-2.0"
+},
+"sohaibdevv/Tech-Job-Scams-and-Predatory-Recruitment": {
+"categories": [
+"jobs",
+"fraud"
+],
+"downloads": 47,
+"license": "cc-by-4.0"
+},
+"sonianaskar22/phishing_dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"sparklinstar/spam_ham_dataset": {
+"categories": [
+"spam"
+],
+"downloads": 7,
+"license": "unknown"
+},
+"speaknowswiftie/AI.Vocal.Detector.Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 4,
+"license": "unknown"
+},
+"spv21myrtea/Phishing-18K": {
+"categories": [
+"phishing"
+],
+"downloads": 24,
+"license": "unknown"
+},
+"subashdhamee/sms-spam-ham-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"sugiv/call-gate-robocalls": {
+"categories": [
+"robocall",
+"fraud"
+],
+"downloads": 80,
+"license": "cc-by-4.0"
+},
+"sujonsamir/bengali-sms-smishing-dataset": {
+"categories": [
+"banking"
+],
+"downloads": 50,
+"license": "mit"
+},
+"sukhrobnurali/uzbek_spam_dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 57,
+"license": "mit"
+},
+"sumitkant/scam-nonscam-youtube-calls": {
+"categories": [
+"fraud"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"supergoose/buzz_sources_419_clean": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"supergoose/buzz_sources_422_scaml": {
+"categories": [
+"fraud"
+],
+"downloads": 16,
+"license": "unknown"
+},
+"supergoose/flan_combined_task419_persent_answer_generation": {
+"categories": [
+"fraud"
+],
+"downloads": 20,
+"license": "unknown"
+},
+"supergoose/flan_combined_task902_deceptive_opinion_spam_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"supersam7/robocalls_consumer_protections": {
+"categories": [
+"robocall"
+],
+"downloads": 13,
+"license": "mit"
+},
+"surajshelke/malicious_url": {
+"categories": [
+"phishing"
+],
+"downloads": 140,
+"license": "unknown"
+},
+"suwaimyo/hoaxnews-ind-classfication": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"suwaimyo/spam-reviews-vie-classification": {
+"categories": [
+"spam"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"szjkdsldf/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 40,
+"license": "apache-2.0"
+},
+"t6harsh/contextual-deception-detection": {
+"categories": [
+"social-engineering"
+],
+"downloads": 48,
+"license": "cc-by-4.0"
+},
+"talby/spamassassin": {
+"categories": [
+"spam"
+],
+"downloads": 183,
+"license": "unknown"
+},
+"tanaos/synthetic-spam-detection-dataset-german": {
+"categories": [
+"spam"
+],
+"downloads": 78,
+"license": "mit"
+},
+"tanaos/synthetic-spam-detection-dataset-italian": {
+"categories": [
+"spam"
+],
+"downloads": 51,
+"license": "mit"
+},
+"tanaos/synthetic-spam-detection-dataset-spanish": {
+"categories": [
+"spam"
+],
+"downloads": 99,
+"license": "mit"
+},
+"tanquangduong/spam-detection-dataset-splits": {
+"categories": [
+"spam"
+],
+"downloads": 45,
+"license": "apache-2.0"
+},
+"tanu011235/scam-alert-dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 23,
+"license": "unknown"
+},
+"tanzuhuggingface/creditcardfraudtraining": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 66,
+"license": "unknown"
+},
+"tasksource/CLAIR_email_fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 175,
+"license": "cc-by-3.0"
+},
+"tdw419/judaism-llm-rag-corpus": {
+"categories": [
+"fraud"
+],
+"downloads": 33,
+"license": "unknown"
+},
+"terdhfdgnmhv/sms_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"testpj/phishing-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 104,
+"license": "apache-2.0"
+},
+"thananos/augmented-scam-dialogue": {
+"categories": [
+"fraud"
+],
+"downloads": 25,
+"license": "unknown"
+},
+"thananos/augmented-train-scam-dialogue": {
+"categories": [
+"fraud"
+],
+"downloads": 22,
+"license": "unknown"
+},
+"thankrandomness/spam-detection-sample": {
+"categories": [
+"spam"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"theArijitDas/Fake-Reviews-Dataset": {
+"categories": [
+"uncategorized"
+],
+"downloads": 179,
+"license": "unknown"
+},
+"thehamkercat/telegram-spam-ham": {
+"categories": [
+"spam"
+],
+"downloads": 208,
+"license": "wtfpl"
+},
+"thescamexposed/neighbor-spoofing-scam-calls": {
+"categories": [
+"fraud"
+],
+"downloads": 48,
+"license": "cc-by-4.0"
+},
+"thibautweber/fraud_detection": {
+"categories": [
+"fraud"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"thibautweber/fraud_detection2": {
+"categories": [
+"fraud"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"thibautweber/fraud_detection3": {
+"categories": [
+"fraud"
+],
+"downloads": 35,
+"license": "unknown"
+},
+"thibautweber/fraud_detection4": {
+"categories": [
+"fraud"
+],
+"downloads": 35,
+"license": "unknown"
+},
+"thibautweber/fraud_detection5": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "unknown"
+},
+"thirdExec/scam-dialogue-thai-translated": {
+"categories": [
+"fraud"
+],
+"downloads": 32,
+"license": "unknown"
+},
+"thomask1018/credit_card_fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 35,
+"license": "unknown"
+},
+"thoms123/Creditcardfrauddetection": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 13,
+"license": "unlicense"
+},
+"tnltrinh/credit_card_fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 11,
+"license": "unknown"
+},
+"tomdavies32/beckham150823": {
+"categories": [
+"uncategorized"
+],
+"downloads": 1,
+"license": "unknown"
+},
+"tomdavies32/beckhamtest": {
+"categories": [
+"uncategorized"
+],
+"downloads": 6,
+"license": "other"
+},
+"tomshe/turing_phishing_detection": {
+"categories": [
+"phishing"
+],
+"downloads": 32,
+"license": "apache-2.0"
+},
+"tomshe/turing_phishing_selection": {
+"categories": [
+"phishing"
+],
+"downloads": 27,
+"license": "apache-2.0"
+},
+"toviiw/spam_ham_spanish": {
+"categories": [
+"spam"
+],
+"downloads": 14,
+"license": "apache-2.0"
+},
+"trannguyenthaituan/vietnamese_sms_phishing_sample": {
+"categories": [
+"phishing"
+],
+"downloads": 85,
+"license": "cc-by-4.0"
+},
+"twoweeksgetheart/PhishingDataset": {
+"categories": [
+"phishing"
+],
+"downloads": 21,
+"license": "unknown"
+},
+"tyb343/bank-scam-victims-en-hi": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 63,
+"license": "unknown"
+},
+"ucirvine/sms_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8730,
+"license": "unknown"
+},
+"umarfm18/phishing-url": {
+"categories": [
+"phishing"
+],
+"downloads": 74,
+"license": "cc-by-4.0"
+},
+"unisqdaniel/cow_detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 396,
+"license": "unknown"
+},
+"unreadlogs/Spam-Ham-OpenShield": {
+"categories": [
+"spam"
+],
+"downloads": 100,
+"license": "cc-by-nc-4.0"
+},
+"uo271588/fraudulent-mails": {
+"categories": [
+"fraud"
+],
+"downloads": 6,
+"license": "mit"
+},
+"useKled/impersonation-scam-messages": {
+"categories": [
+"fraud"
+],
+"downloads": 45,
+"license": "other"
+},
+"useKled/marketplace-scam-listings": {
+"categories": [
+"marketplace",
+"fraud"
+],
+"downloads": 51,
+"license": "other"
+},
+"useKled/payment-redirect-scams": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 41,
+"license": "other"
+},
+"useKled/scam-emails": {
+"categories": [
+"fraud"
+],
+"downloads": 54,
+"license": "other"
+},
+"useKled/scam-messages-you-received": {
+"categories": [
+"fraud"
+],
+"downloads": 48,
+"license": "other"
+},
+"valurank/spam_ham_comments": {
+"categories": [
+"spam"
+],
+"downloads": 23,
+"license": "other"
+},
+"varadkamtikar/credit-card-fraud": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"vcbvbc/beckalim": {
+"categories": [
+"uncategorized"
+],
+"downloads": 2,
+"license": "apache-2.0"
+},
+"vichetkao/Scam_Message_9_Language": {
+"categories": [
+"fraud"
+],
+"downloads": 35,
+"license": "mit"
+},
+"victor/real-or-fake-fake-jobposting-prediction": {
+"categories": [
+"jobs"
+],
+"downloads": 729,
+"license": "cc0-1.0"
+},
+"vietkemmai/Data_voice_AI_human_scam": {
+"categories": [
+"fraud"
+],
+"downloads": 218,
+"license": "unknown"
+},
+"vihargagan024/fraudtransactiondata": {
+"categories": [
+"banking",
+"fraud"
+],
+"downloads": 15,
+"license": "unknown"
+},
+"vijayagrawal/spam-email-classification": {
+"categories": [
+"spam"
+],
+"downloads": 13,
+"license": "apache-2.0"
+},
+"viperDEE/spam_messages_and_linsks_dataset.v1.1": {
+"categories": [
+"spam"
+],
+"downloads": 10,
+"license": "mit"
+},
+"vishnun0027/spam-detection": {
+"categories": [
+"spam"
+],
+"downloads": 14,
+"license": "unknown"
+},
+"vitaliy-sharandin/synthetic-fraud-detection": {
+"categories": [
+"fraud"
+],
+"downloads": 227,
+"license": "unknown"
+},
+"vsak/YouTube_spam_translation": {
+"categories": [
+"uncategorized"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"vsak/sms_spam_category": {
+"categories": [
+"uncategorized"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"vsak/youtube_spam_category": {
+"categories": [
+"uncategorized"
+],
+"downloads": 8,
+"license": "unknown"
+},
+"wangyuancheng/discord-phishing-scam": {
+"categories": [
+"phishing",
+"fraud"
+],
+"downloads": 118,
+"license": "mit"
+},
+"wangyuancheng/discord-phishing-scam-clean": {
+"categories": [
+"phishing",
+"fraud"
+],
+"downloads": 87,
+"license": "mit"
+},
+"winterForestStump/cbr_bonds_info_detector": {
+"categories": [
+"uncategorized"
+],
+"downloads": 22,
+"license": "mit"
+},
+"winterForestStump/fake-news-detector-euvsdisinfo": {
+"categories": [
+"uncategorized"
+],
+"downloads": 69,
+"license": "unknown"
+},
+"wrynx/probe-robustness-sms_spam": {
+"categories": [
+"uncategorized"
+],
+"downloads": 19,
+"license": "unknown"
+},
+"xinxingwu/phishing-site-classification": {
+"categories": [
+"phishing"
+],
+"downloads": 29,
+"license": "unknown"
+},
+"yahska/spam_notspam_blog-sentiment-dataset": {
+"categories": [
+"spam"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"yasik/poly-opt-scam": {
+"categories": [
+"fraud"
+],
+"downloads": 17,
+"license": "cc-by-nc-nd-4.0"
+},
+"yasserrmd/dlp_email_classification": {
+"categories": [
+"uncategorized"
+],
+"downloads": 37,
+"license": "unknown"
+},
+"yichenw3/real-life-scam-reachout": {
+"categories": [
+"fraud"
+],
+"downloads": 26,
+"license": "mit"
+},
+"ysangam/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset": {
+"categories": [
+"fraud"
+],
+"downloads": 116,
+"license": "apache-2.0"
+},
+"yunfan-y/fraud-detection-fraud": {
+"categories": [
+"fraud"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"yunfan-y/fraud-detection-legitimate": {
+"categories": [
+"fraud"
+],
+"downloads": 26,
+"license": "unknown"
+},
+"yunfan-y/fraud-detection-poisoned": {
+"categories": [
+"fraud"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"yxzwayne/email-spam-10k": {
+"categories": [
+"spam"
+],
+"downloads": 35,
+"license": "apache-2.0"
+},
+"yzhuang/autotree_pmlb_100000_spambase_sgosdt_l256_d3_sd0": {
+"categories": [
+"uncategorized"
+],
+"downloads": 18,
+"license": "unknown"
+},
+"yzhuang/autotree_pmlb_100000_spambase_sgosdt_l256_dim10_d3_sd0": {
+"categories": [
+"uncategorized"
+],
+"downloads": 13,
+"license": "unknown"
+},
+"yzhuang/autotree_pmlb_10000_spambase_sgosdt_l256_dim10_d3_sd0": {
+"categories": [
+"uncategorized"
+],
+"downloads": 12,
+"license": "unknown"
+},
+"yzhuang/autotree_pmlb_spambase_sgosdt_l256_d3_sd0": {
+"categories": [
+"uncategorized"
+],
+"downloads": 10,
+"license": "unknown"
+},
+"zakariajaadi/phishing-url-classification": {
+"categories": [
+"phishing"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"zargar4194/QAtamin": {
+"categories": [
+"fraud"
+],
+"downloads": 5,
+"license": "unknown"
+},
+"zargar4194/tamin": {
+"categories": [
+"fraud"
+],
+"downloads": 2,
+"license": "mit"
+},
+"zefang-liu/phishing-email-dataset": {
+"categories": [
+"phishing"
+],
+"downloads": 1909,
+"license": "lgpl-3.0"
+},
+"zera09/financial-fraud-dpo-exact": {
+"categories": [
+"fraud"
+],
+"downloads": 27,
+"license": "unknown"
+},
+"zionia/phishing-emails": {
+"categories": [
+"phishing"
+],
+"downloads": 65,
+"license": "unknown"
+},
+"zlyngkhoi/financial-fraud-dpo-exact": {
+"categories": [
+"fraud"
+],
+"downloads": 37,
+"license": "unknown"
+},
+"zlyngkhoi/financial-fraud-fulltext-dpo": {
+"categories": [
+"fraud"
+],
+"downloads": 21,
+"license": "unknown"
+}
+}

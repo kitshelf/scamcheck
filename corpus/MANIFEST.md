@@ -118,7 +118,13 @@ Provenance, license, and counts for every external corpus in this folder. Downlo
 
 | Measure | Value |
 |---|---|
-| Datasets | 8 |
-| Messages / dialogues | ~43,000 |
-| On-disk size | ~72 MB |
-| License range | LGPL-3.0, CC-BY-4.0, Apache-2.0, CC-BY-3.0, MIT — all redistributable with attribution |
+| **Indexed (whole HF surface)** | **1,051 datasets** — see [`INDEX.md`](INDEX.md) / [`index.json`](index.json) |
+| Vendored here (downloaded files) | 8 |
+| Vendored messages / dialogues | ~43,000 |
+| Vendored on-disk size | ~72 MB |
+| License range (vendored) | LGPL-3.0, CC-BY-4.0, Apache-2.0, CC-BY-3.0, MIT — all redistributable with attribution |
+| Licenses in the index | mostly `unknown` (verify each card before redistributing), then MIT, Apache-2.0, CC-BY-4.0 |
+
+## Surface reality (per category)
+
+From the index: **fraud 375 · phishing 166 · spam 160 · banking 104** clear the 50+ bar; **jobs 26 · social-engineering 18 · robocall 17 · marketplace 7 · romance 6 · rentals 1** do not — those public corpora simply do not exist. The niche PRD families are covered by the researched pack markers (`../packs/`), sourced from regulator guidance, which is the right authority for them.
