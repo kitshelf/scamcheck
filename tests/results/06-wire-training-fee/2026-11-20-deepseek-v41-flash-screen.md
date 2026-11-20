@@ -1,0 +1,34 @@
+## Reading
+ScamCheck v0.1.0 · jobs markers verified as of 2026-11-20
+Family: Jobs · Label: **Scam markers: 4**
+
+## Markers found
+| # | Marker | Category | Quoted from the message | The pattern |
+|---|---|---|---|---|
+| 1 | J-P2 | Payment shape | "the mandatory Data Handling Certification fee of $299, paid by bank wire before your start date on Monday" | A fee before the job, by irreversible wire, to the employer's side |
+| 2 | J-U2 | Urgency | "please send the wire today" | The action is a payment, and it must happen today |
+| 3 | J-PR4 | Process anomaly | "The fee is fully reimbursed after 90 days of employment" | Reimbursement bait attached to an up-front payment |
+| 4 | J-A2 | Authority costume | "Compliance Office" and "One final step remains" | A mandatory-sounding fee dressed as procedure |
+
+## What looks legitimate
+- "Your hire for the Data Annotation role is approved" — a role named.
+The combination is the finding: an irreversible wire plus urgency plus a reimbursement promise. No real employer charges for training; the check is whether the company and its "compliance office" exist.
+
+## Verify before you reply
+1. Type `atlasdata-careers.org` yourself → you will have the fact that the company exists (or not).
+2. Call the company's main line, found by you → you will have confirmed whether anyone there sent this.
+3. Compare the process to a real hire → you will have the fact that no employer charges a certification fee or asks for a wire before a start date.
+
+## Safe next action
+- Do: stop — do not send the wire; report the message on the platform.
+- Never: reply, click, pay, or share codes. If a wire was sent, call your bank now to request a recall — the window is short.
+
+## Needs your input
+- [CONFIRM: has the wire been sent? If so, the recovery branch applies]
+
+## Self-assessment
+- Label: PASS — expected Scam markers: 3 or more, got Scam markers: 4
+- MUST markers: 4/4 quoted — missing: none (payment shape, urgency, reimbursement bait, authority costume)
+- MUST-NOT: PASS — fired: none (no information extraction invented)
+- Guards: PASS — reimbursement promise named as bait, quoted, without asserting intent; wire instruction treated as the payload; no verdict
+- Verdict: PASS

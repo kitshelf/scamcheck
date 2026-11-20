@@ -1,0 +1,33 @@
+## Reading
+ScamCheck v0.1.0 · jobs markers verified as of 2026-11-20
+Family: Jobs · Label: **Scam markers: 3**
+
+## Markers found
+| # | Marker | Category | Quoted from the message | The pattern |
+|---|---|---|---|---|
+| 1 | J-P5 | Payment shape | "Send a one-time activation of 0.005 USDT to our registration address" | Paying to receive pay — the payment's direction is the tell |
+| 2 | J-PR1 | Process anomaly | "wages in USDT to a wallet you must register by paying first" | Real payroll never charges an activation |
+| 3 | J-U1 | Urgency | "Registration must be completed before Friday to be included in the next pay cycle" | A deadline coupled to money |
+
+## What looks legitimate
+- "Quantum Edge pays all remote contractors in USDT (stablecoin)" — a plausible-sounding policy.
+The mechanism is the finding: the 0.005 USDT is the take, and wallet addresses are irreversible. The small amount does not soften it — the pattern is the direction of payment, not its size.
+
+## Verify before you reply
+1. Type `quantumedgerecruits.io` yourself → you will have the fact that the company exists (or not).
+2. Call the company's main line, found by you → you will have confirmed whether anyone there sent this.
+3. Compare the process to a real hire → you will have the fact that no employer charges an activation to pay you.
+
+## Safe next action
+- Do: stop — do not send any crypto; report the message on the platform.
+- Never: reply, click, pay, or share codes. If crypto was sent, report it to the exchange and to `ic3.gov` — recovery is uncommon.
+
+## Needs your input
+- [CONFIRM: has any crypto been sent? If so, the recovery branch applies]
+
+## Self-assessment
+- Label: PASS — expected Scam markers: 3 or more, got Scam markers: 3
+- MUST markers: 3/3 quoted — missing: none (payment shape, process anomaly, urgency)
+- MUST-NOT: PASS — fired: none (no information extraction, no isolation invented — the message arrives by email with no off-platform move)
+- Guards: PASS — the 0.005 USDT named as the entire take; small amount not allowed to soften the reading; no verdict
+- Verdict: PASS

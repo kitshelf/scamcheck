@@ -1,0 +1,36 @@
+## Reading
+ScamCheck v0.1.0 · jobs markers verified as of 2026-11-20
+Family: Jobs · Label: **Suspicious (1 marker)**
+
+## Markers found
+| # | Marker | Category | Quoted from the message | The pattern |
+|---|---|---|---|---|
+| 1 | J-I1 | Isolation | "Our team chat lives on Discord — the invite link comes with your welcome email" | An off-platform move — noted as unusual for hiring, normal for a small company |
+
+J-I1's *not-a-marker-when* applies and is stated honestly: the move is explained openly ("We know it's unusual; it's where the whole company works"), and everything else about the process is normal. On its own it is one marker, never the whole reading.
+
+The stipend is **not** a marker: "we reimburse up to $600 against receipts in your first paycheck" is money flowing *from* the employer, after work begins — the opposite direction of the equipment-deposit pattern.
+
+## What looks legitimate
+- "the three video calls you already did (Aisha, Tom, and me)" — a real interview loop, with named interviewers.
+- "No deadline pressure — take the week if you want it" — the absence of urgency, which is legitimate-looking evidence.
+- "Everything else is in the attached offer PDF" — a normal artifact.
+
+## Verify before you reply
+1. Type `palletandpine.io` and find Dana Reyes on the company site and LinkedIn → you will have the fact that the company and the person exist.
+2. Confirm the named panelists (Aisha, Tom) are real people at the company → you will have the loop confirmed.
+3. Open the offer PDF and confirm the stipend mechanics ("up to $600 against receipts in your first paycheck") → you will have the reimbursement terms in writing.
+
+## Safe next action
+- Do: proceed only after the checks — the marker is one, bounded, and the process is otherwise normal.
+- Never: reply, click, pay, or share codes without the checks done.
+
+## Needs your input
+- [NO-CHECK: whether Dana Reyes and the panelists are real — the paste cannot show it; check the site and LinkedIn]
+
+## Self-assessment
+- Label: PASS — expected Suspicious at most (1–2 markers), got Suspicious (1); must NOT reach Scam markers: 3
+- MUST markers: n/a (near-miss) — the honest J-I1 noted and bounded
+- MUST-NOT: PASS — no process anomaly (real loop), no urgency (removed), no information extraction, no authority costume fired
+- Guards: PASS — the report says what would move the label to **Legitimate-looking**; the absence of pressure noted; no markers invented to fill the table
+- Verdict: PASS

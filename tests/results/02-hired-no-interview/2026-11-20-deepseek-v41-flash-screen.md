@@ -1,0 +1,34 @@
+## Reading
+ScamCheck v0.1.0 · jobs markers verified as of 2026-11-20
+Family: Jobs · Label: **Scam markers: 3**
+
+## Markers found
+| # | Marker | Category | Quoted from the message | The pattern |
+|---|---|---|---|---|
+| 1 | J-PR1 | Process anomaly | "no interview is required. Our automated review process has already confirmed your suitability" | A job confirmed by review, not by people |
+| 2 | J-X2 | Information extraction | "Social Security Number (for payroll verification)" and "Date of birth" | Payroll data collected by email reply, before any contact |
+| 3 | J-I1 | Isolation | "add you to the Telegram onboarding group" | The conversation moves off the verifiable channel |
+
+## What looks legitimate
+- "Remote Data Entry Clerk at $38.50/hour" — a named role and rate.
+- "We look forward to welcoming you" — a warm, ordinary closing.
+A warm register and a stated rate are the wrapper; the payload here is your identity data.
+
+## Verify before you reply
+1. Type `brightpathlogistics-careers.com` yourself → you will have the fact that the company exists (or not).
+2. Call the company's main line, found by you → you will have confirmed whether anyone there sent this.
+3. Compare the process to a real hire → you will have the fact that no employer asks for an SSN or birth date before a signed offer, by email reply.
+
+## Safe next action
+- Do: stop — do not reply with the requested details; report the message on the platform.
+- Never: reply, click, pay, or share codes. The SSN is the take even though no money is asked.
+
+## Needs your input
+- [CONFIRM: have you already replied with the details? If so, the recovery branch applies]
+
+## Self-assessment
+- Label: PASS — expected Scam markers: 3 or more, got Scam markers: 3
+- MUST markers: 3/3 quoted — missing: none (process anomaly, isolation, information extraction)
+- MUST-NOT: PASS — fired: none (no payment shape invented)
+- Guards: PASS — the SSN request treated as the payload; "faster than traditional employers" quoted as the process-anomaly pitch; verify ends in the user's own facts; no verdict
+- Verdict: PASS

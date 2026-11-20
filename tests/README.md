@@ -2,7 +2,7 @@
 
 ScamCheck is tested like software: synthetic messages with planted markers, expected answer keys, and dated records of real runs. A prompt system without fixtures is a guess.
 
-**State: RED.** The fixtures, answer keys, screen workflow, and jobs rubric all exist. What is missing is the recorded runs — `results/` stays empty until the gauntlet is actually run. Nothing passes until it is.
+**State: GREEN.** All 16 fixtures pass. The fixtures, answer keys, workflow, and rubric exist, and the recorded runs are in `results/` — one folder per fixture, each with the full report and its self-assessment. Re-run the gauntlet after any rubric change; the answer keys are the spec.
 
 ## Structure
 

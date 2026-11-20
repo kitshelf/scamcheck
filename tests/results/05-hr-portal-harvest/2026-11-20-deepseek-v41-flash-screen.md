@@ -1,0 +1,35 @@
+## Reading
+ScamCheck v0.1.0 · jobs markers verified as of 2026-11-20
+Family: Jobs · Label: **Scam markers: 5**
+
+## Markers found
+| # | Marker | Category | Quoted from the message | The pattern |
+|---|---|---|---|---|
+| 1 | J-X2 | Information extraction | "the portal will ask for your Social Security Number, bank account and routing numbers for payroll direct deposit" | Payroll data harvested by form, before any contact |
+| 2 | J-X1 | Information extraction | "and a photo of your driver's license" | The identity-theft kit, requested up front |
+| 3 | J-X2 | Information extraction | "reply to this email with the same details and we will enter them manually" | The same data, by email reply, if the link fails |
+| 4 | J-U1 | Urgency | "If it is not finished within 48 hours, your offer will be released to the next candidate" | A deadline built to stop you checking |
+| 5 | J-A2 | Authority costume | "This is standard pre-employment verification" and "Dear candidate" | False normalcy from a generic "onboarding system" |
+
+## What looks legitimate
+- "Your onboarding profile for the Junior Analyst position" — a role named.
+"Standard pre-employment verification" is the costume: real verification happens after a real offer, through checkable channels, and never by email reply. An onboarding portal that already holds an offer would know your name.
+
+## Verify before you reply
+1. Reach the hiring company's real HR channel through a number or address you find yourself → you will have the fact that the company and the role exist (or not).
+2. Compare the process to a real hire → you will have the fact that no employer collects SSN, bank, and license by a link or an email reply.
+
+## Safe next action
+- Do: stop — do not open the link or reply with any details; report the message on the platform.
+- Never: reply, click, pay, or share codes. The identity data is the payload even though no money is asked.
+
+## Needs your input
+- [NO-CHECK: where `peoplehub-secureportal.net` really points — the paste cannot show it; do not click to find out]
+- [CONFIRM: have you entered any details? If so, the recovery branch applies]
+
+## Self-assessment
+- Label: PASS — expected Scam markers: 3 or more, got Scam markers: 5
+- MUST markers: 4/4 quoted — missing: none (info extraction ×2, urgency, authority costume/false normalcy)
+- MUST-NOT: PASS — fired: none (no payment shape invented)
+- Guards: PASS — false normalcy flagged; generic greeting noted as supporting evidence; verify ends in the user's own facts; no verdict
+- Verdict: PASS

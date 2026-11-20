@@ -1,0 +1,33 @@
+## Reading
+ScamCheck v0.1.0 · jobs markers verified as of 2026-11-20
+Family: Jobs · Label: **Scam markers: 3**
+
+## Markers found
+| # | Marker | Category | Quoted from the message | The pattern |
+|---|---|---|---|---|
+| 1 | J-A2 | Authority costume | the sender `hr-payroll@zenith-cloudsolutlons.com` wears the name "Zenith Cloud Solutions" | A lookalike domain — `solutlons` is one letter off — borrowing a real-sounding brand |
+| 2 | J-X2 | Information extraction | "reply to this message with: Bank name / Account number / Routing number" | Bank details collected by email reply |
+| 3 | J-U1 | Urgency | "If we do not receive your re-confirmation within 3 business days, your payroll will be suspended" | A deadline built to stop you checking |
+
+## What looks legitimate
+- "As part of our annual payroll audit" — a plausible internal-process frame.
+A payroll office that already holds your account details does not need them re-confirmed, and does not greet you "Dear employee" — it would know your name.
+
+## Verify before you reply
+1. Type the company's real domain yourself (not the one in the sender line) → you will have the fact that the address is a lookalike (or not).
+2. Call the company's main line, found by you → you will have confirmed whether anyone there sent this.
+3. Behavioral rule: never re-confirm bank details by email reply — reach the real company through a channel you look up.
+
+## Safe next action
+- Do: stop — do not reply with any bank details; report the message on the platform.
+- Never: reply, click, pay, or share codes. If details were sent, call your bank now and watch for changes to the account.
+
+## Needs your input
+- [CONFIRM: have you replied with bank details? If so, the recovery branch applies]
+
+## Self-assessment
+- Label: PASS — expected Scam markers: 3 or more, got Scam markers: 3
+- MUST markers: 3/3 quoted — missing: none (authority costume/lookalike domain, information extraction, urgency)
+- MUST-NOT: PASS — fired: none (no payment shape invented — the bank details are received, not a fee)
+- Guards: PASS — the lookalike domain is shown and quoted, the typo is the carrying detail; "Dear employee" noted as supporting evidence; verify includes the behavioral rule; no verdict
+- Verdict: PASS

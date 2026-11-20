@@ -1,0 +1,34 @@
+## Reading
+ScamCheck v0.1.0 · jobs markers verified as of 2026-11-20
+Family: Jobs · Label: **Suspicious (1 marker)**
+
+## Markers found
+| # | Marker | Category | Quoted from the message | The pattern |
+|---|---|---|---|---|
+| 1 | J-U1 | Urgency | "The client is closing their interview round on Friday, so I need to move" — "Send me 2-3 time slots today" | A deadline — bounded honestly: it is external, and nothing crosses the money, identity, or off-platform lines |
+
+The clock here is the client's round closing, the asks are ordinary, and no money, data, or off-platform move is attached — so this is one marker, not a scam pattern.
+
+## What looks legitimate
+- "a 45-minute video call with the hiring manager" — a normal interview step.
+- "Have your references ready — if the call goes well, they want an offer out by Monday" — references after a good call, standard practice.
+- "No fees, no paperwork on your side. Just the call." — states the opposite of the fee pattern.
+
+## Verify before you reply
+1. Type `harborlight-search.com` and find Marcus Bell on the agency site or LinkedIn → you will have the fact that the recruiter exists.
+2. Look up the client, Harborview Analytics, independently → you will have confirmed the role is real.
+3. Send the time slots; the video link arrives through the recruiter's own channel → you will have the loop started on a verifiable channel.
+
+## Safe next action
+- Do: proceed — the urgency is real and ordinary; reply with your availability.
+- Never: pay any fee (none is asked); never share codes.
+
+## Needs your input
+- [NO-CHECK: whether Harborlight Search and Marcus Bell are real — the paste cannot show it; check the site]
+
+## Self-assessment
+- Label: PASS — expected Suspicious at most (1 marker: urgency), got Suspicious (1); must NOT reach Scam markers: 3
+- MUST markers: n/a (near-miss) — the single urgency marker flagged and bounded
+- MUST-NOT: PASS — no process anomaly (normal loop), no payment shape ("No fees"), no isolation, no information extraction fired
+- Guards: PASS — the report distinguishes this urgency from the scam version (external clock, ordinary asks, no money/identity/off-platform line); one marker, one calm report; no padding
+- Verdict: PASS
