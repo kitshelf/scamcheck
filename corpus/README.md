@@ -24,6 +24,14 @@ python3 corpus/fetch.py <dataset-id>
 
 The index is metadata only — nothing is vendored wholesale, because 1,000 datasets in git is multiple gigabytes. The vendored sets below are the verified, redistributable, message-level ones.
 
+Some datasets ship as parquet rather than csv. Convert those to text on fetch:
+
+```sh
+python3 corpus/convert.py <dataset-id>        # parquet -> .csv + .md preview; pickle -> .csv if data
+```
+
+`convert.py` reads parquet/pickle with pandas (the payload is data, so it converts), writes a `.csv` plus a `.md` preview, and drops model artifacts and images it cannot turn into text. Nothing is ever unchecked-unpickled.
+
 ## Contents
 
 | Corpus | Source (Hugging Face) | License | Rows | Shape |
@@ -50,6 +58,8 @@ How a marker earns its way from this corpus into a rubric or pack:
 
 ## Rules for this folder
 
+- **Text formats only.** `.csv`, `.json`, `.jsonl`, `.ndjson`, `.txt`, `.tsv`, `.xml`. Binaries — parquet, pickle, model weights, images, audio, PDFs, code — never come in *as binaries*. Parquet and data-pickles are **converted to text** first (`convert.py`); model artifacts, images, and audio are dropped outright. A text-reading screener's corpus holds text, and `fetch.py` enforces this by default.
+- **No gated/private datasets.** If a download returns 401, it does not come in.
 - Never add a corpus without license and provenance in `MANIFEST.md`. An unclear license means it does not come in.
 - Never use corpus material as a fixture. Fixtures are authored, synthetic, planted; corpus is downloaded, as-is.
 - Never paste corpus messages into a user's screen or treat them as a user's material.

@@ -1,0 +1,11 @@
+scenario_id,scenario_text,claim,label
+test_001,"A payment platform attributes outages entirely to external vendors despite evidence of internal capacity issues.","Self-deception is present.",1
+test_002,"A payment platform reviews both vendor performance and internal capacity issues.","Self-deception is present.",0
+test_003,"A clinic claims patient safety is improving despite rising adverse-event rates.","Self-deception is present.",1
+test_004,"A clinic investigates rising adverse-event rates and updates procedures.","Self-deception is present.",0
+test_005,"A logistics network blames weather for delays despite known routing inefficiencies.","Self-deception is present.",1
+test_006,"A logistics network evaluates both weather impact and routing inefficiencies.","Self-deception is present.",0
+test_007,"A software organization claims release quality is improving despite rising defect rates.","Self-deception is present.",1
+test_008,"A software organization investigates the causes of rising defect rates.","Self-deception is present.",0
+test_009,"A team insists morale is strong despite survey results showing widespread dissatisfaction.","Self-deception is present.",1
+test_010,"A team incorporates survey results into its assessment of morale.","Self-deception is present.",0

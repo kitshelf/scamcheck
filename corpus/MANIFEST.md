@@ -119,9 +119,9 @@ Provenance, license, and counts for every external corpus in this folder. Downlo
 | Measure | Value |
 |---|---|
 | **Indexed (whole HF surface)** | **1,051 datasets** — see [`INDEX.md`](INDEX.md) / [`index.json`](index.json) |
-| Vendored here (downloaded files) | 8 |
-| Vendored messages / dialogues | ~43,000 |
-| Vendored on-disk size | ~72 MB |
+| Vendored here (downloaded files) | 34 text datasets (+ the original named sets) |
+| Vendored on-disk size | ~163 MB |
+| File types vendored | `.csv`, `.json`, `.jsonl`, `.txt` only — no binaries |
 | License range (vendored) | LGPL-3.0, CC-BY-4.0, Apache-2.0, CC-BY-3.0, MIT — all redistributable with attribution |
 | Licenses in the index | mostly `unknown` (verify each card before redistributing), then MIT, Apache-2.0, CC-BY-4.0 |
 

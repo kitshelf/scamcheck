@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Fetch indexed corpora on demand — stdlib only.
+"""Fetch indexed corpora on demand — stdlib only, text-only by default.
 
 ScamCheck's corpus index (corpus/index.json) lists every scam/fraud/phishing/
 spam dataset found on Hugging Face. This tool downloads one, or the top-N of a
 category, without vendoring the whole surface into git.
+
+**Text only.** It downloads data files with text extensions (.csv, .json,
+.jsonl, .ndjson, .txt, .tsv, .xml) and skips everything else — parquet, pickle,
+model weights, images, audio, PDFs, code. A text-reading screener's corpus has
+no place for binaries. Pass --any to override (rarely wanted).
 
 Usage:
     python3 corpus/fetch.py <dataset-id>                 # one dataset
@@ -27,6 +32,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 INDEX = os.path.join(HERE, "index.json")
 API = "https://huggingface.co/api/datasets"
 
+# text-only doctrine: what the kit can read without any dependency
+TEXT_EXT = {".csv", ".json", ".jsonl", ".ndjson", ".txt", ".tsv", ".xml"}
+
 
 def load_index():
     with open(INDEX, encoding="utf-8") as f:
@@ -44,13 +52,17 @@ def tree(did):
         return json.load(r)
 
 
-def download(did, max_mb=100):
+def download(did, max_mb=100, any_file=False):
     dest = os.path.join(HERE, slug(did))
     os.makedirs(dest, exist_ok=True)
     files = [e for e in tree(did) if e.get("type") == "file" and not e["path"].startswith(".")]
     total = 0
     for e in files:
         path, size = e["path"], e.get("size", 0)
+        ext = os.path.splitext(path)[1].lower()
+        if not any_file and ext not in TEXT_EXT:
+            print(f"  skip {path} (non-text)")
+            continue
         if max_mb and size > max_mb * 1_000_000:
             print(f"  skip {path} ({size/1e6:.1f} MB > {max_mb} MB cap)")
             continue
@@ -73,6 +85,7 @@ def main():
     ap.add_argument("-n", "--number", type=int, default=20, help="how many for --category (default 20)")
     ap.add_argument("--list", metavar="CATEGORY", help="list a category without downloading")
     ap.add_argument("--max-mb", type=int, default=100, help="skip individual files larger than this (default 100)")
+    ap.add_argument("--any", action="store_true", help="download non-text files too (binaries, parquet, model artifacts) — rarely wanted")
     args = ap.parse_args()
 
     index = load_index()
@@ -91,13 +104,13 @@ def main():
         rows = rows[: args.number]
         print(f"Fetching {len(rows)} datasets from '{args.category}' ...")
         for d, _ in rows:
-            download(d, args.max_mb)
+            download(d, args.max_mb, args.any)
         return
 
     if args.dataset:
         if args.dataset not in index:
             print(f"note: {args.dataset} is not in the index; fetching it anyway.")
-        download(args.dataset, args.max_mb)
+        download(args.dataset, args.max_mb, args.any)
         return
 
     ap.print_help()

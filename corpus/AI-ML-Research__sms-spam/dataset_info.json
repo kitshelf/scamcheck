@@ -1,0 +1,47 @@
+{
+  "output_org": "AI-ML-Research",
+  "output_name": "sms-spam",
+  "source_type": "Hugging Face",
+  "source": "https://huggingface.co/datasets/ucirvine/sms_spam",
+  "original_row_count": 5574,
+  "output_row_count": 5574,
+  "output_size_bytes": 192390,
+  "shard_files": [
+    "data-00000-of-00001.parquet"
+  ],
+  "columns": [
+    "sms",
+    "label"
+  ],
+  "dtypes": {
+    "sms": "String",
+    "label": "Int64"
+  },
+  "tokenizer": null,
+  "max_length": null,
+  "options": {
+    "output_name": "sms-spam",
+    "max_rows": 0,
+    "stratify": true,
+    "stratify_column": "label",
+    "columns_keep": [
+      "sms",
+      "label"
+    ],
+    "rename_map": {},
+    "text_column": "sms",
+    "add_word_length": false,
+    "add_char_length": false,
+    "add_bucket_64": false,
+    "tokenize": false,
+    "tokenizer_name": "",
+    "max_length": 256,
+    "include_attention_mask": true,
+    "strip_whitespace": false,
+    "ascii_keyboard_only": false,
+    "min_chars": 0,
+    "max_words": 512,
+    "source_type": "Hugging Face",
+    "source": "https://huggingface.co/datasets/ucirvine/sms_spam"
+  }
+}

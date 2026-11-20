@@ -1,0 +1,21 @@
+scenario_id,scenario_text,claim,label
+train_001,"Management attributes falling profits entirely to market conditions despite evidence of internal operational failures.","Self-deception is present.",1
+train_002,"Management attributes falling profits to both market conditions and documented operational failures.","Self-deception is present.",0
+train_003,"A project team claims the delay was unavoidable despite repeated ignored warnings.","Self-deception is present.",1
+train_004,"A project team acknowledges that ignored warnings contributed to the delay.","Self-deception is present.",0
+train_005,"A hospital attributes rising readmissions solely to patient behavior despite discharge process failures.","Self-deception is present.",1
+train_006,"A hospital reviews both patient factors and discharge process quality.","Self-deception is present.",0
+train_007,"A software team blames users for defects despite documented testing gaps.","Self-deception is present.",1
+train_008,"A software team acknowledges testing gaps as a contributing factor.","Self-deception is present.",0
+train_009,"A support organization claims service quality is excellent despite rising complaint volume.","Self-deception is present.",1
+train_010,"A support organization investigates complaint trends and service quality metrics.","Self-deception is present.",0
+train_011,"A supply chain team insists resilience is strong despite repeated stockouts.","Self-deception is present.",1
+train_012,"A supply chain team acknowledges resilience weaknesses revealed by stockouts.","Self-deception is present.",0
+train_013,"A finance team claims liquidity is healthy despite relying on delayed supplier payments.","Self-deception is present.",1
+train_014,"A finance team identifies supplier-payment delays as a liquidity risk.","Self-deception is present.",0
+train_015,"A bridge operator describes the structure as safe despite worsening inspection findings.","Self-deception is present.",1
+train_016,"A bridge operator updates risk assessments based on inspection findings.","Self-deception is present.",0
+train_017,"A model developer claims reliability leadership despite increasing hallucination rates.","Self-deception is present.",1
+train_018,"A model developer investigates the causes of increasing hallucination rates.","Self-deception is present.",0
+train_019,"A team claims workload is sustainable despite increasing burnout indicators.","Self-deception is present.",1
+train_020,"A team reviews workload assumptions after burnout indicators rise.","Self-deception is present.",0
