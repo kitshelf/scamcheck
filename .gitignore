@@ -1,0 +1,10 @@
+# Your private material lives in my-files/. Never commit it.
+# The folder has its own .gitignore that ignores everything inside it,
+# so a fresh clone protects your files as soon as you drop them in.
+# The README ships (it's kit documentation, not user data).
+my-files/*
+!my-files/.gitignore
+!my-files/README.md
+
+# OS noise
+.DS_Store

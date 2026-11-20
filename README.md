@@ -56,9 +56,9 @@ The ninety-second run, coming with the first release:
 |---|---|
 | Job offers | recruiter emails, offer letters, "equipment purchase" checks, off-platform interviews |
 | Rental listings | deposits before viewing, landlords "currently abroad" |
+| Banking texts | urgency, links, account-verification theater |
 | Marketplace deals | too-good prices that move to a "friend" or a payment app |
 | Romance | the long con's tells, compressed into a screen |
-| Banking texts | urgency, links, account-verification theater |
 
 ## Compatibility
 

@@ -1,0 +1,4 @@
+# Everything in this folder is private: the messages you screen and the reports
+# you get back. Ignore it all. Nothing here is ever committed.
+*
+!.gitignore
