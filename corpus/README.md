@@ -19,6 +19,10 @@ The kit does not train on this corpus. The charter says **not a trained model**,
 | `phishing-emails/` | `zefang-liu/phishing-email-dataset` | LGPL-3.0 | 18,650 — 7,328 phishing / 11,322 safe | full emails: `Email Text`, `Email Type` |
 | `sms-spam-collection/` | `codesignal/sms-spam-collection` | CC-BY-4.0 | 5,572 — 747 spam / 4,825 ham | SMS bodies: `label`, `message` |
 | `scam-dialogues/` | `BothBosu/scam-dialogue` | Apache-2.0 | 1,600 dialogues — 800 scam / 800 not, 8 scam types | multi-turn: `dialogue`, `type`, `label`. **Synthetic** (generated, labeled) |
+| `scam-conversations-multi/` | `BothBosu/multi-agent-scam-conversation` | Apache-2.0 | 1,600 dialogues, 8 scam types | multi-agent: `dialogue`, `personality`, `type`, `labels` — a scammer **personality** per row. Synthetic |
+| `scam-conversations-single/` | `BothBosu/single-agent-scam-conversations` | Apache-2.0 | 1,600 dialogues, 8 scam types | `dialogue`, `type`, `labels`. Synthetic |
+| `youtube-scam-conversations/` | `BothBosu/youtube-scam-conversations` | Apache-2.0 | 20 dialogues | `dialogue`, `type`, `call`, `link`, `channel`, `labels` — comment-section scams |
+| `discord-scam-detection/` | `DQN-Labs/discord_scam_detection` | MIT | 3,260 messages | `label`, `msg_content` |
 | `clair-fraud-emails/` | `tasksource/CLAIR_email_fraud` | CC-BY-3.0 | 11,903 — 5,171 FRAUD / 6,732 NOT_FRAUD (train/dev/test) | fraud letters, JSONL: `label`, `text` |
 
 Per-dataset provenance, attribution, and exact licenses: [`MANIFEST.md`](MANIFEST.md).
@@ -27,7 +31,7 @@ Per-dataset provenance, attribution, and exact licenses: [`MANIFEST.md`](MANIFES
 
 How a marker earns its way from this corpus into a rubric or pack:
 
-1. **Sample.** Pull messages by label or dialogue `type`. The eight dialogue types map cleanly onto scam families: `ssn` → identity extraction, `support` → tech-support, `delivery` → package-fee, `wrong` → the wrong-number opener, and `refund` / `reward` / `insurance` / `telemarketing` → the banking-adjacent baits.
+1. **Sample.** Pull messages by label or dialogue `type`. The scam-dialogue `type` values map cleanly onto scam families: `ssn` → identity extraction, `support` → tech-support, `delivery` → the package-fee opener, `wrong` → the wrong-number romance opener, `appointment` → the fake-booking bait, and `refund` / `reward` / `insurance` / `telemarketing` → the banking-adjacent baits. The multi-agent set adds a **`personality`** column — the scammer's scripted persona, useful for studying how tone is matched to victim.
 2. **Extract recurring tells.** What actually repeats in the scam messages — words, structure, asks — not what a summary claims repeats.
 3. **Draft the candidate marker.** Name, category, the tell, and — mandatory — the *not-a-marker-when* calibration line, tested against the safe/ham side of the same corpus.
 4. **Review.** A marker enters a rubric or pack only with its calibration line, a source note, and a fixture that exercises it. Nothing auto-enters.

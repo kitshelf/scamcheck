@@ -41,6 +41,52 @@ Provenance, license, and counts for every external corpus in this folder. Downlo
 | Provenance | **Synthetic** — generated, labeled multi-turn scam dialogues by BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/scam-dialogue) |
 | Note | Generated, not real transcripts. Consistent with this kit's fixtures-are-synthetic ethos, but it is corpus (learn-from material), never a fixture. |
 
+## scam-conversations-multi/
+
+| Field | Value |
+|---|---|
+| Hugging Face id | `BothBosu/multi-agent-scam-conversation` |
+| License | Apache-2.0 · **synthetic** |
+| Files | `agent_conversation_all.csv` (4.6 MB) |
+| Rows | 1,600 dialogues, 200 per type |
+| Schema | `dialogue`, `personality`, `type`, `labels` — a scammer **personality** column makes this the richest playbook corpus here |
+| Types | `ssn`, `reward`, `refund`, `support`, `delivery`, `appointment`, `insurance`, `wrong` (note `appointment`, not in the other sets) |
+| Provenance | Synthetic multi-agent scam conversations by BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/multi-agent-scam-conversation) |
+
+## scam-conversations-single/
+
+| Field | Value |
+|---|---|
+| Hugging Face id | `BothBosu/single-agent-scam-conversations` |
+| License | Apache-2.0 · **synthetic** |
+| Files | `single-agent-scam-dialogue_all.csv` (2.3 MB) |
+| Rows | 1,600 dialogues, 200 per type |
+| Schema | `dialogue`, `type`, `labels` |
+| Types | same 8 as `scam-dialogues/` |
+| Provenance | Synthetic, BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/single-agent-scam-conversations) |
+
+## youtube-scam-conversations/
+
+| Field | Value |
+|---|---|
+| Hugging Face id | `BothBosu/youtube-scam-conversations` |
+| License | Apache-2.0 |
+| Files | `youtube_scam_conversations.csv` (54 KB) |
+| Rows | 20 dialogues |
+| Schema | `dialogue`, `type`, `call`, `link`, `channel`, `labels` — comment-section and channel scams |
+| Provenance | BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/youtube-scam-conversations) |
+
+## discord-scam-detection/
+
+| Field | Value |
+|---|---|
+| Hugging Face id | `DQN-Labs/discord_scam_detection` |
+| License | MIT |
+| Files | `data_balanced.csv` (265 KB) |
+| Rows | 3,260 messages |
+| Schema | `label`, `msg_content` |
+| Provenance | DQN-Labs, MIT. Source: [HF card](https://huggingface.co/datasets/DQN-Labs/discord_scam_detection) |
+
 ## clair-fraud-emails/
 
 | Field | Value |
@@ -64,12 +110,15 @@ Provenance, license, and counts for every external corpus in this folder. Downlo
 | `Shouninger/ScamBench` (CC-BY-NC-4.0) | Non-commercial clause conflicts with clean redistribution alongside this kit's MIT code license |
 | `ucirvine/sms_spam` (license: unknown) | Same underlying corpus as `codesignal/sms-spam-collection`; the CC-BY-4.0 copy has the clear license, so it wins |
 | `ealvaradob/phishing-dataset` (Apache-2.0) | URLs, not message bodies — markers here read words, not domains |
+| social-engineering Q&A sets (`smd20/*`, `nezamisafa/*`) | Question-and-answer study material, not messages or tactic playbooks — thin for marker research |
+| `shakeleoatmeal/phone-scam-detection-synthetic` (MIT) | Parquet-only; the same pattern space is covered by the CSV corpora above without a pyarrow dependency |
+| MITRE ATT&CK sets (`sarahwei/*`, `CIRCL/*`) | Enterprise cyber-attack techniques (TTPs), not consumer scam messaging — a different problem space |
 
 ## Totals
 
 | Measure | Value |
 |---|---|
-| Datasets | 4 |
-| Messages/dialogues | ~37,725 |
-| On-disk size | ~67 MB |
-| License range | LGPL-3.0, CC-BY-4.0, Apache-2.0, CC-BY-3.0 — all redistributable with attribution |
+| Datasets | 8 |
+| Messages / dialogues | ~43,000 |
+| On-disk size | ~72 MB |
+| License range | LGPL-3.0, CC-BY-4.0, Apache-2.0, CC-BY-3.0, MIT — all redistributable with attribution |
