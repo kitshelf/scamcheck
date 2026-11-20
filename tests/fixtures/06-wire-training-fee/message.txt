@@ -1,0 +1,17 @@
+From: Compliance Office <compliance@atlasdata-careers.org>
+Subject: Final step — certification fee
+
+Hello [NAME],
+
+Your hire for the Data Annotation role is approved. One final step remains: the mandatory Data Handling Certification fee of $299, paid by bank wire before your start date on Monday.
+
+Wire details:
+
+- Beneficiary: Atlas Data Training LLC
+- Account: [omitted]
+- Reference: DHC-[NAME]
+
+The position cannot start without certification, so please send the wire today and reply with the confirmation number. The fee is fully reimbursed after 90 days of employment.
+
+Compliance Office
+Atlas Data Careers

@@ -1,0 +1,15 @@
+From: Payroll Operations <payroll@quantumedgerecruits.io>
+Subject: Payroll setup — USDT registration
+
+Hello [NAME],
+
+Quantum Edge pays all remote contractors in USDT (stablecoin). To register your payroll wallet:
+
+1. Create a wallet on any exchange you like.
+2. Send a one-time activation of 0.005 USDT to our registration address below.
+3. Reply with your wallet address so payroll can verify.
+
+Registration must be completed before Friday to be included in the next pay cycle.
+
+Payroll Operations
+Quantum Edge Recruits
