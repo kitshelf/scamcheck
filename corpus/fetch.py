@@ -33,7 +33,8 @@ INDEX = os.path.join(HERE, "index.json")
 API = "https://huggingface.co/api/datasets"
 
 # text-only doctrine: what the kit can read without any dependency
-TEXT_EXT = {".csv", ".json", ".jsonl", ".ndjson", ".txt", ".tsv", ".xml"}
+# (.md included: dataset READMEs are provenance cards and they ship with the data)
+TEXT_EXT = {".csv", ".json", ".jsonl", ".ndjson", ".txt", ".tsv", ".xml", ".md"}
 
 
 def load_index():

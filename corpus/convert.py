@@ -20,7 +20,7 @@ import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 API = "https://huggingface.co/api/datasets"
-TEXT_EXT = {".csv", ".json", ".jsonl", ".ndjson", ".txt", ".tsv", ".xml"}
+TEXT_EXT = {".csv", ".json", ".jsonl", ".ndjson", ".txt", ".tsv", ".xml", ".md"}
 
 
 def slug(did):

@@ -1,130 +1,79 @@
 # Corpus manifest
 
-Provenance, license, and counts for every external corpus in this folder. Downloaded from Hugging Face on **2026-11-20**. One owner: this file. All files are stored as-is, unmodified from their source repositories.
+Provenance, license, and counts for every vendored dataset. One owner: this file. All data files are stored as-is from their source repositories (parquet converts to `.csv` + `.md` via `convert.py`, noted per row); every directory carries the source's own card as `README.md`. Vendored on 2026-11-20.
 
 ---
 
-## phishing-emails/
+## Vendored — 21 datasets
 
-| Field | Value |
+| Directory | Hugging Face id | License | Rows | What it is / notes |
+|---|---|---|---|---|
+| `phishing-emails/` | `zefang-liu/phishing-email-dataset` | LGPL-3.0 | 18,650 | 7,328 phishing / 11,322 safe emails. Direct copy of Kaggle's "Phishing Email Detection" by user Cyber Cop (subhajournal). Read with raised `csv.field_size_limit` |
+| `sms-spam-collection/` | `codesignal/sms-spam-collection` | CC-BY-4.0 | 5,572 | 747 spam / 4,825 ham. The classic SMS Spam Collection v.1 (Almeida & Hidalgo). Attribution required |
+| `clair-fraud-emails/` | `tasksource/CLAIR_email_fraud` | CC-BY-3.0 | 11,903 | 5,171 FRAUD / 6,732 NOT_FRAUD (train/dev/test JSONL). CLAIR Collection of Fraud Email, Dragomir Radev, 2008, ACL Data and Code Repository ADCR2008T001 |
+| `scam-dialogues/` | `BothBosu/scam-dialogue` | Apache-2.0 | 1,600 | 800 scam / 800 not; 8 types × 200. **Synthetic** (generated, labeled). BOM file: read `utf-8-sig` |
+| `scam-conversations-multi/` | `BothBosu/multi-agent-scam-conversation` | Apache-2.0 | 1,600 | 8 types × 200, adds a scammer-`personality` column and the `appointment` type. **Synthetic** |
+| `scam-conversations-single/` | `BothBosu/single-agent-scam-conversations` | Apache-2.0 | 1,600 | 8 types × 200, single-agent variant. **Synthetic** |
+| `youtube-scam-conversations/` | `BothBosu/youtube-scam-conversations` | Apache-2.0 | 20 | Comment-section and channel scams, with `call`, `link`, `channel` columns |
+| `discord-scam-detection/` | `DQN-Labs/discord_scam_detection` | MIT | 3,260 | `label` + `msg_content` Discord messages |
+| `BothBosu__Scammer-Conversation/` | `BothBosu/Scammer-Conversation` | Apache-2.0 | 1,000 | Scammer conversation transcripts (`gen_conver_noIdentifier_1000.csv`). **Synthetic** |
+| `DarkNeuron-AI__spam-sms-collection-01/` | `DarkNeuron-AI/spam-sms-collection-01` | MIT | 5,574 | Spam SMS collection |
+| `DatasetNewUser__Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset/` | `DatasetNewUser/Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset` | Apache-2.0 | 10,001 | Hinglish scam-call transcripts with `scam_category`, `caller_type`, `urgency_level` |
+| `Dizzzy0x00__LLMGen-Phishing-Email-Dataset/` | `Dizzzy0x00/LLMGen-Phishing-Email-Dataset` | Apache-2.0 | 3,031 | LLM-generated phishing emails (`content`, `label`). **Synthetic**; multilingual incl. Chinese |
+| `Bektemir96az96__Uzbek_and_Russian_Phishing_dataset/` | `Bektemir96az96/Uzbek_and_Russian_Phishing_dataset` | Apache-2.0 | 100,000 | Uzbek + Russian phishing texts. Language: uz/ru |
+| `bolewara__hinglish-scam-text-dataset/` | `bolewara/hinglish-scam-text-dataset` | CC-BY-4.0 | 3,787 | Hinglish spam/ham SMS (`data.json` → `rows[].text`, `rows[].label`) |
+| `softecapps__spam_ham_spanish/` | `softecapps/spam_ham_spanish` | Apache-2.0 | 1,207 | Spanish spam/ham SMS (train/test). Language: es |
+| `HyaDoo__ko-voicephishing-binary-classification/` | `HyaDoo/ko-voicephishing-binary-classification` | Apache-2.0 | 8,725 | Korean voice-phishing transcripts. **Converted from parquet** → `train-dataset.csv` + `.md` |
+| `HyaDoo__ko-voicephishing-binary-classification-ver2/` | `HyaDoo/ko-voicephishing-binary-classification-ver2` | Apache-2.0 | 19,225 | Same corpus, larger version. **Converted from parquet** |
+| `HyaDoo__hd-bert-voicephishing-binary-classification-ver3/` | `HyaDoo/hd-bert-voicephishing-binary-classification-ver3` | Apache-2.0 | 2,773 | Korean voice-phishing variant set. **Converted from parquet** |
+| `HyaDoo__hd-bert-voicephishing-binary-classification-ver4/` | `HyaDoo/hd-bert-voicephishing-binary-classification-ver4` | Apache-2.0 | 4,173 | Variant set. **Converted from parquet** |
+| `HyaDoo__hd-bert-voicephishing-binary-classification-ver5/` | `HyaDoo/hd-bert-voicephishing-binary-classification-ver5` | Apache-2.0 | 5,573 | Variant set. **Converted from parquet** |
+| `IRBXrocket__phishing-url/` | `IRBXrocket/phishing-url` | CC-BY-4.0 | paper | Research paper on phishing-URL lexical detection, converted to `2010.12847.md`. Its URL tables were dropped — URLs are not message text |
+
+## Removed in the 2026-11-20 cleanup (with reasons)
+
+| Removed | Reason |
 |---|---|
-| Hugging Face id | `zefang-liu/phishing-email-dataset` |
-| License | LGPL-3.0 |
-| Files | `Phishing_Email.csv` (50 MB) |
-| Rows | 18,650 — 7,328 "Phishing Email" / 11,322 "Safe Email" |
-| Schema | `Email Text`, `Email Type` (first column is an unnamed index) |
-| Provenance | A direct copy of the "Phishing Email Detection" dataset from Kaggle, created by the Kaggle user "Cyber Cop" (subhajournal), redistributed on Hugging Face by zefang-liu under LGPL-3.0. Source: [HF card](https://huggingface.co/datasets/zefang-liu/phishing-email-dataset) · [original Kaggle page](https://www.kaggle.com/datasets/subhajournal/phishingemails) |
-| Note | Read with `csv.field_size_limit` raised; some email bodies exceed the default. Encoding: UTF-8 with replacement. |
+| `BothBosu__scam-dialogue`, `scam-conversations-multi`-slug, `scam-conversations-single`-slug, `youtube`-slug, `tasksource__CLAIR_email_fraud`, `DQN-Labs__discord_scam_detection` | Mirrors of the vendored named dirs — **content-hash-verified identical** (the `_all` files are byte-equal), deleted after their README cards were copied into the named dirs |
+| `436-4__scam-dialogue`, `436-4__youtube-scam-conversations` | Mirrors of the BothBosu sets (hash-verified twins) |
+| `Advait456__CLAIR_email_fraud` | Mirror of tasksource CLAIR (hash-verified twin) |
+| `DarkNeuronAI__spam-sms-collection-01` | Byte-identical twin of `DarkNeuron-AI__spam-sms-collection-01` (kept one) |
+| `HyaDoo__hd-bert-voicephishing-binary-classification` | Empty shell — gated data (401 on download); the ver3–ver5 sets carry the real data |
+| `Fraudcoins__crypto-holder-concentration` | Off-surface: blockchain concentration analytics, not scam messages |
+| `ClarusC64__self-deception-detection-v0.1` | Off-surface: deception-psychology prompts, not scam messages |
+| `BluefinTuna__scam-finetune-v1` | Off-surface: model-finetuning prompt/completion pairs, not raw messages |
+| `mstz__spambase` | Not message text: numeric word-frequency feature vectors |
+| `CiferAI__cifer-fraud-detection-mini-dataset` | Trivial: 20-row mini sample |
+| `AI-ML-Research__sms-spam`, `Ivan000__SpamFilterTrainSet`, `87praveen33__Spam-Detection-500` | Trivial: toy sets (<15 KB / 500 msgs) |
+| `Gamortsey__Phishing_Urls` | URLs, not message bodies |
+| `IRBXrocket__phishing-url/*.csv` | URL tables dropped; the converted research paper stays |
+| 22 binary files (parquet/pkl/pdf/png) + 19 data-less shells | Text-only doctrine; the convertible parquet was re-fetched and converted to text instead |
 
-## sms-spam-collection/
-
-| Field | Value |
-|---|---|
-| Hugging Face id | `codesignal/sms-spam-collection` |
-| License | CC-BY-4.0 |
-| Files | `sms-spam-collection.csv` (470 KB) |
-| Rows | 5,572 — 747 spam / 4,825 ham |
-| Schema | `label`, `message` |
-| Provenance | The classic **SMS Spam Collection v.1** (Almeida & Hidalgo), a public research corpus of SMS messages tagged ham/spam, uploaded by codesignal under CC-BY-4.0. Source: [HF card](https://huggingface.co/datasets/codesignal/sms-spam-collection) |
-| Attribution required | CC-BY-4.0 — credit the collection authors and the uploader when redistributing. |
-
-## scam-dialogues/
-
-| Field | Value |
-|---|---|
-| Hugging Face id | `BothBosu/scam-dialogue` |
-| License | Apache-2.0 |
-| Files | `scam-dialogue_all.csv` (2.2 MB; train/test splits exist upstream, `all` includes both) |
-| Rows | 1,600 dialogues — 800 scam (`label=1`) / 800 not (`label=0`) |
-| Schema | `dialogue`, `type`, `label` (file carries a UTF-8 BOM — read as `utf-8-sig`) |
-| Types | 8 scam types, 200 each: `ssn`, `refund`, `support`, `reward`, `delivery`, `insurance`, `telemarketing`, `wrong` |
-| Provenance | **Synthetic** — generated, labeled multi-turn scam dialogues by BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/scam-dialogue) |
-| Note | Generated, not real transcripts. Consistent with this kit's fixtures-are-synthetic ethos, but it is corpus (learn-from material), never a fixture. |
-
-## scam-conversations-multi/
-
-| Field | Value |
-|---|---|
-| Hugging Face id | `BothBosu/multi-agent-scam-conversation` |
-| License | Apache-2.0 · **synthetic** |
-| Files | `agent_conversation_all.csv` (4.6 MB) |
-| Rows | 1,600 dialogues, 200 per type |
-| Schema | `dialogue`, `personality`, `type`, `labels` — a scammer **personality** column makes this the richest playbook corpus here |
-| Types | `ssn`, `reward`, `refund`, `support`, `delivery`, `appointment`, `insurance`, `wrong` (note `appointment`, not in the other sets) |
-| Provenance | Synthetic multi-agent scam conversations by BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/multi-agent-scam-conversation) |
-
-## scam-conversations-single/
-
-| Field | Value |
-|---|---|
-| Hugging Face id | `BothBosu/single-agent-scam-conversations` |
-| License | Apache-2.0 · **synthetic** |
-| Files | `single-agent-scam-dialogue_all.csv` (2.3 MB) |
-| Rows | 1,600 dialogues, 200 per type |
-| Schema | `dialogue`, `type`, `labels` |
-| Types | same 8 as `scam-dialogues/` |
-| Provenance | Synthetic, BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/single-agent-scam-conversations) |
-
-## youtube-scam-conversations/
-
-| Field | Value |
-|---|---|
-| Hugging Face id | `BothBosu/youtube-scam-conversations` |
-| License | Apache-2.0 |
-| Files | `youtube_scam_conversations.csv` (54 KB) |
-| Rows | 20 dialogues |
-| Schema | `dialogue`, `type`, `call`, `link`, `channel`, `labels` — comment-section and channel scams |
-| Provenance | BothBosu, Apache-2.0. Source: [HF card](https://huggingface.co/datasets/BothBosu/youtube-scam-conversations) |
-
-## discord-scam-detection/
-
-| Field | Value |
-|---|---|
-| Hugging Face id | `DQN-Labs/discord_scam_detection` |
-| License | MIT |
-| Files | `data_balanced.csv` (265 KB) |
-| Rows | 3,260 messages |
-| Schema | `label`, `msg_content` |
-| Provenance | DQN-Labs, MIT. Source: [HF card](https://huggingface.co/datasets/DQN-Labs/discord_scam_detection) |
-
-## clair-fraud-emails/
-
-| Field | Value |
-|---|---|
-| Hugging Face id | `tasksource/CLAIR_email_fraud` |
-| License | CC-BY-3.0 |
-| Files | `train.json` (11 MB), `dev.json` (1.1 MB), `test.json` (2.3 MB) — JSONL |
-| Rows | 11,903 total — train 8,980 (3,914 FRAUD / 5,066 NOT_FRAUD), dev 997 (401 / 596), test 1,926 (856 / 1,070) |
-| Schema | JSONL: `label` (`FRAUD` / `NOT_FRAUD`), `text` |
-| Provenance | The **CLAIR Collection of Fraud Email**, Dragomir Radev, 2008, ACL Data and Code Repository (ADCR2008T001) — the classic research collection of advance-fee fraud letters. This copy by tasksource under CC-BY-3.0. Source: [HF card](https://huggingface.co/datasets/tasksource/CLAIR_email_fraud) · [ACL wiki](https://aclweb.org/aclwiki/CLAIR_collection_of_fraud_email_(Repository)) |
-| Citation | Radev, D. (2008). CLAIR Collection of Fraud Email. ACL Data and Code Repository, ADCR2008T001. |
-
----
-
-## Considered and rejected
+## Considered and rejected (never vendored)
 
 | Candidate | Why it did not come in |
 |---|---|
 | `FredZhang7/all-scam-spam` (Apache-2.0) | 67 MB of generic junk-mail/spam — size plus scope: bulk spam is not scam signatures |
-| `David-Egea/phishing-texts` (MIT) | Content unclear on inspection — the sample was linguistics mailing-list text, not phishing messages |
-| `Shouninger/ScamBench` (CC-BY-NC-4.0) | Non-commercial clause conflicts with clean redistribution alongside this kit's MIT code license |
-| `ucirvine/sms_spam` (license: unknown) | Same underlying corpus as `codesignal/sms-spam-collection`; the CC-BY-4.0 copy has the clear license, so it wins |
-| `ealvaradob/phishing-dataset` (Apache-2.0) | URLs, not message bodies — markers here read words, not domains |
-| social-engineering Q&A sets (`smd20/*`, `nezamisafa/*`) | Question-and-answer study material, not messages or tactic playbooks — thin for marker research |
-| `shakeleoatmeal/phone-scam-detection-synthetic` (MIT) | Parquet-only; the same pattern space is covered by the CSV corpora above without a pyarrow dependency |
-| MITRE ATT&CK sets (`sarahwei/*`, `CIRCL/*`) | Enterprise cyber-attack techniques (TTPs), not consumer scam messaging — a different problem space |
+| `David-Egea/phishing-texts` (MIT) | Content unclear on inspection — the sample was linguistics mailing-list text |
+| `Shouninger/ScamBench` (CC-BY-NC-4.0) | Non-commercial clause conflicts with this kit's MIT code license |
+| `ucirvine/sms_spam` (unknown) | Same underlying corpus as `codesignal/sms-spam-collection`; the CC-BY-4.0 copy has the clear license |
+| `ealvaradob/phishing-dataset` (Apache-2.0) | URLs, not message bodies |
+| social-engineering Q&A sets (`smd20/*`, `nezamisafa/*`) | Study Q&A material, not messages or tactic playbooks |
+| `shakeleoatmeal/phone-scam-detection-synthetic` (MIT) | Parquet-only at the time; covered by other call-transcript corpora |
+| MITRE ATT&CK sets (`sarahwei/*`, `CIRCL/*`) | Enterprise cyber-attack TTPs, not consumer scam messaging |
+| The NC-licensed and non-English-without-license sets from the surface sweep | Redistribution terms unclear alongside this kit's MIT license |
 
 ## Totals
 
 | Measure | Value |
 |---|---|
-| **Indexed (whole HF surface)** | **1,051 datasets** — see [`INDEX.md`](INDEX.md) / [`index.json`](index.json) |
-| Vendored here (downloaded files) | 34 text datasets (+ the original named sets) |
-| Vendored on-disk size | ~163 MB |
-| File types vendored | `.csv`, `.json`, `.jsonl`, `.txt` only — no binaries |
-| License range (vendored) | LGPL-3.0, CC-BY-4.0, Apache-2.0, CC-BY-3.0, MIT — all redistributable with attribution |
-| Licenses in the index | mostly `unknown` (verify each card before redistributing), then MIT, Apache-2.0, CC-BY-4.0 |
+| **Indexed (whole HF surface)** | **1,051 datasets** — [`INDEX.md`](INDEX.md) / [`index.json`](index.json) |
+| Vendored datasets | 21 |
+| Vendored messages / dialogues | ~169,000 |
+| Vendored on-disk size | ~134 MB |
+| File types vendored | text only: `.csv`, `.json`, `.md` (+ converted parquet) |
+| Vendored license range | LGPL-3.0, CC-BY-4.0, CC-BY-3.0, Apache-2.0, MIT — all redistributable with attribution |
 
 ## Surface reality (per category)
 
-From the index: **fraud 375 · phishing 166 · spam 160 · banking 104** clear the 50+ bar; **jobs 26 · social-engineering 18 · robocall 17 · marketplace 7 · romance 6 · rentals 1** do not — those public corpora simply do not exist. The niche PRD families are covered by the researched pack markers (`../packs/`), sourced from regulator guidance, which is the right authority for them.
+From the index: **fraud 375 · phishing 166 · spam 160 · banking 104** clear the 50+ bar; **jobs 26 · social-engineering 18 · robocall 17 · marketplace 7 · romance 6 · rentals 1** do not — those public corpora simply do not exist on Hugging Face. The niche PRD families are covered by the researched pack markers (`../packs/`), sourced from regulator guidance, which is the right authority for them.
