@@ -2,7 +2,7 @@
 
 **Verified as of: 2026-11-20.**
 **Status: alpha research pack.** Markers sourced and calibration-lined; fixtures pending. The rentals family ships when its gauntlet passes. A screen that loads this pack must say so.
-**Sources.** FTC consumer alerts on rental listing scams (2024–2025), the FTC December 2025 data spotlight on rental scams (~65,000 reports, ~$65M reported losses since 2020), and the FTC rental-scams article. Every marker below is a documented pattern from that body of guidance.
+**Sources.** FTC consumer alerts on rental listing scams (2024–2025), the FTC December 2025 data spotlight on rental scams (~65,000 reports, ~$65M reported losses since 2020), and the FTC rental-scams article. Every marker below is a documented pattern from that body of guidance. **Corpus note (2026-11-20):** the surface index counts one rentals dataset and it is off-surface; there is no rental-message corpus to tune against, so these markers are unchanged by the corpus pass. Recorded in [`../../corpus/TUNING.md`](../../corpus/TUNING.md).
 
 **How to use.** Fire a marker only on the message's own quoted words, and only when its *Not-a-marker-when* condition does not hold. Same labels as the spine: Legitimate-looking · Suspicious · Scam markers: N.
 

@@ -2,7 +2,7 @@
 
 ScamCheck is tested like software: synthetic messages with planted markers, expected answer keys, and dated records of real runs. A prompt system without fixtures is a guess.
 
-**State: RED.** The fixtures and answer keys exist; the screen workflow and the jobs rubric do not yet. Nothing can pass until they ship — that is the intended red state: fixtures first, rubric second, workflow third.
+**State: RED.** The fixtures, answer keys, screen workflow, and jobs rubric all exist. What is missing is the recorded runs — `results/` stays empty until the gauntlet is actually run. Nothing passes until it is.
 
 ## Structure
 

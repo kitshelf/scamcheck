@@ -2,7 +2,7 @@
 
 **Verified as of: 2026-11-20.**
 **Status: alpha research pack.** Markers sourced and calibration-lined; fixtures pending. The romance family ships last (v0.3.0) because its register is the most delicate — the kit names patterns, never diagnoses a person's feelings. A screen that loads this pack must say so.
-**Sources.** CFTC customer advisories on relationship-investment fraud (2024–2025), including "Dating or Defrauding" and the six warning signs of online financial romance fraud; AARP's pig-butchering and wrong-number-text explainers; state regulator warnings (WA, WI DFI, 2025); the kit's `corpus/` (the `wrong`-number dialogue type).
+**Sources.** CFTC customer advisories on relationship-investment fraud (2024–2025), including "Dating or Defrauding" and the six warning signs of online financial romance fraud; AARP's pig-butchering and wrong-number-text explainers; state regulator warnings (WA, WI DFI, 2025). **Corpus note (2026-11-20):** the corpus's `wrong`-number dialogue type sits on the *safe* side of `scam-dialogues/` (200 rows, labelled not-scam), so the corpus does **not** evidence RO-PR1 — the marker keeps its CFTC/AARP sourcing. RO-I1's secrecy shape *is* supported: `keep this … confidential` 265/1, `between us` 80/5 in the CLAIR advance-fee letters. Recorded in [`../../corpus/TUNING.md`](../../corpus/TUNING.md).
 
 **How to use.** Fire a marker only on the message's own quoted words, and only when its *Not-a-marker-when* condition does not hold. Same labels as the spine. The tone rule doubles here: calm, no mockery, no "you're being scammed" addressed at the person — the markers speak.
 
@@ -33,8 +33,8 @@ Tells: a hospital bill, a customs fee, a plane ticket — once trust is built.
 Not a marker when: real life has real emergencies; the marker is the *sequence* — a stranger, a fast bond, then money.
 
 **RO-I1 · "Don't tell anyone."** Secrecy as intimacy.
-Tells: "please keep this between us — your friends wouldn't understand."
-Not a marker when: private is not the same as forbidden. A request that you hide the relationship from everyone who could judge it is a documented warning sign (CFTC).
+Tells: "please keep this between us — your friends wouldn't understand" · "keep this confidential."
+Not a marker when: private is not the same as forbidden. The bare words "don't tell" do not fire — the corpus's safe side uses them as often; the marker is a request to hide the relationship from everyone who could judge it, a documented warning sign (CFTC). Corpus-attested: `keep this … confidential` 265/1, `between us` 80/5 in the CLAIR advance-fee letters.
 
 **RO-U1 · Rushed intimacy.** Love arrives on a schedule.
 Tells: "I've never felt this way so fast" · declarations within days.

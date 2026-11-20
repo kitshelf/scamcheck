@@ -2,26 +2,26 @@
 
 **Verified as of: 2026-11-20.**
 **Status: alpha research pack.** Markers sourced and calibration-lined; fixtures pending. The banking family ships when its gauntlet passes. A screen that loads this pack must say so.
-**Sources.** FTC bank-impersonation analysis (the most-reported text-scam category), the FTC's 2025 "unexpected text" alert, FCC consumer guidance on bank impersonation calls and texts, FDIC guidance on bank-impersonation scams and fake banks, USPIS/USPS smishing guidance (2025), and FBI field-office warnings on government- and law-enforcement-impersonation scams (2024–2025), including the "digital arrest" pattern.
+**Sources.** FTC bank-impersonation analysis (the most-reported text-scam category), the FTC's 2025 "unexpected text" alert, FCC consumer guidance on bank impersonation calls and texts, FDIC guidance on bank-impersonation scams and fake banks, USPIS/USPS smishing guidance (2025), and FBI field-office warnings on government- and law-enforcement-impersonation scams (2024–2025), including the "digital arrest" pattern. **Tuned against `corpus/` (2026-11-20):** the corpus's phishing, SMS, and advance-fee sets carry the link, urgency, and windfall tells below; the safe side hardened the calibration lines. Counts: [`../../corpus/TUNING.md`](../../corpus/TUNING.md). The Indian cyber-scam call set (`corpus/DatasetNewUser__Indian_Cyber_Scam_PhoneCall_Hinglish_Dataset/`) labels 1,776 `police_digital_arrest` and 1,460 `police_blackmail` transcripts, which is the corpus evidence for B-PR2. FTC and FBI tech-support-scam guidance covers B-PR5.
 
 **How to use.** Fire a marker only on the message's own quoted words, and only when its *Not-a-marker-when* condition does not hold. Same labels as the spine. For phone calls, the "message" is the remembered script — the kit screens the words, [CONFIRM: exact wording] where memory is unsure.
 
 ## Markers
 
 **B-U1 · "Your account is at risk — act now."** Manufactured urgency about money.
-Tells: "unusual activity detected" · "your account will be suspended within 24 hours."
-Not a marker when: a message you initiated yourself ends in a status update with no ask attached.
+Tells: "unusual activity detected" · "your account will be suspended within 24 hours" · "act now" · "limited time" · "last chance" · "don't delay" · "your account has expired" · "re-activate now" · "immediate action required" · "final notice" · "unauthorized transaction detected" · "suspicious transaction on your account" · "log-in attempt from a new device."
+Not a marker when: a message you initiated yourself ends in a status update with no ask attached. "Asap," "action required," "will be closed," and "right away" are ordinary and do not fire on their own — the corpus's safe side uses them more than its scam side.
 
 **B-A1 · Bank costume, generic greeting.** The real bank knows your name.
-Tells: "Dear valued customer" · a fraud alert from "your bank" that names no bank you use · no last-four digits where a real bank would show them.
+Tells: "Dear valued customer" · "Dear customer" · "Dear account holder" · "Dear user" · "valued member" · "Dear Sir/Madam" · a fraud alert from "your bank" that names no bank you use · no last-four digits where a real bank would show them · a "customer service department" that reaches out to you first.
 Not a marker when: the message names you and your bank correctly and contains no link, no code request, and no ask — even then, treat it as a lead to check in the app, not in a reply.
 
 **B-X1 · Verify-by-link.** A link to "confirm" account, card, or payment details.
-Tells: "verify your account here" · any URL in a fraud text.
+Tells: "verify your account here" · "click here" / "click the link" · "confirm your account" · "re-activate your account" · "verify your identity" · any URL in a fraud text.
 Not a marker when: never in an unsolicited message. Real banks send status, not links; the FCC's rule is contact your bank through the number on the back of your card — never a link in a text. [NO-CHECK: a link's true destination — the paste cannot show it; never click to find out.]
 
 **B-X2 · The code relay.** "Read me the code we just sent you."
-Tells: "we sent a code to your phone — tell me the code so we can stop the fraud."
+Tells: "we sent a code to your phone — tell me the code so we can stop the fraud" · "share the OTP" / "the one-time password."
 Not a marker when: never. A one-time code is for you alone; anyone asking for one is collecting the keys. Documented across FCC, FDIC, and FTC guidance.
 
 **B-PR1 · The safe-account move.** "Transfer your money to protect it."
@@ -29,18 +29,28 @@ Tells: "move your funds to this new account until we resolve the fraud."
 Not a marker when: never. A real bank never asks you to move money out of your own account to "protect" it.
 
 **B-PR2 · The digital arrest.** A caller wearing law enforcement, demanding payment to avoid arrest.
-Tells: "this is an officer; there is a warrant; pay to clear it" · payment demanded in gift cards, crypto kiosks/ATMs, wire, prepaid cards — or in cash or gold bars handed to a "courier" (the FBI's 2024–2025 warnings name all of these).
+Tells: "this is an officer; there is a warrant; pay to clear it" · payment demanded in gift cards, crypto kiosks/ATMs, wire, prepaid cards — or in cash or gold bars handed to a "courier" (the FBI's 2024–2025 warnings name all of these). The corpus's Indian call set is built on this pattern: 1,776 `police_digital_arrest` and 1,460 `police_blackmail` transcripts.
 Not a marker when: never. No US agency calls citizens demanding money or precious metals; the FBI states it will never call or email private citizens to request moved money. Mark [CONFIRM: your country's equivalents] outside the US.
 
 **B-PR3 · The package fee.** A carrier text about a delivery fee.
 Tells: "customs/delivery fee unpaid — pay to release your parcel" · a link to pay.
-Not a marker when: never. Carriers do not charge redelivery by text, and USPS does not text tracking links unless you requested the service first (USPIS 2025).
+Not a marker when: never. Carriers do not charge redelivery by text, and USPS does not text tracking links unless you requested the service first (USPIS 2025). The word "redelivery" or "redeliver" does not fire on its own — the corpus's safe side uses it more than its scam side; the marker is the *fee* plus the *link*.
+
+**B-PR4 · The advance-fee windfall.** A prize, an unclaimed inheritance, a "next of kin" estate, or a beneficiary sum, held until a fee or your bank details release it.
+Tells: "you have won" · "your email was selected" · a sweepstake or lottery · "your winning number" · "claim your prize" · "a deceased client shares your surname; you are the next of kin" · "a dormant account" · "the estate of a deceased client" · "an unclaimed sum" · "risk-free" / "100% free" · then a "processing/transfer/clearance fee" or a request for bank details.
+Not a marker when: a real prize you entered notifies you through the channel you entered it on and never asks for a fee to release it; a real inheritance arrives through a lawyer you can find. "Estate" alone does not fire — real-estate language is safe-dominant in the corpus; the marker needs the windfall-plus-fee shape. Corpus-attested: `next of kin` 1,314/1, `beneficiary` 1,273/2, `unclaimed` 465/0, `risk-free` 599/0, `sweepstake` 156/0, `lottery` 117/2, `dormant account` 89/0, `deceased client` 180/0, `inherit` 439/14. Source: CLAIR fraud-email corpus (Radev 2008) plus FTC advance-fee guidance. **Fixture pending** — this marker ships with the banking family's gauntlet.
+
+**B-PR5 · The remote-access "fix."** A caller wearing tech support: your computer is infected, and only they can fix it — for a fee or through remote access.
+Tells: "Microsoft/Windows technical support" reaching out first · "your computer is infected with a virus" · "let me take remote access" (TeamViewer) · "open Event Viewer and look at the errors" · the refund twist: a "refund" for support you never bought, "accidentally" overpaid, that you must return.
+Not a marker when: a support session you initiated yourself, through a channel you looked up. No real company contacts you first about a virus on your machine.
+Corpus-attested — the strongest single signal in the library: `remote access` 91/0, "your computer is infected" 149/0, TeamViewer 26/0, Event Viewer 54/0; the `support` and `refund` dialogue types are 200 rows each, all scam-labeled. Sources: FTC tech-support-scam guidance, FBI/IC3 reporting. **Fixture pending** — ships with the banking family's gauntlet.
 
 ## The banking verify checklist
 
 1. **Hang up, call back.** The number on the back of your card or in the bank's app — never a number the caller or text supplies. Note: the FCC documents the stay-on-the-line trick (the scammer remains connected while you "call back") — use a different phone or wait several minutes.
 2. **Report the text.** Forward to 7726 (SPAM), then delete; report fraud at `reportfraud.ftc.gov`.
 3. **The code rule.** A bank will never ask for your password, PIN, or one-time code — by phone, text, or email. If someone asks, the conversation is the scam.
+4. **The support-call rule.** No real company contacts you first about a virus or a refund you never asked for. If you want support, reach the company through a channel you find yourself.
 
 ## The recovery pointer
 

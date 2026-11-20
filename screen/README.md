@@ -12,7 +12,7 @@ Who it is for: anyone about to reply to a too-good message from a stranger.
 | `START.md` | the chat-user front desk (the two-paste flow) |
 | `00-principles.md` | this workflow's constitution |
 | `01-screen/screen.md` | the full workflow: steps, output template, self-check |
-| `rubrics/markers-jobs.md` | the 18-marker jobs library with calibration lines + the verify checklist |
+| `rubrics/markers-jobs.md` | the 20-marker jobs library with calibration lines + the verify checklist |
 | `examples/` | pointers to the worked examples (the catch and the not-catch) |
 | `../packs/` | alpha marker packs: rentals, banking, marketplace, romance — researched, calibration-lined, awaiting their fixture gauntlets |
 

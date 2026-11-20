@@ -2,7 +2,7 @@
 
 **Verified as of: 2026-11-20.**
 **Status: alpha research pack.** Markers sourced and calibration-lined; fixtures pending. The marketplace family ships when its gauntlet passes. A screen that loads this pack must say so.
-**Sources.** FTC consumer alerts on selling online (2022), the FTC fake-check article and its "money available in two days ≠ check is good" mechanics, and the FTC's 2025 alert on fake-check scams targeting online car sellers.
+**Sources.** FTC consumer alerts on selling online (2022), the FTC fake-check article and its "money available in two days ≠ check is good" mechanics, and the FTC's 2025 alert on fake-check scams targeting online car sellers. **Corpus note (2026-11-20):** no marketplace corpus is vendored — the surface index counts seven datasets and none is message text. The only corpus support for these markers is shared and weak (`cashier's check` phish 18/2, `money order` phish 128/36), so this pack stays sourced from the FTC. Recorded in [`../../corpus/TUNING.md`](../../corpus/TUNING.md).
 
 **How to use.** Fire a marker only on the message's own quoted words, and only when its *Not-a-marker-when* condition does not hold. Same labels as the spine.
 
@@ -21,7 +21,7 @@ Tells: "my mover/cousin/agent will pick it up" · a courier arriving after payme
 Not a marker when: a real buyer shows up themselves, pays, and takes the item.
 
 **M-P2 · Nonstandard payment for a local sale.** A cashier's check for a couch pickup, payment-app-only, a deposit "to hold."
-Tells: "I'll mail a cashier's check" for an in-person sale · "pay the shipping agent."
+Tells: "I'll mail a cashier's check" for an in-person sale · "I'll send a money order" or "certified check" · "pay the shipping agent."
 Not a marker when: in-person, cash or instant cleared payment at handover.
 
 **M-U1 · No-questions urgency.** "I'll pay full price today, as-is, don't show it to anyone else."

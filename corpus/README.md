@@ -62,6 +62,7 @@ Per-dataset provenance, exact ids, and the full removal record: [`MANIFEST.md`](
 2. **Extract recurring tells.** What actually repeats in the scam messages — words, structure, asks.
 3. **Draft the candidate marker.** Name, category, the tell, and — mandatory — the *not-a-marker-when* calibration line, tested against the safe/ham side of the same corpus.
 4. **Review.** A marker enters a rubric or pack only with its calibration line, a source note, and a fixture that exercises it. Nothing auto-enters.
+5. **Record.** Every tuning pass is written to [`TUNING.md`](TUNING.md): the counts, the calibration findings, the gaps, and the candidates still needing a fixture. The rules that were tuned: [`../screen/rubrics/markers-jobs.md`](../screen/rubrics/markers-jobs.md) and the four packs.
 
 ## Rules for this folder
 

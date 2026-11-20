@@ -20,7 +20,7 @@ An alpha pack screens honestly but is unverified by the kit's own tests. The rep
 | Pack | Family | Markers | Sources | Ships as family |
 |---|---|---|---|---|
 | [`rentals/`](rentals/markers-rentals.md) | Rentals | 6 | FTC rental-listing alerts + the Dec 2025 FTC data spotlight ($65M reported losses) | v0.2.0 |
-| [`banking/`](banking/markers-banking.md) | Banking texts & calls | 7 | FTC bank-impersonation analysis (the most-reported text scam), FCC, FDIC, USPIS smishing guidance, FBI government-impersonation warnings | v0.2.0 |
+| [`banking/`](banking/markers-banking.md) | Banking texts & calls | 9 | FTC bank-impersonation analysis (the most-reported text scam), FCC, FDIC, USPIS smishing guidance, FBI government-impersonation warnings, FTC/FBI tech-support guidance, the CLAIR advance-fee corpus | v0.2.0 |
 | [`marketplace/`](marketplace/markers-marketplace.md) | Marketplace | 6 | FTC selling-online and fake-check alerts (2022–2025) | v0.2.0 |
 | [`romance/`](romance/markers-romance.md) | Romance & investment-relationship | 8 | CFTC pig-butchering advisories (2024–2025), AARP, state DFI warnings | v0.3.0 |
 
