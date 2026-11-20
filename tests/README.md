@@ -23,7 +23,9 @@ ScamCheck is tested like software: synthetic messages with planted markers, expe
 
 ## How to run one fixture (the runner protocol)
 
-Paste these files into the chat, in this order:
+**Quick mode (the one most users get):** paste `screen/SPINE.md`, then the fixture's `message.txt`. Two pastes.
+
+**Full mode (agents and thorough runs):** paste these files, in this order:
 
 1. `screen/00-principles.md`
 2. `shared/labels.md`
