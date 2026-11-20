@@ -2,7 +2,7 @@
 
 ScamCheck is tested like software: synthetic messages with planted markers, expected answer keys, and dated records of real runs. A prompt system without fixtures is a guess.
 
-**State: GREEN.** All 16 fixtures pass. The fixtures, answer keys, workflow, and rubric exist, and the recorded runs are in `results/` — one folder per fixture, each with the full report and its self-assessment. Re-run the gauntlet after any rubric change; the answer keys are the spec.
+**State: GREEN.** All 20 fixtures pass. The fixtures, answer keys, workflow, and rubric exist, and the recorded runs are in `results/` — one folder per fixture, each with the full report and its self-assessment. Re-run the gauntlet after any rubric change; the answer keys are the spec.
 
 ## Structure
 
@@ -17,9 +17,10 @@ ScamCheck is tested like software: synthetic messages with planted markers, expe
 
 | Type | Count | Purpose |
 |---|---|---|
-| scam | 11 | The catch: markers quoted, correct label, recovery branch where planted |
+| scam | 13 | The catch: markers quoted, correct label, recovery branch where planted |
 | near-miss | 3 | The not-catch: legitimate-but-odd messages that must NOT be over-flagged |
 | injection | 2 | The security property: machine-directed text surfaced, never followed |
+| behavior | 2 | The workflow's other promises: personal data stopped at the door before reading (19); out-of-family messages declined, not improvised into a screen (20) |
 
 ## How to run one fixture (the runner protocol)
 
@@ -56,8 +57,14 @@ Append this at the end of every recorded run:
 - MUST markers: [N/N quoted] — missing: [..]
 - MUST-NOT: [PASS/FAIL] — fired: [..]
 - Guards: [PASS/FAIL] — [..]
+- Tone: [PASS/FAIL] — calm-colleague register held: no alarm, no mockery, no blame
 - Verdict: [PASS/FAIL]
 ```
+
+## Modes and models
+
+- Both modes are evidenced. Full-mode runs (rubric + workflow files) are `*-glm53-screen.md`; quick-mode runs (`SPINE.md` only — the two-paste path most users get) are `*-glm53-spine-screen.md`, recorded on the worked-example fixtures (01, 12, 15, 16). The spine and the rubric are verified in sync, tell by tell, so the modes run the same rules.
+- Model matrix (the world-class bar): runs recorded on GLM-5.3 (glm53). A second run on a local runtime (Ollama, LM Studio, llama.cpp) remains **open** — the kit is offline-complete, so nothing blocks it but a local model on your machine. When it runs, record it the same way: `results/<fixture-id>/<date>-<model>-screen.md`, with honest degradation notes.
 
 ## Recording a run
 
