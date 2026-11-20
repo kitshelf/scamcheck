@@ -10,6 +10,7 @@ A private, Markdown-only scam screener. The files are instructions and rubrics; 
 2. Route the request:
    - Screening a message → [`screen/AGENTS.md`](screen/AGENTS.md); open it, then `screen/00-principles.md`, then `screen/01-screen/screen.md` with its rubrics.
    - A design or product question → [`docs/prd/`](docs/prd/README.md).
+   - Marker, rubric, or pack research → [`corpus/`](corpus/README.md) (the learn-from library; its rules and manifest apply) and `packs/` (alpha marker packs). Never during a user screen, and never as fixture material.
    - No workflow covers it → say so. Do not improvise a workflow inside the session. Offer to record it as a candidate in [`ROADMAP.md`](ROADMAP.md).
 3. To build or restructure anything, follow [`CONVENTIONS.md`](CONVENTIONS.md) and confirm the plan with the user before writing.
 

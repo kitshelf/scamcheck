@@ -63,6 +63,9 @@ Every workflow inherits these. No workflow weakens them.
 ## tests/
 A workflow is tested with fixture messages, an expected-answer key per fixture, and dated records of real runs. The key states what markers must and must not appear and the label the fixture must produce — behavior, not wording. A prompt system without fixtures is a guess. Fixtures must include **near-miss legitimate messages** that the kit must not over-flag, and **injection messages** the kit must surface and never obey. Every fixture is synthetic — fictional senders, planted patterns, no real victim data — and the manifest says so.
 
+## corpus/
+External research corpora live in `corpus/`: downloaded as-is from public sources, license and provenance in its `MANIFEST.md`. Three tiers, never mixed: the synthetic fixtures in `tests/` test the kit; the external corpora in `corpus/` are the learn-from library for rubric and pack research; neither ever runs inside a screen, and neither is ever pasted into a user's report. The kit never trains on corpus data (the charter: not a trained model). A candidate marker researched from the corpus enters a rubric or pack only with its *not-a-marker-when* calibration line, a source note, and a fixture that exercises it.
+
 ## Compatibility: any LLM, any harness
 
 Every workflow works in three modes, with the same files:
