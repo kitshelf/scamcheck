@@ -4,11 +4,13 @@ ScamCheck screens five families. They share one psychology — **urgency, author
 
 | # | Family | The message | Signature move | Ships |
 |---|---|---|---|---|
-| 1 | **Jobs** | recruiter emails, offer letters, "interviews" | the equipment-purchase check; hired without a real interview; off-platform to a chat app | v0.1.0 |
-| 2 | **Rentals** | listings, landlord replies | deposit before viewing; landlord "currently abroad"; no in-person tour | v0.2.0 |
-| 3 | **Banking** | "bank"/delivery/account texts | urgency; a link to "verify"; authority costume; generic greeting | v0.2.0 |
-| 4 | **Marketplace** | buyer/seller DMs, item deals | overpayment; "my friend will pick it up"; payment-app-only | v0.2.0 |
-| 5 | **Romance** | dating-app and DM conversations | months of affection, then a medical or investment emergency; secrecy request | v0.3.0 |
+| 1 | **Jobs** | recruiter emails, offer letters, "interviews" | the equipment-purchase check; hired without a real interview; off-platform to a chat app | v0.1.0 — rubric shipped |
+| 2 | **Rentals** | listings, landlord replies | deposit before viewing; landlord "currently abroad"; no in-person tour | alpha pack · ships v0.2.0 |
+| 3 | **Banking** | "bank"/delivery/account texts | urgency; a link to "verify"; authority costume; generic greeting | alpha pack · ships v0.2.0 |
+| 4 | **Marketplace** | buyer/seller DMs, item deals | overpayment; "my friend will pick it up"; payment-app-only | alpha pack · ships v0.2.0 |
+| 5 | **Romance** | dating-app and DM conversations | months of affection, then a medical or investment emergency; secrecy request | alpha pack · ships v0.3.0 |
+
+The alpha packs live in [`packs/`](../packs/README.md): researched markers with calibration lines, extending the screen as an optional paste until each family's fixture gauntlet passes and the family ships.
 
 ## The shared psychology
 

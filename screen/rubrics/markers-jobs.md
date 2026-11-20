@@ -2,7 +2,7 @@
 
 **Verified as of: 2026-11-20.** Scam scripts drift monthly; this header is the dating discipline. Re-verify before extending.
 
-**Sources.** Every marker below is a documented pattern: FTC consumer advice (fake-check jobs, gift-card payments, fee-based job scams, package-reshipping "money mule" work), FBI/IC3 reporting (phishing and business-email-compromise lookalikes, identity-document harvesting), and CISA phishing guidance. The fixture corpus (`tests/fixtures/`) plants each marker; its `MANIFEST.md` maps marker to fixture.
+**Sources.** Every marker below is a documented pattern: FTC consumer advice (fake-check jobs, gift-card payments, fee-based job scams, package-reshipping "money mule" work, task scams), FBI/IC3 reporting and PSAs (phishing and business-email-compromise lookalikes, identity-document harvesting, fake job listings targeting applicants' PII), and CISA phishing guidance. The fixture corpus (`tests/fixtures/`) plants each marker; its `MANIFEST.md` maps marker to fixture. The FTC's 2026 alert on job offers arriving by text informs J-PR1's tells.
 
 **How to use.** A marker fires only when the message's own words show the tell, and only when its **Not-a-marker-when** condition does not hold. Quote the line verbatim in the report. Never invent a marker to fill a table; "nothing found" is a valid and useful answer.
 
@@ -75,7 +75,7 @@ Not a marker when: never. One-time codes are for you alone; anyone asking for on
 ## Process anomaly
 
 **J-PR1 · Hired without an interview.** A job confirmed by "review," not by people.
-Tells: "no interview is required. Our automated review process has already confirmed your suitability" · selected "after review of your profile."
+Tells: "no interview is required. Our automated review process has already confirmed your suitability" · selected "after review of your profile" · a job offer arriving by text message from a number you have never spoken to.
 Not a marker when: there was a real loop — video calls, named interviewers, a referenced panel ("the three video calls you already did").
 
 **J-PR2 · Reshipping duties.** Your address becomes the warehouse.
@@ -89,6 +89,10 @@ Not a marker when: never. No employer pays in advance of a signed agreement and 
 **J-PR4 · Reimbursement bait.** The fee comes back — later.
 Tells: "The fee is fully reimbursed after 90 days of employment" · "reimbursed in full within your first paycheck" (attached to an up-front payment).
 Not a marker when: attached to no up-front payment. Reimbursement of *your* costs after start is normal; the bait is the pairing.
+
+**J-PR5 · Task scam: paid to like, pay to unlock.** A "job" of rating or liking things, where you must pay to release your own pay.
+Tells: "get paid to rate or like products online" · "a small deposit unlocks the next task batch" · "pay the fee to withdraw your commission" (gamified job apps; documented by the FTC as driving record reported losses).
+Not a marker when: never. No honest employer pays for likes or charges to release wages.
 
 ## Machine-directed text
 
