@@ -17,7 +17,7 @@ The reasons ScamCheck exists, what it is, and the journeys that define it. Writt
 | Version | 0.1 (2026-11-19) |
 | State | Draft, pre-build |
 | First deliverable | The jobs family (Family 1) end to end, with its fixture corpus |
-| Charter | [`../WHAT-THIS-IS.md`](../WHAT-THIS-IS.md) — overrides this PRD where they disagree |
+| Charter | [`../../WHAT-THIS-IS.md`](../../WHAT-THIS-IS.md) — overrides this PRD where they disagree |
 
 ## How the PRD relates to the kit
 
