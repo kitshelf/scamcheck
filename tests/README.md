@@ -64,7 +64,7 @@ Append this at the end of every recorded run:
 ## Modes and models
 
 - Both modes are evidenced. Full-mode runs (rubric + workflow files) are `*-glm53-screen.md`; quick-mode runs (`SPINE.md` only — the two-paste path most users get) are `*-glm53-spine-screen.md`, recorded on the worked-example fixtures (01, 12, 15, 16). The spine and the rubric are verified in sync, tell by tell, so the modes run the same rules.
-- Model matrix (the world-class bar): runs recorded on GLM-5.3 (glm53). A second run on a local runtime (Ollama, LM Studio, llama.cpp) remains **open** — the kit is offline-complete, so nothing blocks it but a local model on your machine. When it runs, record it the same way: `results/<fixture-id>/<date>-<model>-screen.md`, with honest degradation notes.
+- Model matrix (the world-class bar): baseline **GLM-5.3 — 20/20 + adversarial gate 4/4**. The local box is filled: **Qwen3.5-9B-MLX-4bit on OMLX, thinking disabled — 4/20**, below the documented floor, recorded in full with honest degradation notes. Additional hosted tiers, thinking on: **Qwen3.7-Flash 1/3**, **Qwen3.8-Max-Prime 10/13** (testing closed by user order). Every run is recorded the same way, `results/<fixture-id>/<date>-<model>-screen.md`; the full analysis is [`../docs/learnings/03-local-model-testing.md`](../docs/learnings/03-local-model-testing.md).
 
 ## Recording a run
 

@@ -4,7 +4,7 @@ What ScamCheck has shipped and what is planned. Families are built when a real o
 
 ---
 
-## v0.1.0, planned
+## v0.1.0, shipped
 
 **The jobs family, end to end.**
 

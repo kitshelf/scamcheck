@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![100% Markdown](https://img.shields.io/badge/100%25_Markdown-2ea44f)](#what-it-does)
 [![Privacy](https://img.shields.io/badge/Privacy-local_only,_no_telemetry-8b5cf6)](#what-it-does)
-[![Status: planned](https://img.shields.io/badge/status-planned-lightgrey.svg)](#status)
+[![Status: v0.1.0](https://img.shields.io/badge/status-v0.1.0-2ea44f.svg)](#status)
 
 > Paste the job offer, rental listing, marketplace deal, romance message, or "bank" text — and read it back,
 > quoted, before you reply. Scam markers with evidence, fixed labels, a verify checklist. Never "definitely."
@@ -13,9 +13,10 @@ back to you: quoted, labeled, never invented.
 
 ## Status
 
-**planned** — charter defined; the marker library (~50 markers across five families) and the fixture corpus
-of scam-pattern messages with planted variants are in progress. Not yet usable. Watch or star the repo to
-follow progress.
+**v0.1.0** — the jobs family, end to end. The two-paste screen, the 20-marker jobs rubric with calibration
+lines, 20 synthetic fixtures with recorded runs (baseline GLM-5.3, 20/20; adversarial release gate passed),
+worked examples, the user guide, and alpha packs for rentals, banking, marketplace, and romance. The other
+families ship in v0.2.0 and v0.3.0 — see the [roadmap](ROADMAP.md).
 
 ## What it does
 
@@ -35,18 +36,18 @@ the checklist is where safety comes from.
 
 ## Install
 
-Nothing to install — the kit is Markdown. The spine you paste into any chat ships with the first release.
+Nothing to install — the kit is Markdown. Clone or download, then paste.
 
 ```sh
-# coming soon
+git clone https://github.com/kitshelf/scamcheck.git
 ```
 
 ## Usage
 
-The ninety-second run, coming with the first release:
+The ninety-second run:
 
 1. Open any AI chat — a local model works fully offline.
-2. Paste the kit's spine.
+2. Paste the kit's spine — [`screen/SPINE.md`](screen/SPINE.md), the whole kit in one file.
 3. Redact — strip your name, phone, and account digits (the kit prompts first).
 4. Paste the message. Get the markers quoted, the label, and the verify checklist.
 
@@ -64,8 +65,8 @@ The ninety-second run, coming with the first release:
 
 | Runtime | Support |
 |---|---|
-| Any hosted AI chat | paste-and-run (planned) |
-| Local models (Ollama, LM Studio, llama.cpp, …) | paste-and-run, fully offline (planned) |
+| Any hosted AI chat | paste-and-run |
+| Local models (Ollama, LM Studio, llama.cpp, …) | paste-and-run, fully offline — small models under-detect; see the honest floor note in [`shared/local-models.md`](shared/local-models.md) |
 
 ## Documentation
 

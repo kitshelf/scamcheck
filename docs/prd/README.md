@@ -15,7 +15,7 @@ The reasons ScamCheck exists, what it is, and the journeys that define it. Writt
 | Field | Value |
 |---|---|
 | Version | 0.1 (2026-11-19) |
-| State | Draft, pre-build |
+| State | Built — v0.1.0 shipped the jobs family |
 | First deliverable | The jobs family (Family 1) end to end, with its fixture corpus |
 | Charter | [`../../WHAT-THIS-IS.md`](../../WHAT-THIS-IS.md) — overrides this PRD where they disagree |
 

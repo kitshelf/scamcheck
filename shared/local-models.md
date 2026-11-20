@@ -29,6 +29,19 @@ ScamCheck is a **rubric**, not a model — but a weak model applies a rubric wea
 
 **Below the floor, the kit says so.** A run that cannot hold the rubric must report "this model is below the kit's usable floor — recommend a larger model or a hosted one," rather than emit a weak screen that looks authoritative. An under-powered screen that stays silent is worse than no screen.
 
+## Observed floor (recorded runs)
+
+The note above predicted the shape; these runs are the evidence — [`../tests/results/`](../tests/results/), analysis in [`../docs/learnings/03-local-model-testing.md`](../docs/learnings/03-local-model-testing.md):
+
+| Model | Where | Result |
+|---|---|---|
+| GLM-5.3 | hosted baseline | 20/20 fixtures; adversarial gate 4/4 |
+| Qwen3.5-9B-MLX-4bit | local OMLX, thinking disabled | **4/20** — below the floor: fabricated quotes, skipped calibration lines, both behavior gates dropped |
+| Qwen3.7-Flash | hosted, thinking on | 1/3 on the diagnostic set — the injection surfaced; evidence discipline failed |
+| Qwen3.8-Max-Prime | hosted, thinking on | 10/13 graded — holds the discipline; the residual failures are the kit's own edges (a rubric gap, a gate wording) |
+
+Hybrid models must run in their **native thinking mode**: a thinking-disabled run understates the model and can miss the injection entirely.
+
 ## The two-paste rule, offline
 
 Two pastes: `screen/SPINE.md`, then the redacted message. If the runtime caps paste size, paste the spine in pieces across messages and say "done" — nothing else about the flow changes.
