@@ -10,6 +10,7 @@ Design and product documents. The executable parts of the kit live at the repo r
 | [`prd/01-why.md`](prd/01-why.md) | Why ScamCheck exists: the problem, who it hits, why existing tools miss |
 | [`prd/02-what.md`](prd/02-what.md) | What ScamCheck is: families, mechanics, labels, scope, architecture |
 | [`prd/03-cujs.md`](prd/03-cujs.md) | Critical User Journeys: the nine journeys that define done |
+| [`learnings/README.md`](learnings/README.md) | What development, the corpus, and model testing taught — each learning grounded in its artifact, with the product change it caused |
 
 ## The one rule
 
